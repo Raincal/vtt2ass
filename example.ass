@@ -1,0 +1,2135 @@
+[Script Info]
+
+[Events]
+Format: Start, End, Text
+Dialogue: 00:00:00.00,00:00:06.45, \n[Music]
+Dialogue: 00:00:06.45,00:00:06.46, \n 
+Dialogue: 00:00:06.46,00:00:10.45, \n[Applause]
+Dialogue: 00:00:10.45,00:00:10.46, \n 
+Dialogue: 00:00:10.46,00:00:14.06, \nhello everyone welcome to react calm I'm
+Dialogue: 00:00:14.06,00:00:14.07,hello everyone welcome to react calm I'm\n 
+Dialogue: 00:00:14.07,00:00:15.71,hello everyone welcome to react calm I'm\nreally excited to be here I'm really
+Dialogue: 00:00:15.71,00:00:15.72,really excited to be here I'm really\n 
+Dialogue: 00:00:15.72,00:00:17.30,really excited to be here I'm really\nexcited for the stuff that we have to
+Dialogue: 00:00:17.30,00:00:17.31,excited for the stuff that we have to\n 
+Dialogue: 00:00:17.31,00:00:21.26,excited for the stuff that we have to\nannounce for you this week my name is
+Dialogue: 00:00:21.26,00:00:21.27,announce for you this week my name is\n 
+Dialogue: 00:00:21.27,00:00:23.81,announce for you this week my name is\nSophie Alpert I Sophie bits on the
+Dialogue: 00:00:23.81,00:00:23.82,Sophie Alpert I Sophie bits on the\n 
+Dialogue: 00:00:23.82,00:00:24.62,Sophie Alpert I Sophie bits on the\nInternet
+Dialogue: 00:00:24.62,00:00:24.63,Internet\n 
+Dialogue: 00:00:24.63,00:00:26.84,Internet\nI manage the react core team at Facebook
+Dialogue: 00:00:26.84,00:00:26.85,I manage the react core team at Facebook\n 
+Dialogue: 00:00:26.85,00:00:30.17,I manage the react core team at Facebook\nby any manager that you use react is
+Dialogue: 00:00:30.17,00:00:30.18,by any manager that you use react is\n 
+Dialogue: 00:00:30.18,00:00:30.68,by any manager that you use react is\ndoing great
+Dialogue: 00:00:30.68,00:00:30.69,doing great\n 
+Dialogue: 00:00:30.69,00:00:32.78,doing great\nour NPM downloads are up 70%
+Dialogue: 00:00:32.78,00:00:32.79,our NPM downloads are up 70%\n 
+Dialogue: 00:00:32.79,00:00:35.69,our NPM downloads are up 70%\nyear-over-year the chrome dev tools
+Dialogue: 00:00:35.69,00:00:35.70,year-over-year the chrome dev tools\n 
+Dialogue: 00:00:35.70,00:00:37.82,year-over-year the chrome dev tools\nextension for react dev tools has been
+Dialogue: 00:00:37.82,00:00:37.83,extension for react dev tools has been\n 
+Dialogue: 00:00:37.83,00:00:39.38,extension for react dev tools has been\ninstalled by one and a quarter million
+Dialogue: 00:00:39.38,00:00:39.39,installed by one and a quarter million\n 
+Dialogue: 00:00:39.39,00:00:42.17,installed by one and a quarter million\ndevelopers and I can show you this list
+Dialogue: 00:00:42.17,00:00:42.18,developers and I can show you this list\n 
+Dialogue: 00:00:42.18,00:00:44.66,developers and I can show you this list\nof companies that's using react although
+Dialogue: 00:00:44.66,00:00:44.67,of companies that's using react although\n 
+Dialogue: 00:00:44.67,00:00:46.07,of companies that's using react although\nat this point it's so long it's kind of
+Dialogue: 00:00:46.07,00:00:46.08,at this point it's so long it's kind of\n 
+Dialogue: 00:00:46.08,00:00:47.60,at this point it's so long it's kind of\nhard to tell how much it changes each
+Dialogue: 00:00:47.60,00:00:47.61,hard to tell how much it changes each\n 
+Dialogue: 00:00:47.61,00:00:51.77,hard to tell how much it changes each\nyear for another point of data we can
+Dialogue: 00:00:51.77,00:00:51.78,year for another point of data we can\n 
+Dialogue: 00:00:51.78,00:00:53.90,year for another point of data we can\nlook at Google Trends which shows web
+Dialogue: 00:00:53.90,00:00:53.91,look at Google Trends which shows web\n 
+Dialogue: 00:00:53.91,00:00:55.94,look at Google Trends which shows web\nsearch traffic so it searches for react
+Dialogue: 00:00:55.94,00:00:55.95,search traffic so it searches for react\n 
+Dialogue: 00:00:55.95,00:00:58.16,search traffic so it searches for react\ncontinue to go up hopefully that means
+Dialogue: 00:00:58.16,00:00:58.17,continue to go up hopefully that means\n 
+Dialogue: 00:00:58.17,00:00:59.90,continue to go up hopefully that means\nmore people are using react not that
+Dialogue: 00:00:59.90,00:00:59.91,more people are using react not that\n 
+Dialogue: 00:00:59.91,00:01:04.07,more people are using react not that\nit's getting more confusing but for a
+Dialogue: 00:01:04.07,00:01:04.08,it's getting more confusing but for a\n 
+Dialogue: 00:01:04.08,00:01:06.53,it's getting more confusing but for a\npoint of comparison we can look at a
+Dialogue: 00:01:06.53,00:01:06.54,point of comparison we can look at a\n 
+Dialogue: 00:01:06.54,00:01:09.08,point of comparison we can look at a\ntrade query which we have just passed
+Dialogue: 00:01:09.08,00:01:09.09,trade query which we have just passed\n 
+Dialogue: 00:01:09.09,00:01:15.77,trade query which we have just passed\nfor the first time in history
+Dialogue: 00:01:15.77,00:01:15.78, \n 
+Dialogue: 00:01:15.78,00:01:19.08, \nbut this also shows that we have a lot
+Dialogue: 00:01:19.08,00:01:19.09,but this also shows that we have a lot\n 
+Dialogue: 00:01:19.09,00:01:21.69,but this also shows that we have a lot\nmore room to grow I was procrastinating
+Dialogue: 00:01:21.69,00:01:21.70,more room to grow I was procrastinating\n 
+Dialogue: 00:01:21.70,00:01:24.24,more room to grow I was procrastinating\nwhen I was writing this talk so I was
+Dialogue: 00:01:24.24,00:01:24.25,when I was writing this talk so I was\n 
+Dialogue: 00:01:24.25,00:01:26.25,when I was writing this talk so I was\ncurious to see what else react is more
+Dialogue: 00:01:26.25,00:01:26.26,curious to see what else react is more\n 
+Dialogue: 00:01:26.26,00:01:29.69,curious to see what else react is more\npopular than whoops
+Dialogue: 00:01:29.69,00:01:29.70,popular than whoops\n 
+Dialogue: 00:01:29.70,00:01:35.61,popular than whoops\nspoiled my joke but react is more
+Dialogue: 00:01:35.61,00:01:35.62,spoiled my joke but react is more\n 
+Dialogue: 00:01:35.62,00:01:37.50,spoiled my joke but react is more\npopular I found out than renewable
+Dialogue: 00:01:37.50,00:01:37.51,popular I found out than renewable\n 
+Dialogue: 00:01:37.51,00:01:40.74,popular I found out than renewable\nenergy it's also more popular than
+Dialogue: 00:01:40.74,00:01:40.75,energy it's also more popular than\n 
+Dialogue: 00:01:40.75,00:01:43.35,energy it's also more popular than\norange juice just think about how common
+Dialogue: 00:01:43.35,00:01:43.36,orange juice just think about how common\n 
+Dialogue: 00:01:43.36,00:01:45.39,orange juice just think about how common\norange juice is right and not only that
+Dialogue: 00:01:45.39,00:01:45.40,orange juice is right and not only that\n 
+Dialogue: 00:01:45.40,00:01:47.31,orange juice is right and not only that\nit's more popular than renewable energy
+Dialogue: 00:01:47.31,00:01:47.32,it's more popular than renewable energy\n 
+Dialogue: 00:01:47.32,00:01:50.01,it's more popular than renewable energy\nand orange juice put together so I think
+Dialogue: 00:01:50.01,00:01:50.02,and orange juice put together so I think\n 
+Dialogue: 00:01:50.02,00:01:53.10,and orange juice put together so I think\nwe have a lot to be proud of but but
+Dialogue: 00:01:53.10,00:01:53.11,we have a lot to be proud of but but\n 
+Dialogue: 00:01:53.11,00:01:56.40,we have a lot to be proud of but but\nenough about these numbers what I really
+Dialogue: 00:01:56.40,00:01:56.41,enough about these numbers what I really\n 
+Dialogue: 00:01:56.41,00:01:59.82,enough about these numbers what I really\nlike to talk about today is our mission
+Dialogue: 00:01:59.82,00:01:59.83,like to talk about today is our mission\n 
+Dialogue: 00:01:59.83,00:02:02.13,like to talk about today is our mission\nwould react
+Dialogue: 00:02:02.13,00:02:02.14,would react\n 
+Dialogue: 00:02:02.14,00:02:03.93,would react\never since react was released in 2013
+Dialogue: 00:02:03.93,00:02:03.94,ever since react was released in 2013\n 
+Dialogue: 00:02:03.94,00:02:05.37,ever since react was released in 2013\nour overarching goal
+Dialogue: 00:02:05.37,00:02:05.38,our overarching goal\n 
+Dialogue: 00:02:05.38,00:02:08.40,our overarching goal\nour primary mission has been to make it
+Dialogue: 00:02:08.40,00:02:08.41,our primary mission has been to make it\n 
+Dialogue: 00:02:08.41,00:02:11.67,our primary mission has been to make it\neasier to build great UIs and so when
+Dialogue: 00:02:11.67,00:02:11.68,easier to build great UIs and so when\n 
+Dialogue: 00:02:11.68,00:02:14.04,easier to build great UIs and so when\nwe're adding new features we always try
+Dialogue: 00:02:14.04,00:02:14.05,we're adding new features we always try\n 
+Dialogue: 00:02:14.05,00:02:15.54,we're adding new features we always try\nto be very deliberate we want to
+Dialogue: 00:02:15.54,00:02:15.55,to be very deliberate we want to\n 
+Dialogue: 00:02:15.55,00:02:16.92,to be very deliberate we want to\nconsider a bunch of things when deciding
+Dialogue: 00:02:16.92,00:02:16.93,consider a bunch of things when deciding\n 
+Dialogue: 00:02:16.93,00:02:19.44,consider a bunch of things when deciding\nwhether to add a new API if it makes it
+Dialogue: 00:02:19.44,00:02:19.45,whether to add a new API if it makes it\n 
+Dialogue: 00:02:19.45,00:02:20.91,whether to add a new API if it makes it\npossible to do something you couldn't do
+Dialogue: 00:02:20.91,00:02:20.92,possible to do something you couldn't do\n 
+Dialogue: 00:02:20.92,00:02:23.40,possible to do something you couldn't do\nbefore if it can dramatically simplify
+Dialogue: 00:02:23.40,00:02:23.41,before if it can dramatically simplify\n 
+Dialogue: 00:02:23.41,00:02:25.86,before if it can dramatically simplify\nthe code around react in your components
+Dialogue: 00:02:25.86,00:02:25.87,the code around react in your components\n 
+Dialogue: 00:02:25.87,00:02:27.39,the code around react in your components\nand libraries so that you all have less
+Dialogue: 00:02:27.39,00:02:27.40,and libraries so that you all have less\n 
+Dialogue: 00:02:27.40,00:02:29.46,and libraries so that you all have less\nwork to do and users have less code to
+Dialogue: 00:02:29.46,00:02:29.47,work to do and users have less code to\n 
+Dialogue: 00:02:29.47,00:02:30.69,work to do and users have less code to\ndownload that's a win
+Dialogue: 00:02:30.69,00:02:30.70,download that's a win\n 
+Dialogue: 00:02:30.70,00:02:33.24,download that's a win\nor if it helps encourage best practices
+Dialogue: 00:02:33.24,00:02:33.25,or if it helps encourage best practices\n 
+Dialogue: 00:02:33.25,00:02:35.07,or if it helps encourage best practices\nlike code splitting if we make it easier
+Dialogue: 00:02:35.07,00:02:35.08,like code splitting if we make it easier\n 
+Dialogue: 00:02:35.08,00:02:37.32,like code splitting if we make it easier\nto code split your app into multiple
+Dialogue: 00:02:37.32,00:02:37.33,to code split your app into multiple\n 
+Dialogue: 00:02:37.33,00:02:39.48,to code split your app into multiple\nbundles then our hope is that your apps
+Dialogue: 00:02:39.48,00:02:39.49,bundles then our hope is that your apps\n 
+Dialogue: 00:02:39.49,00:02:41.34,bundles then our hope is that your apps\nwill end up being faster so that's why
+Dialogue: 00:02:41.34,00:02:41.35,will end up being faster so that's why\n 
+Dialogue: 00:02:41.35,00:02:43.17,will end up being faster so that's why\nwe add things like react dot lazy which
+Dialogue: 00:02:43.17,00:02:43.18,we add things like react dot lazy which\n 
+Dialogue: 00:02:43.18,00:02:44.79,we add things like react dot lazy which\nwe announced two days ago you might have
+Dialogue: 00:02:44.79,00:02:44.80,we announced two days ago you might have\n 
+Dialogue: 00:02:44.80,00:02:48.12,we announced two days ago you might have\nseen it but thinking about this mission
+Dialogue: 00:02:48.12,00:02:48.13,seen it but thinking about this mission\n 
+Dialogue: 00:02:48.13,00:02:50.22,seen it but thinking about this mission\nmake it easier to great to build great
+Dialogue: 00:02:50.22,00:02:50.23,make it easier to great to build great\n 
+Dialogue: 00:02:50.23,00:02:50.88,make it easier to great to build great\nUIs
+Dialogue: 00:02:50.88,00:02:50.89,UIs\n 
+Dialogue: 00:02:50.89,00:02:52.56,UIs\nthere are a lot of different ways that
+Dialogue: 00:02:52.56,00:02:52.57,there are a lot of different ways that\n 
+Dialogue: 00:02:52.57,00:02:55.62,there are a lot of different ways that\nwe approach this one way we do this is
+Dialogue: 00:02:55.62,00:02:55.63,we approach this one way we do this is\n 
+Dialogue: 00:02:55.63,00:02:57.92,we approach this one way we do this is\ntrying to simplify things that are hard
+Dialogue: 00:02:57.92,00:02:57.93,trying to simplify things that are hard\n 
+Dialogue: 00:02:57.93,00:03:01.14,trying to simplify things that are hard\nif you saw Dayton Dan Abramov stalk from
+Dialogue: 00:03:01.14,00:03:01.15,if you saw Dayton Dan Abramov stalk from\n 
+Dialogue: 00:03:01.15,00:03:03.42,if you saw Dayton Dan Abramov stalk from\nJS conf Iceland then you saw a sneak
+Dialogue: 00:03:03.42,00:03:03.43,JS conf Iceland then you saw a sneak\n 
+Dialogue: 00:03:03.43,00:03:06.36,JS conf Iceland then you saw a sneak\npeek at suspense which is our idea about
+Dialogue: 00:03:06.36,00:03:06.37,peek at suspense which is our idea about\n 
+Dialogue: 00:03:06.37,00:03:08.73,peek at suspense which is our idea about\nhow to dramatically simplify what's
+Dialogue: 00:03:08.73,00:03:08.74,how to dramatically simplify what's\n 
+Dialogue: 00:03:08.74,00:03:10.77,how to dramatically simplify what's\nrequired to do data fetching code
+Dialogue: 00:03:10.77,00:03:10.78,required to do data fetching code\n 
+Dialogue: 00:03:10.78,00:03:13.86,required to do data fetching code\nsplitting and any kind of async data
+Dialogue: 00:03:13.86,00:03:13.87,splitting and any kind of async data\n 
+Dialogue: 00:03:13.87,00:03:17.13,splitting and any kind of async data\ndependencies in your app now another way
+Dialogue: 00:03:17.13,00:03:17.14,dependencies in your app now another way\n 
+Dialogue: 00:03:17.14,00:03:19.62,dependencies in your app now another way\nwe try to improve react is by focusing
+Dialogue: 00:03:19.62,00:03:19.63,we try to improve react is by focusing\n 
+Dialogue: 00:03:19.63,00:03:22.44,we try to improve react is by focusing\non performance if your app runs faster
+Dialogue: 00:03:22.44,00:03:22.45,on performance if your app runs faster\n 
+Dialogue: 00:03:22.45,00:03:24.45,on performance if your app runs faster\nyour users are going to enjoy using it
+Dialogue: 00:03:24.45,00:03:24.46,your users are going to enjoy using it\n 
+Dialogue: 00:03:24.46,00:03:26.20,your users are going to enjoy using it\nmore conversely if your
+Dialogue: 00:03:26.20,00:03:26.21,more conversely if your\n 
+Dialogue: 00:03:26.21,00:03:29.02,more conversely if your\nis laggy if your app is janky then there
+Dialogue: 00:03:29.02,00:03:29.03,is laggy if your app is janky then there\n 
+Dialogue: 00:03:29.03,00:03:30.34,is laggy if your app is janky then there\nyour users aren't gonna have a great
+Dialogue: 00:03:30.34,00:03:30.35,your users aren't gonna have a great\n 
+Dialogue: 00:03:30.35,00:03:33.10,your users aren't gonna have a great\ntime so we try to spend time on making
+Dialogue: 00:03:33.10,00:03:33.11,time so we try to spend time on making\n 
+Dialogue: 00:03:33.11,00:03:35.53,time so we try to spend time on making\nreact itself faster because if react is
+Dialogue: 00:03:35.53,00:03:35.54,react itself faster because if react is\n 
+Dialogue: 00:03:35.54,00:03:37.42,react itself faster because if react is\nfaster out of the box you all need to
+Dialogue: 00:03:37.42,00:03:37.43,faster out of the box you all need to\n 
+Dialogue: 00:03:37.43,00:03:39.87,faster out of the box you all need to\nspend less time optimizing your own code
+Dialogue: 00:03:39.87,00:03:39.88,spend less time optimizing your own code\n 
+Dialogue: 00:03:39.88,00:03:42.31,spend less time optimizing your own code\none recent performance related effort
+Dialogue: 00:03:42.31,00:03:42.32,one recent performance related effort\n 
+Dialogue: 00:03:42.32,00:03:44.98,one recent performance related effort\nthat Dan also talked about in Iceland as
+Dialogue: 00:03:44.98,00:03:44.99,that Dan also talked about in Iceland as\n 
+Dialogue: 00:03:44.99,00:03:48.10,that Dan also talked about in Iceland as\nwhat we call time slicing this is going
+Dialogue: 00:03:48.10,00:03:48.11,what we call time slicing this is going\n 
+Dialogue: 00:03:48.11,00:03:49.66,what we call time slicing this is going\nto let you make sure that the most
+Dialogue: 00:03:49.66,00:03:49.67,to let you make sure that the most\n 
+Dialogue: 00:03:49.67,00:03:51.49,to let you make sure that the most\nimportant renders in your app are
+Dialogue: 00:03:51.49,00:03:51.50,important renders in your app are\n 
+Dialogue: 00:03:51.50,00:03:53.53,important renders in your app are\nprocessed first in order to unblock the
+Dialogue: 00:03:53.53,00:03:53.54,processed first in order to unblock the\n 
+Dialogue: 00:03:53.54,00:03:55.48,processed first in order to unblock the\nmain thread and make your apps faster
+Dialogue: 00:03:55.48,00:03:55.49,main thread and make your apps faster\n 
+Dialogue: 00:03:55.49,00:03:58.87,main thread and make your apps faster\nand a third angle that we approach our
+Dialogue: 00:03:58.87,00:03:58.88,and a third angle that we approach our\n 
+Dialogue: 00:03:58.88,00:04:01.69,and a third angle that we approach our\nmission from is developer tooling to
+Dialogue: 00:04:01.69,00:04:01.70,mission from is developer tooling to\n 
+Dialogue: 00:04:01.70,00:04:03.43,mission from is developer tooling to\nhelp you debug and understand your app
+Dialogue: 00:04:03.43,00:04:03.44,help you debug and understand your app\n 
+Dialogue: 00:04:03.44,00:04:06.25,help you debug and understand your app\nfrom the start react has included
+Dialogue: 00:04:06.25,00:04:06.26,from the start react has included\n 
+Dialogue: 00:04:06.26,00:04:08.31,from the start react has included\ndeveloper friendly warnings to help
+Dialogue: 00:04:08.31,00:04:08.32,developer friendly warnings to help\n 
+Dialogue: 00:04:08.32,00:04:10.51,developer friendly warnings to help\npoint out problems before you might
+Dialogue: 00:04:10.51,00:04:10.52,point out problems before you might\n 
+Dialogue: 00:04:10.52,00:04:12.46,point out problems before you might\notherwise notice them and we've had the
+Dialogue: 00:04:12.46,00:04:12.47,otherwise notice them and we've had the\n 
+Dialogue: 00:04:12.47,00:04:14.29,otherwise notice them and we've had the\nreactive tools extension which lets you
+Dialogue: 00:04:14.29,00:04:14.30,reactive tools extension which lets you\n 
+Dialogue: 00:04:14.30,00:04:16.06,reactive tools extension which lets you\ninspect and debug your component trees
+Dialogue: 00:04:16.06,00:04:16.07,inspect and debug your component trees\n 
+Dialogue: 00:04:16.07,00:04:19.06,inspect and debug your component trees\nand in react 16-5 we introduced a new
+Dialogue: 00:04:19.06,00:04:19.07,and in react 16-5 we introduced a new\n 
+Dialogue: 00:04:19.07,00:04:23.89,and in react 16-5 we introduced a new\nprofiler it's a second I don't know
+Dialogue: 00:04:23.89,00:04:23.90,profiler it's a second I don't know\n 
+Dialogue: 00:04:23.90,00:04:26.08,profiler it's a second I don't know\nwhat's up with this clicker a second tab
+Dialogue: 00:04:26.08,00:04:26.09,what's up with this clicker a second tab\n 
+Dialogue: 00:04:26.09,00:04:28.00,what's up with this clicker a second tab\ntheir profiler tab that helps you
+Dialogue: 00:04:28.00,00:04:28.01,their profiler tab that helps you\n 
+Dialogue: 00:04:28.01,00:04:29.50,their profiler tab that helps you\nunderstand what's happening in your app
+Dialogue: 00:04:29.50,00:04:29.51,understand what's happening in your app\n 
+Dialogue: 00:04:29.51,00:04:34.63,understand what's happening in your app\nand optimize it so suspense time slicing
+Dialogue: 00:04:34.63,00:04:34.64,and optimize it so suspense time slicing\n 
+Dialogue: 00:04:34.64,00:04:37.06,and optimize it so suspense time slicing\nand the profiler are three of the new
+Dialogue: 00:04:37.06,00:04:37.07,and the profiler are three of the new\n 
+Dialogue: 00:04:37.07,00:04:38.50,and the profiler are three of the new\nfeatures that we've been working on over
+Dialogue: 00:04:38.50,00:04:38.51,features that we've been working on over\n 
+Dialogue: 00:04:38.51,00:04:40.63,features that we've been working on over\nthe last year we're really excited to
+Dialogue: 00:04:40.63,00:04:40.64,the last year we're really excited to\n 
+Dialogue: 00:04:40.64,00:04:42.28,the last year we're really excited to\ntell you more about them but that's
+Dialogue: 00:04:42.28,00:04:42.29,tell you more about them but that's\n 
+Dialogue: 00:04:42.29,00:04:44.11,tell you more about them but that's\nactually not what I'm here to talk about
+Dialogue: 00:04:44.11,00:04:44.12,actually not what I'm here to talk about\n 
+Dialogue: 00:04:44.12,00:04:45.49,actually not what I'm here to talk about\nyou're gonna have to wait till Andrew
+Dialogue: 00:04:45.49,00:04:45.50,you're gonna have to wait till Andrew\n 
+Dialogue: 00:04:45.50,00:04:47.14,you're gonna have to wait till Andrew\nand Brian's talk tomorrow morning to
+Dialogue: 00:04:47.14,00:04:47.15,and Brian's talk tomorrow morning to\n 
+Dialogue: 00:04:47.15,00:04:50.11,and Brian's talk tomorrow morning to\nhear about that today I want to take a
+Dialogue: 00:04:50.11,00:04:50.12,hear about that today I want to take a\n 
+Dialogue: 00:04:50.12,00:04:51.99,hear about that today I want to take a\nstep back and focus on something else
+Dialogue: 00:04:51.99,00:04:52.00,step back and focus on something else\n 
+Dialogue: 00:04:52.00,00:04:55.39,step back and focus on something else\nwhat I like to ask is what in react
+Dialogue: 00:04:55.39,00:04:55.40,what I like to ask is what in react\n 
+Dialogue: 00:04:55.40,00:04:58.48,what I like to ask is what in react\nstill sucks and I have three problems
+Dialogue: 00:04:58.48,00:04:58.49,still sucks and I have three problems\n 
+Dialogue: 00:04:58.49,00:05:01.33,still sucks and I have three problems\nthat I would like to talk through the
+Dialogue: 00:05:01.33,00:05:01.34,that I would like to talk through the\n 
+Dialogue: 00:05:01.34,00:05:03.73,that I would like to talk through the\nfirst one is reusing logic between
+Dialogue: 00:05:03.73,00:05:03.74,first one is reusing logic between\n 
+Dialogue: 00:05:03.74,00:05:07.24,first one is reusing logic between\nmultiple components in react our main
+Dialogue: 00:05:07.24,00:05:07.25,multiple components in react our main\n 
+Dialogue: 00:05:07.25,00:05:08.95,multiple components in react our main\nbuilding block for our applications is a
+Dialogue: 00:05:08.95,00:05:08.96,building block for our applications is a\n 
+Dialogue: 00:05:08.96,00:05:10.63,building block for our applications is a\ncomponent and components form the
+Dialogue: 00:05:10.63,00:05:10.64,component and components form the\n 
+Dialogue: 00:05:10.64,00:05:13.27,component and components form the\nfoundation of the two main patterns for
+Dialogue: 00:05:13.27,00:05:13.28,foundation of the two main patterns for\n 
+Dialogue: 00:05:13.28,00:05:14.95,foundation of the two main patterns for\nsharing code in react apps between
+Dialogue: 00:05:14.95,00:05:14.96,sharing code in react apps between\n 
+Dialogue: 00:05:14.96,00:05:16.42,sharing code in react apps between\ncomponents which are higher-order
+Dialogue: 00:05:16.42,00:05:16.43,components which are higher-order\n 
+Dialogue: 00:05:16.43,00:05:19.48,components which are higher-order\ncomponents and render props both of
+Dialogue: 00:05:19.48,00:05:19.49,components and render props both of\n 
+Dialogue: 00:05:19.49,00:05:21.04,components and render props both of\nthese patterns are great for some cases
+Dialogue: 00:05:21.04,00:05:21.05,these patterns are great for some cases\n 
+Dialogue: 00:05:21.05,00:05:22.90,these patterns are great for some cases\nbut they also come with a significant
+Dialogue: 00:05:22.90,00:05:22.91,but they also come with a significant\n 
+Dialogue: 00:05:22.91,00:05:25.30,but they also come with a significant\ndownside you need to restructure your
+Dialogue: 00:05:25.30,00:05:25.31,downside you need to restructure your\n 
+Dialogue: 00:05:25.31,00:05:26.89,downside you need to restructure your\napp anytime you want to pull one of
+Dialogue: 00:05:26.89,00:05:26.90,app anytime you want to pull one of\n 
+Dialogue: 00:05:26.90,00:05:29.17,app anytime you want to pull one of\nthese in and more complicated examples
+Dialogue: 00:05:29.17,00:05:29.18,these in and more complicated examples\n 
+Dialogue: 00:05:29.18,00:05:31.53,these in and more complicated examples\nthis leads to what I call wrapper hell
+Dialogue: 00:05:31.53,00:05:31.54,this leads to what I call wrapper hell\n 
+Dialogue: 00:05:31.54,00:05:33.88,this leads to what I call wrapper hell\nmost of us have seen component trees
+Dialogue: 00:05:33.88,00:05:33.89,most of us have seen component trees\n 
+Dialogue: 00:05:33.89,00:05:37.38,most of us have seen component trees\nthat look something like this
+Dialogue: 00:05:37.38,00:05:37.39,that look something like this\n 
+Dialogue: 00:05:37.39,00:05:41.68,that look something like this\nand the the nesting you end up with
+Dialogue: 00:05:41.68,00:05:41.69,and the the nesting you end up with\n 
+Dialogue: 00:05:41.69,00:05:43.39,and the the nesting you end up with\nmakes it difficult to follow the data
+Dialogue: 00:05:43.39,00:05:43.40,makes it difficult to follow the data\n 
+Dialogue: 00:05:43.40,00:05:45.16,makes it difficult to follow the data\nflow through the app it would be really
+Dialogue: 00:05:45.16,00:05:45.17,flow through the app it would be really\n 
+Dialogue: 00:05:45.17,00:05:47.17,flow through the app it would be really\nnice if there was some way to reuse this
+Dialogue: 00:05:47.17,00:05:47.18,nice if there was some way to reuse this\n 
+Dialogue: 00:05:47.18,00:05:48.88,nice if there was some way to reuse this\nsort of stateful logic without needing
+Dialogue: 00:05:48.88,00:05:48.89,sort of stateful logic without needing\n 
+Dialogue: 00:05:48.89,00:05:51.69,sort of stateful logic without needing\nto change the component hierarchy right
+Dialogue: 00:05:51.69,00:05:51.70,to change the component hierarchy right\n 
+Dialogue: 00:05:51.70,00:05:53.80,to change the component hierarchy right\nthe second problem I would like to talk
+Dialogue: 00:05:53.80,00:05:53.81,the second problem I would like to talk\n 
+Dialogue: 00:05:53.81,00:05:56.80,the second problem I would like to talk\nabout is a giant components whose logic
+Dialogue: 00:05:56.80,00:05:56.81,about is a giant components whose logic\n 
+Dialogue: 00:05:56.81,00:05:59.11,about is a giant components whose logic\nis just sort of a tangled mess when you
+Dialogue: 00:05:59.11,00:05:59.12,is just sort of a tangled mess when you\n 
+Dialogue: 00:05:59.12,00:06:00.67,is just sort of a tangled mess when you\nlook at a thousand line react component
+Dialogue: 00:06:00.67,00:06:00.68,look at a thousand line react component\n 
+Dialogue: 00:06:00.68,00:06:03.28,look at a thousand line react component\nchances are the logic is going to be
+Dialogue: 00:06:03.28,00:06:03.29,chances are the logic is going to be\n 
+Dialogue: 00:06:03.29,00:06:04.27,chances are the logic is going to be\nsplit across a lot of different
+Dialogue: 00:06:04.27,00:06:04.28,split across a lot of different\n 
+Dialogue: 00:06:04.28,00:06:06.01,split across a lot of different\nlifecycle methods in a way that's pretty
+Dialogue: 00:06:06.01,00:06:06.02,lifecycle methods in a way that's pretty\n 
+Dialogue: 00:06:06.02,00:06:08.17,lifecycle methods in a way that's pretty\ndifficult to follow let's look at an
+Dialogue: 00:06:08.17,00:06:08.18,difficult to follow let's look at an\n 
+Dialogue: 00:06:08.18,00:06:10.39,difficult to follow let's look at an\nexample let's say we have a class
+Dialogue: 00:06:10.39,00:06:10.40,example let's say we have a class\n 
+Dialogue: 00:06:10.40,00:06:12.52,example let's say we have a class\ncomponent and in its component did mount
+Dialogue: 00:06:12.52,00:06:12.53,component and in its component did mount\n 
+Dialogue: 00:06:12.53,00:06:14.02,component and in its component did mount\nmethod it does a few different things it
+Dialogue: 00:06:14.02,00:06:14.03,method it does a few different things it\n 
+Dialogue: 00:06:14.03,00:06:15.85,method it does a few different things it\nsubscribes to a datastore it sends off a
+Dialogue: 00:06:15.85,00:06:15.86,subscribes to a datastore it sends off a\n 
+Dialogue: 00:06:15.86,00:06:17.67,subscribes to a datastore it sends off a\nnetwork request and it starts a timer
+Dialogue: 00:06:17.67,00:06:17.68,network request and it starts a timer\n 
+Dialogue: 00:06:17.68,00:06:20.92,network request and it starts a timer\nwell if we look at the component we'll
+Dialogue: 00:06:20.92,00:06:20.93,well if we look at the component we'll\n 
+Dialogue: 00:06:20.93,00:06:22.96,well if we look at the component we'll\nunmount method then we're going to see
+Dialogue: 00:06:22.96,00:06:22.97,unmount method then we're going to see\n 
+Dialogue: 00:06:22.97,00:06:24.61,unmount method then we're going to see\nbasically the exact three opposite
+Dialogue: 00:06:24.61,00:06:24.62,basically the exact three opposite\n 
+Dialogue: 00:06:24.62,00:06:26.11,basically the exact three opposite\nthings it needs to unsubscribe from the
+Dialogue: 00:06:26.11,00:06:26.12,things it needs to unsubscribe from the\n 
+Dialogue: 00:06:26.12,00:06:28.12,things it needs to unsubscribe from the\nstore it needs to cancel that Network
+Dialogue: 00:06:28.12,00:06:28.13,store it needs to cancel that Network\n 
+Dialogue: 00:06:28.13,00:06:29.80,store it needs to cancel that Network\nrequest and it needs to stop the timers
+Dialogue: 00:06:29.80,00:06:29.81,request and it needs to stop the timers\n 
+Dialogue: 00:06:29.81,00:06:31.78,request and it needs to stop the timers\nand when it comes to implementing
+Dialogue: 00:06:31.78,00:06:31.79,and when it comes to implementing\n 
+Dialogue: 00:06:31.79,00:06:33.97,and when it comes to implementing\ncomponent did update the logic tends to
+Dialogue: 00:06:33.97,00:06:33.98,component did update the logic tends to\n 
+Dialogue: 00:06:33.98,00:06:35.26,component did update the logic tends to\nget even trickier because you need to
+Dialogue: 00:06:35.26,00:06:35.27,get even trickier because you need to\n 
+Dialogue: 00:06:35.27,00:06:37.99,get even trickier because you need to\ncompare the old and new props and and
+Dialogue: 00:06:37.99,00:06:38.00,compare the old and new props and and\n 
+Dialogue: 00:06:38.00,00:06:41.29,compare the old and new props and and\nand also mirror it again the same tasks
+Dialogue: 00:06:41.29,00:06:41.30,and also mirror it again the same tasks\n 
+Dialogue: 00:06:41.30,00:06:43.03,and also mirror it again the same tasks\nthat you have in your other lifecycle
+Dialogue: 00:06:43.03,00:06:43.04,that you have in your other lifecycle\n 
+Dialogue: 00:06:43.04,00:06:49.12,that you have in your other lifecycle\nmethods in this example each call here
+Dialogue: 00:06:49.12,00:06:49.13,methods in this example each call here\n 
+Dialogue: 00:06:49.13,00:06:50.65,methods in this example each call here\nis just one line so this is actually a
+Dialogue: 00:06:50.65,00:06:50.66,is just one line so this is actually a\n 
+Dialogue: 00:06:50.66,00:06:52.21,is just one line so this is actually a\nlot simpler than what you normally see
+Dialogue: 00:06:52.21,00:06:52.22,lot simpler than what you normally see\n 
+Dialogue: 00:06:52.22,00:06:53.92,lot simpler than what you normally see\nin your components in real-world
+Dialogue: 00:06:53.92,00:06:53.93,in your components in real-world\n 
+Dialogue: 00:06:53.93,00:06:55.63,in your components in real-world\ncomponents you often end up with an even
+Dialogue: 00:06:55.63,00:06:55.64,components you often end up with an even\n 
+Dialogue: 00:06:55.64,00:06:58.03,components you often end up with an even\nmore tangled mess because each each
+Dialogue: 00:06:58.03,00:06:58.04,more tangled mess because each each\n 
+Dialogue: 00:06:58.04,00:06:59.83,more tangled mess because each each\nindividual task has to be split across
+Dialogue: 00:06:59.83,00:06:59.84,individual task has to be split across\n 
+Dialogue: 00:06:59.84,00:07:02.14,individual task has to be split across\ndifferent life cycle methods that makes
+Dialogue: 00:07:02.14,00:07:02.15,different life cycle methods that makes\n 
+Dialogue: 00:07:02.15,00:07:04.21,different life cycle methods that makes\nit hard to tell if for instance you
+Dialogue: 00:07:04.21,00:07:04.22,it hard to tell if for instance you\n 
+Dialogue: 00:07:04.22,00:07:06.10,it hard to tell if for instance you\nforget to clean up one of the resources
+Dialogue: 00:07:06.10,00:07:06.11,forget to clean up one of the resources\n 
+Dialogue: 00:07:06.11,00:07:07.54,forget to clean up one of the resources\nwhen you're unmounting your component
+Dialogue: 00:07:07.54,00:07:07.55,when you're unmounting your component\n 
+Dialogue: 00:07:07.55,00:07:08.74,when you're unmounting your component\nit's pretty hard to see that from the
+Dialogue: 00:07:08.74,00:07:08.75,it's pretty hard to see that from the\n 
+Dialogue: 00:07:08.75,00:07:13.77,it's pretty hard to see that from the\ncode and the third thing that sucks is
+Dialogue: 00:07:13.77,00:07:13.78,code and the third thing that sucks is\n 
+Dialogue: 00:07:13.78,00:07:17.11,code and the third thing that sucks is\nthe class understanding classes in
+Dialogue: 00:07:17.11,00:07:17.12,the class understanding classes in\n 
+Dialogue: 00:07:17.12,00:07:18.55,the class understanding classes in\nJavaScript can be pretty tricky and
+Dialogue: 00:07:18.55,00:07:18.56,JavaScript can be pretty tricky and\n 
+Dialogue: 00:07:18.56,00:07:22.18,JavaScript can be pretty tricky and\ntoday we require you to use class
+Dialogue: 00:07:22.18,00:07:22.19,today we require you to use class\n 
+Dialogue: 00:07:22.19,00:07:24.58,today we require you to use class\ncomponents in order to access state and
+Dialogue: 00:07:24.58,00:07:24.59,components in order to access state and\n 
+Dialogue: 00:07:24.59,00:07:26.95,components in order to access state and\nlife cycles if you've ever taken a
+Dialogue: 00:07:26.95,00:07:26.96,life cycles if you've ever taken a\n 
+Dialogue: 00:07:26.96,00:07:28.81,life cycles if you've ever taken a\nfunction component and converted it to a
+Dialogue: 00:07:28.81,00:07:28.82,function component and converted it to a\n 
+Dialogue: 00:07:28.82,00:07:30.73,function component and converted it to a\nclass to add some state you know that
+Dialogue: 00:07:30.73,00:07:30.74,class to add some state you know that\n 
+Dialogue: 00:07:30.74,00:07:31.81,class to add some state you know that\nthere's a fair amount of boilerplate
+Dialogue: 00:07:31.81,00:07:31.82,there's a fair amount of boilerplate\n 
+Dialogue: 00:07:31.82,00:07:35.02,there's a fair amount of boilerplate\nthat's required in order to just define
+Dialogue: 00:07:35.02,00:07:35.03,that's required in order to just define\n 
+Dialogue: 00:07:35.03,00:07:37.78,that's required in order to just define\na class component most beginners and
+Dialogue: 00:07:37.78,00:07:37.79,a class component most beginners and\n 
+Dialogue: 00:07:37.79,00:07:40.59,a class component most beginners and\nmany experienced devs also tell us that
+Dialogue: 00:07:40.59,00:07:40.60,many experienced devs also tell us that\n 
+Dialogue: 00:07:40.60,00:07:43.75,many experienced devs also tell us that\nthe way binding and this work in classes
+Dialogue: 00:07:43.75,00:07:43.76,the way binding and this work in classes\n 
+Dialogue: 00:07:43.76,00:07:46.09,the way binding and this work in classes\nis pretty confusing it's annoying to
+Dialogue: 00:07:46.09,00:07:46.10,is pretty confusing it's annoying to\n 
+Dialogue: 00:07:46.10,00:07:47.95,is pretty confusing it's annoying to\nhave to think about and we also
+Dialogue: 00:07:47.95,00:07:47.96,have to think about and we also\n 
+Dialogue: 00:07:47.96,00:07:49.45,have to think about and we also\nfrequently hear that people don't
+Dialogue: 00:07:49.45,00:07:49.46,frequently hear that people don't\n 
+Dialogue: 00:07:49.46,00:07:50.02,frequently hear that people don't\nexactly
+Dialogue: 00:07:50.02,00:07:50.03,exactly\n 
+Dialogue: 00:07:50.03,00:07:51.52,exactly\nknow when to use function components
+Dialogue: 00:07:51.52,00:07:51.53,know when to use function components\n 
+Dialogue: 00:07:51.53,00:07:52.87,know when to use function components\npartly because there's always this fear
+Dialogue: 00:07:52.87,00:07:52.88,partly because there's always this fear\n 
+Dialogue: 00:07:52.88,00:07:54.64,partly because there's always this fear\nthat you're gonna have to convert it to
+Dialogue: 00:07:54.64,00:07:54.65,that you're gonna have to convert it to\n 
+Dialogue: 00:07:54.65,00:07:56.80,that you're gonna have to convert it to\na class later anyway and so you're like
+Dialogue: 00:07:56.80,00:07:56.81,a class later anyway and so you're like\n 
+Dialogue: 00:07:56.81,00:07:59.98,a class later anyway and so you're like\nshould I should I do it now I don't know
+Dialogue: 00:07:59.98,00:07:59.99,should I should I do it now I don't know\n 
+Dialogue: 00:07:59.99,00:08:02.77,should I should I do it now I don't know\nand so I claim classes are hard for
+Dialogue: 00:08:02.77,00:08:02.78,and so I claim classes are hard for\n 
+Dialogue: 00:08:02.78,00:08:07.24,and so I claim classes are hard for\nhumans but it's not just humans I claim
+Dialogue: 00:08:07.24,00:08:07.25,humans but it's not just humans I claim\n 
+Dialogue: 00:08:07.25,00:08:09.75,humans but it's not just humans I claim\nthe classes are also hard for machines
+Dialogue: 00:08:09.75,00:08:09.76,the classes are also hard for machines\n 
+Dialogue: 00:08:09.76,00:08:11.83,the classes are also hard for machines\nif you ever looked at a minute ID
+Dialogue: 00:08:11.83,00:08:11.84,if you ever looked at a minute ID\n 
+Dialogue: 00:08:11.84,00:08:13.48,if you ever looked at a minute ID\ncomponent file you'll see that all the
+Dialogue: 00:08:13.48,00:08:13.49,component file you'll see that all the\n 
+Dialogue: 00:08:13.49,00:08:16.63,component file you'll see that all the\nmethod names are still unmanned that if
+Dialogue: 00:08:16.63,00:08:16.64,method names are still unmanned that if\n 
+Dialogue: 00:08:16.64,00:08:18.07,method names are still unmanned that if\nyou have a method that's completely
+Dialogue: 00:08:18.07,00:08:18.08,you have a method that's completely\n 
+Dialogue: 00:08:18.08,00:08:19.66,you have a method that's completely\nunused it doesn't get stripped out
+Dialogue: 00:08:19.66,00:08:19.67,unused it doesn't get stripped out\n 
+Dialogue: 00:08:19.67,00:08:21.61,unused it doesn't get stripped out\nthat's because it's hard to tell at
+Dialogue: 00:08:21.61,00:08:21.62,that's because it's hard to tell at\n 
+Dialogue: 00:08:21.62,00:08:22.24,that's because it's hard to tell at\ncompile time
+Dialogue: 00:08:22.24,00:08:22.25,compile time\n 
+Dialogue: 00:08:22.25,00:08:24.96,compile time\nexactly how all the methods fit together
+Dialogue: 00:08:24.96,00:08:24.97,exactly how all the methods fit together\n 
+Dialogue: 00:08:24.97,00:08:27.55,exactly how all the methods fit together\nwe also found that classes make it
+Dialogue: 00:08:27.55,00:08:27.56,we also found that classes make it\n 
+Dialogue: 00:08:27.56,00:08:29.20,we also found that classes make it\ndifficult for us to implement hot
+Dialogue: 00:08:29.20,00:08:29.21,difficult for us to implement hot\n 
+Dialogue: 00:08:29.21,00:08:32.98,difficult for us to implement hot\nreloading reliably and finally when we
+Dialogue: 00:08:32.98,00:08:32.99,reloading reliably and finally when we\n 
+Dialogue: 00:08:32.99,00:08:34.66,reloading reliably and finally when we\nwere prototyping an optimizing compiler
+Dialogue: 00:08:34.66,00:08:34.67,were prototyping an optimizing compiler\n 
+Dialogue: 00:08:34.67,00:08:36.73,were prototyping an optimizing compiler\nto improve the performance of react
+Dialogue: 00:08:36.73,00:08:36.74,to improve the performance of react\n 
+Dialogue: 00:08:36.74,00:08:39.25,to improve the performance of react\ncomponents we found that classes can
+Dialogue: 00:08:39.25,00:08:39.26,components we found that classes can\n 
+Dialogue: 00:08:39.26,00:08:41.26,components we found that classes can\nencourage some patterns that make it a
+Dialogue: 00:08:41.26,00:08:41.27,encourage some patterns that make it a\n 
+Dialogue: 00:08:41.27,00:08:45.94,encourage some patterns that make it a\nlot harder for compilers to optimize so
+Dialogue: 00:08:45.94,00:08:45.95,lot harder for compilers to optimize so\n 
+Dialogue: 00:08:45.95,00:08:47.32,lot harder for compilers to optimize so\nhere are the three problems that we have
+Dialogue: 00:08:47.32,00:08:47.33,here are the three problems that we have\n 
+Dialogue: 00:08:47.33,00:08:52.23,here are the three problems that we have\nreusing logic giant components and and
+Dialogue: 00:08:52.23,00:08:52.24,reusing logic giant components and and\n 
+Dialogue: 00:08:52.24,00:08:55.33,reusing logic giant components and and\nclasses so reusing logic because you
+Dialogue: 00:08:55.33,00:08:55.34,classes so reusing logic because you\n 
+Dialogue: 00:08:55.34,00:08:56.70,classes so reusing logic because you\noften end up with this wrapper hell
+Dialogue: 00:08:56.70,00:08:56.71,often end up with this wrapper hell\n 
+Dialogue: 00:08:56.71,00:08:59.17,often end up with this wrapper hell\ngiant components because you have the
+Dialogue: 00:08:59.17,00:08:59.18,giant components because you have the\n 
+Dialogue: 00:08:59.18,00:09:01.06,giant components because you have the\nlogic split across different life cycles
+Dialogue: 00:09:01.06,00:09:01.07,logic split across different life cycles\n 
+Dialogue: 00:09:01.07,00:09:04.15,logic split across different life cycles\nand classes which are difficult for both
+Dialogue: 00:09:04.15,00:09:04.16,and classes which are difficult for both\n 
+Dialogue: 00:09:04.16,00:09:07.39,and classes which are difficult for both\nhumans and machines so we think we have
+Dialogue: 00:09:07.39,00:09:07.40,humans and machines so we think we have\n 
+Dialogue: 00:09:07.40,00:09:09.46,humans and machines so we think we have\na solution that can help with all three
+Dialogue: 00:09:09.46,00:09:09.47,a solution that can help with all three\n 
+Dialogue: 00:09:09.47,00:09:11.35,a solution that can help with all three\nof these we're really excited to share
+Dialogue: 00:09:11.35,00:09:11.36,of these we're really excited to share\n 
+Dialogue: 00:09:11.36,00:09:13.57,of these we're really excited to share\nit with you to tell you more about it I
+Dialogue: 00:09:13.57,00:09:13.58,it with you to tell you more about it I\n 
+Dialogue: 00:09:13.58,00:09:16.20,it with you to tell you more about it I\nwant to welcome up Dan Abramov
+Dialogue: 00:09:16.20,00:09:16.21,want to welcome up Dan Abramov\n 
+Dialogue: 00:09:16.21,00:09:27.75,want to welcome up Dan Abramov\n[Applause]
+Dialogue: 00:09:27.75,00:09:27.76,[Applause]\n 
+Dialogue: 00:09:27.76,00:09:34.30,[Applause]\nhi my name is Dan I work on the react
+Dialogue: 00:09:34.30,00:09:34.31,hi my name is Dan I work on the react\n 
+Dialogue: 00:09:34.31,00:09:37.48,hi my name is Dan I work on the react\nteam and this is my first time in three
+Dialogue: 00:09:37.48,00:09:37.49,team and this is my first time in three\n 
+Dialogue: 00:09:37.49,00:09:40.36,team and this is my first time in three\naccount
+Dialogue: 00:09:40.36,00:09:40.37, \n 
+Dialogue: 00:09:40.37,00:09:50.12, \n[Applause]
+Dialogue: 00:09:50.12,00:09:50.13, \n 
+Dialogue: 00:09:50.13,00:09:51.89, \nand so so if we talked about these
+Dialogue: 00:09:51.89,00:09:51.90,and so so if we talked about these\n 
+Dialogue: 00:09:51.90,00:09:54.62,and so so if we talked about these\nproblems that I think most of you have
+Dialogue: 00:09:54.62,00:09:54.63,problems that I think most of you have\n 
+Dialogue: 00:09:54.63,00:09:58.01,problems that I think most of you have\nencountered in react development and of
+Dialogue: 00:09:58.01,00:09:58.02,encountered in react development and of\n 
+Dialogue: 00:09:58.02,00:09:59.39,encountered in react development and of\ncourse we could approach these problems
+Dialogue: 00:09:59.39,00:09:59.40,course we could approach these problems\n 
+Dialogue: 00:09:59.40,00:10:02.24,course we could approach these problems\none by one so we could try to solve them
+Dialogue: 00:10:02.24,00:10:02.25,one by one so we could try to solve them\n 
+Dialogue: 00:10:02.25,00:10:05.57,one by one so we could try to solve them\nin isolation but it seems like solving
+Dialogue: 00:10:05.57,00:10:05.58,in isolation but it seems like solving\n 
+Dialogue: 00:10:05.58,00:10:08.59,in isolation but it seems like solving\none of them makes some other one worse
+Dialogue: 00:10:08.59,00:10:08.60,one of them makes some other one worse\n 
+Dialogue: 00:10:08.60,00:10:11.93,one of them makes some other one worse\nso for example if we try to solve the
+Dialogue: 00:10:11.93,00:10:11.94,so for example if we try to solve the\n 
+Dialogue: 00:10:11.94,00:10:14.81,so for example if we try to solve the\nrapper hell by putting more logic into
+Dialogue: 00:10:14.81,00:10:14.82,rapper hell by putting more logic into\n 
+Dialogue: 00:10:14.82,00:10:17.51,rapper hell by putting more logic into\ncomponents themselves then our
+Dialogue: 00:10:17.51,00:10:17.52,components themselves then our\n 
+Dialogue: 00:10:17.52,00:10:19.64,components themselves then our\ncomponents become larger and harder to
+Dialogue: 00:10:19.64,00:10:19.65,components become larger and harder to\n 
+Dialogue: 00:10:19.65,00:10:22.64,components become larger and harder to\nrefactor and then on the other hand if
+Dialogue: 00:10:22.64,00:10:22.65,refactor and then on the other hand if\n 
+Dialogue: 00:10:22.65,00:10:25.61,refactor and then on the other hand if\nwe try to split the components apart
+Dialogue: 00:10:25.61,00:10:25.62,we try to split the components apart\n 
+Dialogue: 00:10:25.62,00:10:29.78,we try to split the components apart\ninto smaller pieces and reuse those then
+Dialogue: 00:10:29.78,00:10:29.79,into smaller pieces and reuse those then\n 
+Dialogue: 00:10:29.79,00:10:31.31,into smaller pieces and reuse those then\nwe end up with more nests than in the
+Dialogue: 00:10:31.31,00:10:31.32,we end up with more nests than in the\n 
+Dialogue: 00:10:31.32,00:10:32.87,we end up with more nests than in the\ncomponent tree and we get the rapper
+Dialogue: 00:10:32.87,00:10:32.88,component tree and we get the rapper\n 
+Dialogue: 00:10:32.88,00:10:37.25,component tree and we get the rapper\nhooligan and finally in either case we
+Dialogue: 00:10:37.25,00:10:37.26,hooligan and finally in either case we\n 
+Dialogue: 00:10:37.26,00:10:39.23,hooligan and finally in either case we\nhave all the confusion that comes with
+Dialogue: 00:10:39.23,00:10:39.24,have all the confusion that comes with\n 
+Dialogue: 00:10:39.24,00:10:41.99,have all the confusion that comes with\nthe classes so we think that this is
+Dialogue: 00:10:41.99,00:10:42.00,the classes so we think that this is\n 
+Dialogue: 00:10:42.00,00:10:43.64,the classes so we think that this is\nbecause these are not three separate
+Dialogue: 00:10:43.64,00:10:43.65,because these are not three separate\n 
+Dialogue: 00:10:43.65,00:10:47.27,because these are not three separate\nproblems we think that this is these are
+Dialogue: 00:10:47.27,00:10:47.28,problems we think that this is these are\n 
+Dialogue: 00:10:47.28,00:10:51.20,problems we think that this is these are\nthree symptoms of one problem and the
+Dialogue: 00:10:51.20,00:10:51.21,three symptoms of one problem and the\n 
+Dialogue: 00:10:51.21,00:10:53.48,three symptoms of one problem and the\nproblem is that react does not provide a
+Dialogue: 00:10:53.48,00:10:53.49,problem is that react does not provide a\n 
+Dialogue: 00:10:53.49,00:10:58.58,problem is that react does not provide a\nsimpler smaller lightweight primitive to
+Dialogue: 00:10:58.58,00:10:58.59,simpler smaller lightweight primitive to\n 
+Dialogue: 00:10:58.59,00:11:01.40,simpler smaller lightweight primitive to\nadd state or lifecycle than a class
+Dialogue: 00:11:01.40,00:11:01.41,add state or lifecycle than a class\n 
+Dialogue: 00:11:01.41,00:11:05.09,add state or lifecycle than a class\ncomponent and so once you add a class
+Dialogue: 00:11:05.09,00:11:05.10,component and so once you add a class\n 
+Dialogue: 00:11:05.10,00:11:08.15,component and so once you add a class\ncomponent you can split it up further
+Dialogue: 00:11:08.15,00:11:08.16,component you can split it up further\n 
+Dialogue: 00:11:08.16,00:11:11.92,component you can split it up further\nwithout introducing the rapper he'll and
+Dialogue: 00:11:11.92,00:11:11.93,without introducing the rapper he'll and\n 
+Dialogue: 00:11:11.93,00:11:15.62,without introducing the rapper he'll and\nin fact it's not a new problem so if you
+Dialogue: 00:11:15.62,00:11:15.63,in fact it's not a new problem so if you\n 
+Dialogue: 00:11:15.63,00:11:17.84,in fact it's not a new problem so if you\nused to react for like more than a
+Dialogue: 00:11:17.84,00:11:17.85,used to react for like more than a\n 
+Dialogue: 00:11:17.85,00:11:19.76,used to react for like more than a\ncouple of years you might remember them
+Dialogue: 00:11:19.76,00:11:19.77,couple of years you might remember them\n 
+Dialogue: 00:11:19.77,00:11:22.37,couple of years you might remember them\nwhen react came out it actually included
+Dialogue: 00:11:22.37,00:11:22.38,when react came out it actually included\n 
+Dialogue: 00:11:22.38,00:11:24.44,when react came out it actually included\na solution to this problem
+Dialogue: 00:11:24.44,00:11:24.45,a solution to this problem\n 
+Dialogue: 00:11:24.45,00:11:28.37,a solution to this problem\nit was mix sense so mix-ins allows you
+Dialogue: 00:11:28.37,00:11:28.38,it was mix sense so mix-ins allows you\n 
+Dialogue: 00:11:28.38,00:11:31.13,it was mix sense so mix-ins allows you\nto reuse some methods between classes
+Dialogue: 00:11:31.13,00:11:31.14,to reuse some methods between classes\n 
+Dialogue: 00:11:31.14,00:11:32.66,to reuse some methods between classes\nand this way you wouldn't have all these
+Dialogue: 00:11:32.66,00:11:32.67,and this way you wouldn't have all these\n 
+Dialogue: 00:11:32.67,00:11:36.05,and this way you wouldn't have all these\nrappers so should we add mix sense back
+Dialogue: 00:11:36.05,00:11:36.06,rappers so should we add mix sense back\n 
+Dialogue: 00:11:36.06,00:11:40.56,rappers so should we add mix sense back\nto react
+Dialogue: 00:11:40.56,00:11:40.57, \n 
+Dialogue: 00:11:40.57,00:11:44.07, \nthat's right no no we're not gonna do
+Dialogue: 00:11:44.07,00:11:44.08,that's right no no we're not gonna do\n 
+Dialogue: 00:11:44.08,00:11:46.80,that's right no no we're not gonna do\nthat I mean the codes user make sense
+Dialogue: 00:11:46.80,00:11:46.81,that I mean the codes user make sense\n 
+Dialogue: 00:11:46.81,00:11:48.99,that I mean the codes user make sense\nthe rounds it's not like it's not broken
+Dialogue: 00:11:48.99,00:11:49.00,the rounds it's not like it's not broken\n 
+Dialogue: 00:11:49.00,00:11:51.36,the rounds it's not like it's not broken\nbut we don't encourage using mix-ins and
+Dialogue: 00:11:51.36,00:11:51.37,but we don't encourage using mix-ins and\n 
+Dialogue: 00:11:51.37,00:11:53.64,but we don't encourage using mix-ins and\nreact and if you curious why there is a
+Dialogue: 00:11:53.64,00:11:53.65,react and if you curious why there is a\n 
+Dialogue: 00:11:53.65,00:11:56.64,react and if you curious why there is a\nblog post that we wrote code called
+Dialogue: 00:11:56.64,00:11:56.65,blog post that we wrote code called\n 
+Dialogue: 00:11:56.65,00:11:58.77,blog post that we wrote code called\nmix-ins considered harmful on the react
+Dialogue: 00:11:58.77,00:11:58.78,mix-ins considered harmful on the react\n 
+Dialogue: 00:11:58.78,00:12:02.64,mix-ins considered harmful on the react\nlog where we explain that we think in
+Dialogue: 00:12:02.64,00:12:02.65,log where we explain that we think in\n 
+Dialogue: 00:12:02.65,00:12:06.15,log where we explain that we think in\nour experience the problems that mix-ins
+Dialogue: 00:12:06.15,00:12:06.16,our experience the problems that mix-ins\n 
+Dialogue: 00:12:06.16,00:12:08.73,our experience the problems that mix-ins\ncreate are worse than the problems that
+Dialogue: 00:12:08.73,00:12:08.74,create are worse than the problems that\n 
+Dialogue: 00:12:08.74,00:12:11.52,create are worse than the problems that\nthey solve so that's why we don't
+Dialogue: 00:12:11.52,00:12:11.53,they solve so that's why we don't\n 
+Dialogue: 00:12:11.53,00:12:15.60,they solve so that's why we don't\nencourage these mix-ins so perhaps we
+Dialogue: 00:12:15.60,00:12:15.61,encourage these mix-ins so perhaps we\n 
+Dialogue: 00:12:15.61,00:12:17.10,encourage these mix-ins so perhaps we\ncould just can't solve this problem
+Dialogue: 00:12:17.10,00:12:17.11,could just can't solve this problem\n 
+Dialogue: 00:12:17.11,00:12:19.59,could just can't solve this problem\nmaybe it's inherent to the react
+Dialogue: 00:12:19.59,00:12:19.60,maybe it's inherent to the react\n 
+Dialogue: 00:12:19.60,00:12:21.51,maybe it's inherent to the react\ncomponent model maybe we should just
+Dialogue: 00:12:21.51,00:12:21.52,component model maybe we should just\n 
+Dialogue: 00:12:21.52,00:12:34.23,component model maybe we should just\naccept it or maybe in there is a perhaps
+Dialogue: 00:12:34.23,00:12:34.24,accept it or maybe in there is a perhaps\n 
+Dialogue: 00:12:34.24,00:12:36.24,accept it or maybe in there is a perhaps\nthere is a different way we could write
+Dialogue: 00:12:36.24,00:12:36.25,there is a different way we could write\n 
+Dialogue: 00:12:36.25,00:12:39.48,there is a different way we could write\nour components that doesn't suffer from
+Dialogue: 00:12:39.48,00:12:39.49,our components that doesn't suffer from\n 
+Dialogue: 00:12:39.49,00:12:42.96,our components that doesn't suffer from\neither of these problems and that's what
+Dialogue: 00:12:42.96,00:12:42.97,either of these problems and that's what\n 
+Dialogue: 00:12:42.97,00:12:45.29,either of these problems and that's what\nI'm going to talk about today
+Dialogue: 00:12:45.29,00:12:45.30,I'm going to talk about today\n 
+Dialogue: 00:12:45.30,00:12:48.03,I'm going to talk about today\nbut before I start I want to touch a
+Dialogue: 00:12:48.03,00:12:48.04,but before I start I want to touch a\n 
+Dialogue: 00:12:48.04,00:12:51.00,but before I start I want to touch a\nlittle bit on the way we approach making
+Dialogue: 00:12:51.00,00:12:51.01,little bit on the way we approach making\n 
+Dialogue: 00:12:51.01,00:12:53.94,little bit on the way we approach making\nchanges and additions to react which is
+Dialogue: 00:12:53.94,00:12:53.95,changes and additions to react which is\n 
+Dialogue: 00:12:53.95,00:12:57.21,changes and additions to react which is\na year ago we set up an RFC process so
+Dialogue: 00:12:57.21,00:12:57.22,a year ago we set up an RFC process so\n 
+Dialogue: 00:12:57.22,00:12:59.49,a year ago we set up an RFC process so\nRFC stands for request for comments and
+Dialogue: 00:12:59.49,00:12:59.50,RFC stands for request for comments and\n 
+Dialogue: 00:12:59.50,00:13:02.31,RFC stands for request for comments and\nit means that whenever we want to make
+Dialogue: 00:13:02.31,00:13:02.32,it means that whenever we want to make\n 
+Dialogue: 00:13:02.32,00:13:04.44,it means that whenever we want to make\nor somebody else wants to make a
+Dialogue: 00:13:04.44,00:13:04.45,or somebody else wants to make a\n 
+Dialogue: 00:13:04.45,00:13:07.38,or somebody else wants to make a\nsubstantial change or addition to react
+Dialogue: 00:13:07.38,00:13:07.39,substantial change or addition to react\n 
+Dialogue: 00:13:07.39,00:13:10.59,substantial change or addition to react\nthey need to write up a proposal with
+Dialogue: 00:13:10.59,00:13:10.60,they need to write up a proposal with\n 
+Dialogue: 00:13:10.60,00:13:12.99,they need to write up a proposal with\ndetailing the motivation and the
+Dialogue: 00:13:12.99,00:13:13.00,detailing the motivation and the\n 
+Dialogue: 00:13:13.00,00:13:15.42,detailing the motivation and the\ndetailed design of how this will work
+Dialogue: 00:13:15.42,00:13:15.43,detailed design of how this will work\n 
+Dialogue: 00:13:15.43,00:13:20.01,detailed design of how this will work\nand so that's what we're going to do
+Dialogue: 00:13:20.01,00:13:20.02,and so that's what we're going to do\n 
+Dialogue: 00:13:20.02,00:13:23.28,and so that's what we're going to do\nwe're excited to announce that we are
+Dialogue: 00:13:23.28,00:13:23.29,we're excited to announce that we are\n 
+Dialogue: 00:13:23.29,00:13:25.80,we're excited to announce that we are\nready to present a proposal for how we
+Dialogue: 00:13:25.80,00:13:25.81,ready to present a proposal for how we\n 
+Dialogue: 00:13:25.81,00:13:29.81,ready to present a proposal for how we\ncan solve these three problems and
+Dialogue: 00:13:29.81,00:13:29.82,can solve these three problems and\n 
+Dialogue: 00:13:29.82,00:13:33.51,can solve these three problems and\nimportantly this proposal does not have
+Dialogue: 00:13:33.51,00:13:33.52,importantly this proposal does not have\n 
+Dialogue: 00:13:33.52,00:13:35.73,importantly this proposal does not have\nbreaking changes or deprecations in it
+Dialogue: 00:13:35.73,00:13:35.74,breaking changes or deprecations in it\n 
+Dialogue: 00:13:35.74,00:13:41.03,breaking changes or deprecations in it\nit is strictly additive it is opt-in and
+Dialogue: 00:13:41.03,00:13:41.04,it is strictly additive it is opt-in and\n 
+Dialogue: 00:13:41.04,00:13:44.55,it is strictly additive it is opt-in and\nit adds some new api's which happens
+Dialogue: 00:13:44.55,00:13:44.56,it adds some new api's which happens\n 
+Dialogue: 00:13:44.56,00:13:47.34,it adds some new api's which happens\nwhen you try to solve problems and we
+Dialogue: 00:13:47.34,00:13:47.35,when you try to solve problems and we\n 
+Dialogue: 00:13:47.35,00:13:49.44,when you try to solve problems and we\nwould love to hear your feedback on this
+Dialogue: 00:13:49.44,00:13:49.45,would love to hear your feedback on this\n 
+Dialogue: 00:13:49.45,00:13:50.07,would love to hear your feedback on this\nproposal
+Dialogue: 00:13:50.07,00:13:50.08,proposal\n 
+Dialogue: 00:13:50.08,00:13:52.44,proposal\nwhich is why we're we're going to
+Dialogue: 00:13:52.44,00:13:52.45,which is why we're we're going to\n 
+Dialogue: 00:13:52.45,00:13:54.03,which is why we're we're going to\npublish it today
+Dialogue: 00:13:54.03,00:13:54.04,publish it today\n 
+Dialogue: 00:13:54.04,00:13:56.40,publish it today\nand we thought about many ways we could
+Dialogue: 00:13:56.40,00:13:56.41,and we thought about many ways we could\n 
+Dialogue: 00:13:56.41,00:13:57.96,and we thought about many ways we could\nshare this proposal so maybe we just
+Dialogue: 00:13:57.96,00:13:57.97,share this proposal so maybe we just\n 
+Dialogue: 00:13:57.97,00:13:59.25,share this proposal so maybe we just\nlike right off in there
+Dialogue: 00:13:59.25,00:13:59.26,like right off in there\n 
+Dialogue: 00:13:59.26,00:14:03.00,like right off in there\nwrite up an RFC and post it but since we
+Dialogue: 00:14:03.00,00:14:03.01,write up an RFC and post it but since we\n 
+Dialogue: 00:14:03.01,00:14:05.46,write up an RFC and post it but since we\nwere going to run react Kampf anyway we
+Dialogue: 00:14:05.46,00:14:05.47,were going to run react Kampf anyway we\n 
+Dialogue: 00:14:05.47,00:14:09.38,were going to run react Kampf anyway we\njust decided to to show it here and
+Dialogue: 00:14:09.38,00:14:09.39,just decided to to show it here and\n 
+Dialogue: 00:14:09.39,00:14:24.75,just decided to to show it here and\nwe're gonna do a demo with the mirrors
+Dialogue: 00:14:24.75,00:14:24.76,we're gonna do a demo with the mirrors\n 
+Dialogue: 00:14:24.76,00:14:43.48,we're gonna do a demo with the mirrors\nthe displays sorry technical glitch
+Dialogue: 00:14:43.48,00:14:43.49, \n 
+Dialogue: 00:14:43.49,00:14:46.03, \ncan somebody who understands projectors
+Dialogue: 00:14:46.03,00:14:46.04,can somebody who understands projectors\n 
+Dialogue: 00:14:46.04,00:14:51.10,can somebody who understands projectors\nhelp me
+Dialogue: 00:14:51.10,00:14:51.11, \n 
+Dialogue: 00:14:51.11,00:15:05.01, \ncan I make it mirror my desktop please
+Dialogue: 00:15:05.01,00:15:05.02, \n 
+Dialogue: 00:15:05.02,00:15:10.70, \nyeah
+Dialogue: 00:15:10.70,00:15:10.71, \n 
+Dialogue: 00:15:10.71,00:15:14.13, \nokay but it doesn't show on the screen I
+Dialogue: 00:15:14.13,00:15:14.14,okay but it doesn't show on the screen I\n 
+Dialogue: 00:15:14.14,00:15:17.72,okay but it doesn't show on the screen I\ndon't see anything
+Dialogue: 00:15:17.72,00:15:17.73, \n 
+Dialogue: 00:15:17.73,00:15:32.12, \nthat's that's the problem that I had
+Dialogue: 00:15:32.12,00:15:32.13, \n 
+Dialogue: 00:15:32.13,00:15:40.91, \nokay disaster averted
+Dialogue: 00:15:40.91,00:15:40.92, \n 
+Dialogue: 00:15:40.92,00:15:45.75, \nalright um let me check the font size a
+Dialogue: 00:15:45.75,00:15:45.76,alright um let me check the font size a\n 
+Dialogue: 00:15:45.76,00:15:47.78,alright um let me check the font size a\nlittle bit
+Dialogue: 00:15:47.78,00:15:47.79,little bit\n 
+Dialogue: 00:15:47.79,00:15:54.90,little bit\ndeceitful alright so here is a simple
+Dialogue: 00:15:54.90,00:15:54.91,deceitful alright so here is a simple\n 
+Dialogue: 00:15:54.91,00:15:59.46,deceitful alright so here is a simple\nreact component that just it is a row
+Dialogue: 00:15:59.46,00:15:59.47,react component that just it is a row\n 
+Dialogue: 00:15:59.47,00:16:02.76,react component that just it is a row\nthis is just some styling and it it
+Dialogue: 00:16:02.76,00:16:02.77,this is just some styling and it it\n 
+Dialogue: 00:16:02.77,00:16:05.94,this is just some styling and it it\nrenders a person's name and so let's say
+Dialogue: 00:16:05.94,00:16:05.95,renders a person's name and so let's say\n 
+Dialogue: 00:16:05.95,00:16:10.02,renders a person's name and so let's say\nthat we want this name to be editable so
+Dialogue: 00:16:10.02,00:16:10.03,that we want this name to be editable so\n 
+Dialogue: 00:16:10.03,00:16:12.45,that we want this name to be editable so\nhow do you do it in react normally well
+Dialogue: 00:16:12.45,00:16:12.46,how do you do it in react normally well\n 
+Dialogue: 00:16:12.46,00:16:14.58,how do you do it in react normally well\nlike if we want to add an input there we
+Dialogue: 00:16:14.58,00:16:14.59,like if we want to add an input there we\n 
+Dialogue: 00:16:14.59,00:16:16.86,like if we want to add an input there we\nneed to return this component into a
+Dialogue: 00:16:16.86,00:16:16.87,need to return this component into a\n 
+Dialogue: 00:16:16.87,00:16:19.71,need to return this component into a\nclass add some local state to it and let
+Dialogue: 00:16:19.71,00:16:19.72,class add some local state to it and let\n 
+Dialogue: 00:16:19.72,00:16:21.96,class add some local state to it and let\nthat state drive the input so that's
+Dialogue: 00:16:21.96,00:16:21.97,that state drive the input so that's\n 
+Dialogue: 00:16:21.97,00:16:24.42,that state drive the input so that's\nexactly what I'm going to do that's what
+Dialogue: 00:16:24.42,00:16:24.43,exactly what I'm going to do that's what\n 
+Dialogue: 00:16:24.43,00:16:26.49,exactly what I'm going to do that's what\nwe do today so I'm going to do the
+Dialogue: 00:16:26.49,00:16:26.50,we do today so I'm going to do the\n 
+Dialogue: 00:16:26.50,00:16:32.33,we do today so I'm going to do the\nexpert default class greeting extends
+Dialogue: 00:16:32.33,00:16:32.34,expert default class greeting extends\n 
+Dialogue: 00:16:32.34,00:16:37.17,expert default class greeting extends\nreact component and so I'm going to use
+Dialogue: 00:16:37.17,00:16:37.18,react component and so I'm going to use\n 
+Dialogue: 00:16:37.18,00:16:39.54,react component and so I'm going to use\nonly stable JavaScript syntax so
+Dialogue: 00:16:39.54,00:16:39.55,only stable JavaScript syntax so\n 
+Dialogue: 00:16:39.55,00:16:45.78,only stable JavaScript syntax so\nconstructor props super props there is
+Dialogue: 00:16:45.78,00:16:45.79,constructor props super props there is\n 
+Dialogue: 00:16:45.79,00:16:51.00,constructor props super props there is\nthe state going to initialize name to
+Dialogue: 00:16:51.00,00:16:51.01,the state going to initialize name to\n 
+Dialogue: 00:16:51.01,00:16:55.44,the state going to initialize name to\nMary here and I'm going to declare a
+Dialogue: 00:16:55.44,00:16:55.45,Mary here and I'm going to declare a\n 
+Dialogue: 00:16:55.45,00:17:05.70,Mary here and I'm going to declare a\nrender method and copy and paste this
+Dialogue: 00:17:05.70,00:17:05.71, \n 
+Dialogue: 00:17:05.71,00:17:08.36, \nsorry
+Dialogue: 00:17:08.36,00:17:08.37,sorry\n 
+Dialogue: 00:17:08.37,00:17:11.78,sorry\nokay and so I want this to be instead of
+Dialogue: 00:17:11.78,00:17:11.79,okay and so I want this to be instead of\n 
+Dialogue: 00:17:11.79,00:17:13.19,okay and so I want this to be instead of\njust rendering the name I want the
+Dialogue: 00:17:13.19,00:17:13.20,just rendering the name I want the\n 
+Dialogue: 00:17:13.20,00:17:14.99,just rendering the name I want the\nsurrender and input so I'm replacing
+Dialogue: 00:17:14.99,00:17:15.00,surrender and input so I'm replacing\n 
+Dialogue: 00:17:15.00,00:17:20.09,surrender and input so I'm replacing\nthis by an input and the value of the
+Dialogue: 00:17:20.09,00:17:20.10,this by an input and the value of the\n 
+Dialogue: 00:17:20.10,00:17:24.19,this by an input and the value of the\ninput is this that state that name and
+Dialogue: 00:17:24.19,00:17:24.20,input is this that state that name and\n 
+Dialogue: 00:17:24.20,00:17:26.90,input is this that state that name and\nif I make a change I want to call this
+Dialogue: 00:17:26.90,00:17:26.91,if I make a change I want to call this\n 
+Dialogue: 00:17:26.91,00:17:30.65,if I make a change I want to call this\ndot handle named change that's going to
+Dialogue: 00:17:30.65,00:17:30.66,dot handle named change that's going to\n 
+Dialogue: 00:17:30.66,00:17:34.34,dot handle named change that's going to\nbe my change color and I'm going to
+Dialogue: 00:17:34.34,00:17:34.35,be my change color and I'm going to\n 
+Dialogue: 00:17:34.35,00:17:37.07,be my change color and I'm going to\ndeclare it here when the name changes we
+Dialogue: 00:17:37.07,00:17:37.08,declare it here when the name changes we\n 
+Dialogue: 00:17:37.08,00:17:40.55,declare it here when the name changes we\ncall says state like we normally do and
+Dialogue: 00:17:40.55,00:17:40.56,call says state like we normally do and\n 
+Dialogue: 00:17:40.56,00:17:43.64,call says state like we normally do and\nwe set the name to eat at target dot
+Dialogue: 00:17:43.64,00:17:43.65,we set the name to eat at target dot\n 
+Dialogue: 00:17:43.65,00:17:50.18,we set the name to eat at target dot\nvalue right so now if I edit the okay so
+Dialogue: 00:17:50.18,00:17:50.19,value right so now if I edit the okay so\n 
+Dialogue: 00:17:50.19,00:17:56.81,value right so now if I edit the okay so\nI I need to bind sorry I need to find
+Dialogue: 00:17:56.81,00:17:56.82,I I need to bind sorry I need to find\n 
+Dialogue: 00:17:56.82,00:18:00.68,I I need to bind sorry I need to find\nthe events on there okay so now I can
+Dialogue: 00:18:00.68,00:18:00.69,the events on there okay so now I can\n 
+Dialogue: 00:18:00.69,00:18:04.16,the events on there okay so now I can\nactually edit it and it works so a
+Dialogue: 00:18:04.16,00:18:04.17,actually edit it and it works so a\n 
+Dialogue: 00:18:04.17,00:18:07.19,actually edit it and it works so a\nfamiliar class component is if you work
+Dialogue: 00:18:07.19,00:18:07.20,familiar class component is if you work\n 
+Dialogue: 00:18:07.20,00:18:08.93,familiar class component is if you work\nwith react you probably write a lot of
+Dialogue: 00:18:08.93,00:18:08.94,with react you probably write a lot of\n 
+Dialogue: 00:18:08.94,00:18:15.80,with react you probably write a lot of\nthose but let's take a step back what if
+Dialogue: 00:18:15.80,00:18:15.81,those but let's take a step back what if\n 
+Dialogue: 00:18:15.81,00:18:19.04,those but let's take a step back what if\nwe didn't have to write a class when we
+Dialogue: 00:18:19.04,00:18:19.05,we didn't have to write a class when we\n 
+Dialogue: 00:18:19.05,00:18:22.31,we didn't have to write a class when we\nwanted to use state so I'm not sure how
+Dialogue: 00:18:22.31,00:18:22.32,wanted to use state so I'm not sure how\n 
+Dialogue: 00:18:22.32,00:18:24.74,wanted to use state so I'm not sure how\nthat's gonna work but I'll just start
+Dialogue: 00:18:24.74,00:18:24.75,that's gonna work but I'll just start\n 
+Dialogue: 00:18:24.75,00:18:26.33,that's gonna work but I'll just start\nwith what I know I want to render an
+Dialogue: 00:18:26.33,00:18:26.34,with what I know I want to render an\n 
+Dialogue: 00:18:26.34,00:18:30.13,with what I know I want to render an\ninput so I'm gonna put an input here and
+Dialogue: 00:18:30.13,00:18:30.14,input so I'm gonna put an input here and\n 
+Dialogue: 00:18:30.14,00:18:32.72,input so I'm gonna put an input here and\nthe input has a valley and that Valley
+Dialogue: 00:18:32.72,00:18:32.73,the input has a valley and that Valley\n 
+Dialogue: 00:18:32.73,00:18:35.21,the input has a valley and that Valley\nis the current name so I'll just pass
+Dialogue: 00:18:35.21,00:18:35.22,is the current name so I'll just pass\n 
+Dialogue: 00:18:35.22,00:18:38.45,is the current name so I'll just pass\nname I don't know where to get name from
+Dialogue: 00:18:38.45,00:18:38.46,name I don't know where to get name from\n 
+Dialogue: 00:18:38.46,00:18:42.10,name I don't know where to get name from\nso it doesn't come from props
+Dialogue: 00:18:42.10,00:18:42.11,so it doesn't come from props\n 
+Dialogue: 00:18:42.11,00:18:46.15,so it doesn't come from props\nI'll just declare it and I don't know
+Dialogue: 00:18:46.15,00:18:46.16,I'll just declare it and I don't know\n 
+Dialogue: 00:18:46.16,00:18:49.91,I'll just declare it and I don't know\nI'll fill it in later this is gonna have
+Dialogue: 00:18:49.91,00:18:49.92,I'll fill it in later this is gonna have\n 
+Dialogue: 00:18:49.92,00:18:51.05,I'll fill it in later this is gonna have\na change down there as well
+Dialogue: 00:18:51.05,00:18:51.06,a change down there as well\n 
+Dialogue: 00:18:51.06,00:18:54.17,a change down there as well\nso I'm going to declare unchanged handle
+Dialogue: 00:18:54.17,00:18:54.18,so I'm going to declare unchanged handle\n 
+Dialogue: 00:18:54.18,00:19:00.47,so I'm going to declare unchanged handle\nname change and I'm adding a function
+Dialogue: 00:19:00.47,00:19:00.48,name change and I'm adding a function\n 
+Dialogue: 00:19:00.48,00:19:04.76,name change and I'm adding a function\nhere takes an event and then here I want
+Dialogue: 00:19:04.76,00:19:04.77,here takes an event and then here I want\n 
+Dialogue: 00:19:04.77,00:19:07.34,here takes an event and then here I want\nto tell react to set the name to
+Dialogue: 00:19:07.34,00:19:07.35,to tell react to set the name to\n 
+Dialogue: 00:19:07.35,00:19:09.86,to tell react to set the name to\nsomething but again I'm not sure how to
+Dialogue: 00:19:09.86,00:19:09.87,something but again I'm not sure how to\n 
+Dialogue: 00:19:09.87,00:19:12.14,something but again I'm not sure how to\ndo that from a functional component so
+Dialogue: 00:19:12.14,00:19:12.15,do that from a functional component so\n 
+Dialogue: 00:19:12.15,00:19:14.83,do that from a functional component so\nI'll just call something called set name
+Dialogue: 00:19:14.83,00:19:14.84,I'll just call something called set name\n 
+Dialogue: 00:19:14.84,00:19:19.01,I'll just call something called set name\nwith the current input value
+Dialogue: 00:19:19.01,00:19:19.02,with the current input value\n 
+Dialogue: 00:19:19.02,00:19:30.28,with the current input value\nand I'll just upload it here
+Dialogue: 00:19:30.28,00:19:30.29, \n 
+Dialogue: 00:19:30.29,00:19:32.78, \nall right so these two things they're
+Dialogue: 00:19:32.78,00:19:32.79,all right so these two things they're\n 
+Dialogue: 00:19:32.79,00:19:34.85,all right so these two things they're\nclosely related right so one of them is
+Dialogue: 00:19:34.85,00:19:34.86,closely related right so one of them is\n 
+Dialogue: 00:19:34.86,00:19:37.37,closely related right so one of them is\nthe current value of the name state
+Dialogue: 00:19:37.37,00:19:37.38,the current value of the name state\n 
+Dialogue: 00:19:37.38,00:19:41.18,the current value of the name state\nvariable and the other is a function
+Dialogue: 00:19:41.18,00:19:41.19,variable and the other is a function\n 
+Dialogue: 00:19:41.19,00:19:44.47,variable and the other is a function\nthat lets us set the name state variable
+Dialogue: 00:19:44.47,00:19:44.48,that lets us set the name state variable\n 
+Dialogue: 00:19:44.48,00:19:46.67,that lets us set the name state variable\nand so because these things are closely
+Dialogue: 00:19:46.67,00:19:46.68,and so because these things are closely\n 
+Dialogue: 00:19:46.68,00:19:48.56,and so because these things are closely\nrelated I'm actually going to put them
+Dialogue: 00:19:48.56,00:19:48.57,related I'm actually going to put them\n 
+Dialogue: 00:19:48.57,00:19:53.69,related I'm actually going to put them\ntogether as a pair of valleys so I'm
+Dialogue: 00:19:53.69,00:19:53.70,together as a pair of valleys so I'm\n 
+Dialogue: 00:19:53.70,00:19:55.16,together as a pair of valleys so I'm\ngoing to get them together from
+Dialogue: 00:19:55.16,00:19:55.17,going to get them together from\n 
+Dialogue: 00:19:55.17,00:19:58.96,going to get them together from\nsomewhere so where do I get them from
+Dialogue: 00:19:58.96,00:19:58.97,somewhere so where do I get them from\n 
+Dialogue: 00:19:58.97,00:20:03.79,somewhere so where do I get them from\nfrom react local state so how do I use
+Dialogue: 00:20:03.79,00:20:03.80,from react local state so how do I use\n 
+Dialogue: 00:20:03.80,00:20:06.14,from react local state so how do I use\nreact local state from a function
+Dialogue: 00:20:06.14,00:20:06.15,react local state from a function\n 
+Dialogue: 00:20:06.15,00:20:10.70,react local state from a function\ncomponent well what if I could just use
+Dialogue: 00:20:10.70,00:20:10.71,component well what if I could just use\n 
+Dialogue: 00:20:10.71,00:20:17.62,component well what if I could just use\nstate
+Dialogue: 00:20:17.62,00:20:17.63, \n 
+Dialogue: 00:20:17.63,00:20:24.95, \nand past the initial state to specify it
+Dialogue: 00:20:24.95,00:20:24.96, \n 
+Dialogue: 00:20:24.96,00:20:31.38, \nand see if this works yeah it works
+Dialogue: 00:20:31.38,00:20:31.39, \n 
+Dialogue: 00:20:31.39,00:20:41.06, \n[Applause]
+Dialogue: 00:20:41.06,00:20:41.07, \n 
+Dialogue: 00:20:41.07,00:20:43.26, \nso let's let's compare the two
+Dialogue: 00:20:43.26,00:20:43.27,so let's let's compare the two\n 
+Dialogue: 00:20:43.27,00:20:48.87,so let's let's compare the two\napproaches so on the Left we have a
+Dialogue: 00:20:48.87,00:20:48.88,approaches so on the Left we have a\n 
+Dialogue: 00:20:48.88,00:20:51.45,approaches so on the Left we have a\nfamiliar class component this state has
+Dialogue: 00:20:51.45,00:20:51.46,familiar class component this state has\n 
+Dialogue: 00:20:51.46,00:20:54.93,familiar class component this state has\nto be an object we bind some event
+Dialogue: 00:20:54.93,00:20:54.94,to be an object we bind some event\n 
+Dialogue: 00:20:54.94,00:20:56.91,to be an object we bind some event\nhandlers so that we can access this
+Dialogue: 00:20:56.91,00:20:56.92,handlers so that we can access this\n 
+Dialogue: 00:20:56.92,00:20:59.85,handlers so that we can access this\ninside the event handler for this that's
+Dialogue: 00:20:59.85,00:20:59.86,inside the event handler for this that's\n 
+Dialogue: 00:20:59.86,00:21:02.91,inside the event handler for this that's\na state when we call says state it
+Dialogue: 00:21:02.91,00:21:02.92,a state when we call says state it\n 
+Dialogue: 00:21:02.92,00:21:04.77,a state when we call says state it\nactually doesn't just set the state that
+Dialogue: 00:21:04.77,00:21:04.78,actually doesn't just set the state that\n 
+Dialogue: 00:21:04.78,00:21:08.43,actually doesn't just set the state that\nmerges the state are the argument into
+Dialogue: 00:21:08.43,00:21:08.44,merges the state are the argument into\n 
+Dialogue: 00:21:08.44,00:21:10.74,merges the state are the argument into\nthe state object and then when we want
+Dialogue: 00:21:10.74,00:21:10.75,the state object and then when we want\n 
+Dialogue: 00:21:10.75,00:21:12.87,the state object and then when we want\nto access the state which it is that
+Dialogue: 00:21:12.87,00:21:12.88,to access the state which it is that\n 
+Dialogue: 00:21:12.88,00:21:16.11,to access the state which it is that\nstate and that's something so in the
+Dialogue: 00:21:16.11,00:21:16.12,state and that's something so in the\n 
+Dialogue: 00:21:16.12,00:21:19.11,state and that's something so in the\nexample on the right we don't need to
+Dialogue: 00:21:19.11,00:21:19.12,example on the right we don't need to\n 
+Dialogue: 00:21:19.12,00:21:21.71,example on the right we don't need to\naccess this that stayed at something
+Dialogue: 00:21:21.71,00:21:21.72,access this that stayed at something\n 
+Dialogue: 00:21:21.72,00:21:24.09,access this that stayed at something\nbecause the name state variable is
+Dialogue: 00:21:24.09,00:21:24.10,because the name state variable is\n 
+Dialogue: 00:21:24.10,00:21:26.25,because the name state variable is\nalready available in the function it's
+Dialogue: 00:21:26.25,00:21:26.26,already available in the function it's\n 
+Dialogue: 00:21:26.26,00:21:29.19,already available in the function it's\njust the variable and similarly when we
+Dialogue: 00:21:29.19,00:21:29.20,just the variable and similarly when we\n 
+Dialogue: 00:21:29.20,00:21:31.29,just the variable and similarly when we\nneed to set the state we don't need to
+Dialogue: 00:21:31.29,00:21:31.30,need to set the state we don't need to\n 
+Dialogue: 00:21:31.30,00:21:35.07,need to set the state we don't need to\naccess this that's something because the
+Dialogue: 00:21:35.07,00:21:35.08,access this that's something because the\n 
+Dialogue: 00:21:35.08,00:21:36.99,access this that's something because the\nfunction that lets has said the name is
+Dialogue: 00:21:36.99,00:21:37.00,function that lets has said the name is\n 
+Dialogue: 00:21:37.00,00:21:43.02,function that lets has said the name is\nalso available in the scope so what is
+Dialogue: 00:21:43.02,00:21:43.03,also available in the scope so what is\n 
+Dialogue: 00:21:43.03,00:21:49.31,also available in the scope so what is\nuse state exactly your state is a hook a
+Dialogue: 00:21:49.31,00:21:49.32,use state exactly your state is a hook a\n 
+Dialogue: 00:21:49.32,00:21:52.95,use state exactly your state is a hook a\nhook is a function provided by react
+Dialogue: 00:21:52.95,00:21:52.96,hook is a function provided by react\n 
+Dialogue: 00:21:52.96,00:21:56.42,hook is a function provided by react\nthat lets you hook into react features
+Dialogue: 00:21:56.42,00:21:56.43,that lets you hook into react features\n 
+Dialogue: 00:21:56.43,00:22:00.75,that lets you hook into react features\nfrom your function components and you
+Dialogue: 00:22:00.75,00:22:00.76,from your function components and you\n 
+Dialogue: 00:22:00.76,00:22:02.61,from your function components and you\nstayed is the first hook that we're
+Dialogue: 00:22:02.61,00:22:02.62,stayed is the first hook that we're\n 
+Dialogue: 00:22:02.62,00:22:04.44,stayed is the first hook that we're\ngoing to take a look at today but there
+Dialogue: 00:22:04.44,00:22:04.45,going to take a look at today but there\n 
+Dialogue: 00:22:04.45,00:22:06.69,going to take a look at today but there\nare a few more so we're going to see
+Dialogue: 00:22:06.69,00:22:06.70,are a few more so we're going to see\n 
+Dialogue: 00:22:06.70,00:22:15.99,are a few more so we're going to see\nthem later
+Dialogue: 00:22:15.99,00:22:15.00, \n 
+Dialogue: 00:22:15.00,00:22:18.25, \nall right so let's go back to our
+Dialogue: 00:22:18.25,00:22:18.26,all right so let's go back to our\n 
+Dialogue: 00:22:18.26,00:22:21.94,all right so let's go back to our\nFamilia a class example so let's say we
+Dialogue: 00:22:21.94,00:22:21.95,Familia a class example so let's say we\n 
+Dialogue: 00:22:21.95,00:22:24.79,Familia a class example so let's say we\nwanted to add a second field for example
+Dialogue: 00:22:24.79,00:22:24.80,wanted to add a second field for example\n 
+Dialogue: 00:22:24.80,00:22:28.06,wanted to add a second field for example\nfor a surname so the way we normally do
+Dialogue: 00:22:28.06,00:22:28.07,for a surname so the way we normally do\n 
+Dialogue: 00:22:28.07,00:22:30.85,for a surname so the way we normally do\nthis is we add another key to the state
+Dialogue: 00:22:30.85,00:22:30.86,this is we add another key to the state\n 
+Dialogue: 00:22:30.86,00:22:36.79,this is we add another key to the state\nand we I'm going to copy and paste this
+Dialogue: 00:22:36.79,00:22:36.80,and we I'm going to copy and paste this\n 
+Dialogue: 00:22:36.80,00:22:42.31,and we I'm going to copy and paste this\nrole it's gonna say surname now it's
+Dialogue: 00:22:42.31,00:22:42.32,role it's gonna say surname now it's\n 
+Dialogue: 00:22:42.32,00:22:45.37,role it's gonna say surname now it's\ngoing to render surname and handle
+Dialogue: 00:22:45.37,00:22:45.38,going to render surname and handle\n 
+Dialogue: 00:22:45.38,00:22:48.76,going to render surname and handle\nsurname change when I copy and paste
+Dialogue: 00:22:48.76,00:22:48.77,surname change when I copy and paste\n 
+Dialogue: 00:22:48.77,00:22:53.91,surname change when I copy and paste\nthis event handler this will be surname
+Dialogue: 00:22:53.91,00:22:53.92,this event handler this will be surname\n 
+Dialogue: 00:22:53.92,00:23:06.56,this event handler this will be surname\nand I need to bind it
+Dialogue: 00:23:06.56,00:23:06.57, \n 
+Dialogue: 00:23:06.57,00:23:13.58, \nokay MARY POPPINS so we can see that it
+Dialogue: 00:23:13.58,00:23:13.59,okay MARY POPPINS so we can see that it\n 
+Dialogue: 00:23:13.59,00:23:17.93,okay MARY POPPINS so we can see that it\nworks so how do we do the same with
+Dialogue: 00:23:17.93,00:23:17.94,works so how do we do the same with\n 
+Dialogue: 00:23:17.94,00:23:23.75,works so how do we do the same with\nhooks so one thing we could do is we
+Dialogue: 00:23:23.75,00:23:23.76,hooks so one thing we could do is we\n 
+Dialogue: 00:23:23.76,00:23:26.15,hooks so one thing we could do is we\ncould make our state an object as you
+Dialogue: 00:23:26.15,00:23:26.16,could make our state an object as you\n 
+Dialogue: 00:23:26.16,00:23:29.03,could make our state an object as you\ncan see that the state with hook state
+Dialogue: 00:23:29.03,00:23:29.04,can see that the state with hook state\n 
+Dialogue: 00:23:29.04,00:23:30.74,can see that the state with hook state\ndoesn't have to be an object it can be
+Dialogue: 00:23:30.74,00:23:30.75,doesn't have to be an object it can be\n 
+Dialogue: 00:23:30.75,00:23:32.63,doesn't have to be an object it can be\nany primitive we could make it an object
+Dialogue: 00:23:32.63,00:23:32.64,any primitive we could make it an object\n 
+Dialogue: 00:23:32.64,00:23:35.06,any primitive we could make it an object\nif we wanted to but we also don't have
+Dialogue: 00:23:35.06,00:23:35.07,if we wanted to but we also don't have\n 
+Dialogue: 00:23:35.07,00:23:39.05,if we wanted to but we also don't have\nto so conceptually surname is is not
+Dialogue: 00:23:39.05,00:23:39.06,to so conceptually surname is is not\n 
+Dialogue: 00:23:39.06,00:23:43.07,to so conceptually surname is is not\nclosely related to state to the name so
+Dialogue: 00:23:43.07,00:23:43.08,closely related to state to the name so\n 
+Dialogue: 00:23:43.08,00:23:44.87,closely related to state to the name so\nwhat we could do is we could declare a
+Dialogue: 00:23:44.87,00:23:44.88,what we could do is we could declare a\n 
+Dialogue: 00:23:44.88,00:23:48.50,what we could do is we could declare a\nsecond state variable by calling the you
+Dialogue: 00:23:48.50,00:23:48.51,second state variable by calling the you\n 
+Dialogue: 00:23:48.51,00:23:50.47,second state variable by calling the you\nstate crook again
+Dialogue: 00:23:50.47,00:23:50.48,state crook again\n 
+Dialogue: 00:23:50.48,00:23:53.69,state crook again\nso all declare surname I can give it any
+Dialogue: 00:23:53.69,00:23:53.70,so all declare surname I can give it any\n 
+Dialogue: 00:23:53.70,00:23:55.34,so all declare surname I can give it any\nname it's just the variable in my code
+Dialogue: 00:23:55.34,00:23:55.35,name it's just the variable in my code\n 
+Dialogue: 00:23:55.35,00:24:00.53,name it's just the variable in my code\nand sets her name by calling you state
+Dialogue: 00:24:00.53,00:24:00.54,and sets her name by calling you state\n 
+Dialogue: 00:24:00.54,00:24:02.78,and sets her name by calling you state\nand passing the initial state for that
+Dialogue: 00:24:02.78,00:24:02.79,and passing the initial state for that\n 
+Dialogue: 00:24:02.79,00:24:05.26,and passing the initial state for that\nstate variable poppins
+Dialogue: 00:24:05.26,00:24:05.27,state variable poppins\n 
+Dialogue: 00:24:05.27,00:24:07.52,state variable poppins\nso again government gonna copy and paste
+Dialogue: 00:24:07.52,00:24:07.53,so again government gonna copy and paste\n 
+Dialogue: 00:24:07.53,00:24:14.81,so again government gonna copy and paste\nthe row say in surname the valet surname
+Dialogue: 00:24:14.81,00:24:14.82,the row say in surname the valet surname\n 
+Dialogue: 00:24:14.82,00:24:19.43,the row say in surname the valet surname\nhandle surname change and when the user
+Dialogue: 00:24:19.43,00:24:19.44,handle surname change and when the user\n 
+Dialogue: 00:24:19.44,00:24:24.56,handle surname change and when the user\nedits the surname not sir
+Dialogue: 00:24:24.56,00:24:24.57,edits the surname not sir\n 
+Dialogue: 00:24:24.57,00:24:31.66,edits the surname not sir\nname we want to set the surname
+Dialogue: 00:24:31.66,00:24:31.67, \n 
+Dialogue: 00:24:31.67,00:24:38.03, \nlet's see if this works
+Dialogue: 00:24:38.03,00:24:38.04, \n 
+Dialogue: 00:24:38.04,00:24:46.42, \nyay it looks like it works
+Dialogue: 00:24:46.42,00:24:46.43, \n 
+Dialogue: 00:24:46.43,00:24:50.36, \nso we can see that we can use hooks more
+Dialogue: 00:24:50.36,00:24:50.37,so we can see that we can use hooks more\n 
+Dialogue: 00:24:50.37,00:24:53.72,so we can see that we can use hooks more\nthan once in a component let's compare
+Dialogue: 00:24:53.72,00:24:53.73,than once in a component let's compare\n 
+Dialogue: 00:24:53.73,00:24:58.13,than once in a component let's compare\nthe two approaches in more detail so on
+Dialogue: 00:24:58.13,00:24:58.14,the two approaches in more detail so on\n 
+Dialogue: 00:24:58.14,00:25:00.77,the two approaches in more detail so on\nthe Left familiar class component state
+Dialogue: 00:25:00.77,00:25:00.78,the Left familiar class component state\n 
+Dialogue: 00:25:00.78,00:25:03.74,the Left familiar class component state\nis always an object has multiple fields
+Dialogue: 00:25:03.74,00:25:03.75,is always an object has multiple fields\n 
+Dialogue: 00:25:03.75,00:25:06.38,is always an object has multiple fields\nMcCall says state will merge some
+Dialogue: 00:25:06.38,00:25:06.39,McCall says state will merge some\n 
+Dialogue: 00:25:06.39,00:25:09.50,McCall says state will merge some\nsomething into that object and then when
+Dialogue: 00:25:09.50,00:25:09.51,something into that object and then when\n 
+Dialogue: 00:25:09.51,00:25:11.27,something into that object and then when\nwe want to access it we do this that
+Dialogue: 00:25:11.27,00:25:11.28,we want to access it we do this that\n 
+Dialogue: 00:25:11.28,00:25:15.95,we want to access it we do this that\nstate there's something on the right in
+Dialogue: 00:25:15.95,00:25:15.96,state there's something on the right in\n 
+Dialogue: 00:25:15.96,00:25:19.52,state there's something on the right in\nthe example using hooks we use the state
+Dialogue: 00:25:19.52,00:25:19.53,the example using hooks we use the state\n 
+Dialogue: 00:25:19.53,00:25:23.72,the example using hooks we use the state\nhook twice and that declares two state
+Dialogue: 00:25:23.72,00:25:23.73,hook twice and that declares two state\n 
+Dialogue: 00:25:23.73,00:25:27.56,hook twice and that declares two state\nvariables name and surname and whenever
+Dialogue: 00:25:27.56,00:25:27.57,variables name and surname and whenever\n 
+Dialogue: 00:25:27.57,00:25:30.29,variables name and surname and whenever\nwe call set name or set surname
+Dialogue: 00:25:30.29,00:25:30.30,we call set name or set surname\n 
+Dialogue: 00:25:30.30,00:25:32.57,we call set name or set surname\nthis tells react that it needs to
+Dialogue: 00:25:32.57,00:25:32.58,this tells react that it needs to\n 
+Dialogue: 00:25:32.58,00:25:34.76,this tells react that it needs to\nre-render this component just like if we
+Dialogue: 00:25:34.76,00:25:34.77,re-render this component just like if we\n 
+Dialogue: 00:25:34.77,00:25:37.61,re-render this component just like if we\ncalled says state and so the next time
+Dialogue: 00:25:37.61,00:25:37.62,called says state and so the next time\n 
+Dialogue: 00:25:37.62,00:25:40.13,called says state and so the next time\nreactor renders our components is going
+Dialogue: 00:25:40.13,00:25:40.14,reactor renders our components is going\n 
+Dialogue: 00:25:40.14,00:25:43.31,reactor renders our components is going\nto pass the current name and the current
+Dialogue: 00:25:43.31,00:25:43.32,to pass the current name and the current\n 
+Dialogue: 00:25:43.32,00:25:47.24,to pass the current name and the current\nsurname to our component and then we can
+Dialogue: 00:25:47.24,00:25:47.25,surname to our component and then we can\n 
+Dialogue: 00:25:47.25,00:25:49.28,surname to our component and then we can\nuse it directly without accessing this
+Dialogue: 00:25:49.28,00:25:49.29,use it directly without accessing this\n 
+Dialogue: 00:25:49.29,00:25:59.99,use it directly without accessing this\nthat state that's something
+Dialogue: 00:25:59.99,00:26:00.00, \n 
+Dialogue: 00:26:00.00,00:26:03.33, \nall right so let's go back to our class
+Dialogue: 00:26:03.33,00:26:03.34,all right so let's go back to our class\n 
+Dialogue: 00:26:03.34,00:26:06.78,all right so let's go back to our class\nexample what else what are other
+Dialogue: 00:26:06.78,00:26:06.79,example what else what are other\n 
+Dialogue: 00:26:06.79,00:26:09.99,example what else what are other\nfeatures of reactor we know so another
+Dialogue: 00:26:09.99,00:26:10.00,features of reactor we know so another\n 
+Dialogue: 00:26:10.00,00:26:11.40,features of reactor we know so another\nthing you might want to do from a
+Dialogue: 00:26:11.40,00:26:11.41,thing you might want to do from a\n 
+Dialogue: 00:26:11.41,00:26:15.69,thing you might want to do from a\ncomponent is to read context so context
+Dialogue: 00:26:15.69,00:26:15.70,component is to read context so context\n 
+Dialogue: 00:26:15.70,00:26:17.61,component is to read context so context\nin case you're not familiar it's like
+Dialogue: 00:26:17.61,00:26:17.62,in case you're not familiar it's like\n 
+Dialogue: 00:26:17.62,00:26:20.04,in case you're not familiar it's like\nkind of like global variables for a
+Dialogue: 00:26:20.04,00:26:20.05,kind of like global variables for a\n 
+Dialogue: 00:26:20.05,00:26:22.41,kind of like global variables for a\nsubtree so it's useful for things like
+Dialogue: 00:26:22.41,00:26:22.42,subtree so it's useful for things like\n 
+Dialogue: 00:26:22.42,00:26:25.56,subtree so it's useful for things like\nread the current theme like visual theme
+Dialogue: 00:26:25.56,00:26:25.57,read the current theme like visual theme\n 
+Dialogue: 00:26:25.57,00:26:27.90,read the current theme like visual theme\nor the current language that the user is
+Dialogue: 00:26:27.90,00:26:27.91,or the current language that the user is\n 
+Dialogue: 00:26:27.91,00:26:30.80,or the current language that the user is\nusing and it's useful to avoid passing
+Dialogue: 00:26:30.80,00:26:30.81,using and it's useful to avoid passing\n 
+Dialogue: 00:26:30.81,00:26:33.51,using and it's useful to avoid passing\neverything through props if you need all
+Dialogue: 00:26:33.51,00:26:33.52,everything through props if you need all\n 
+Dialogue: 00:26:33.52,00:26:35.46,everything through props if you need all\ncomponents to be able to read some value
+Dialogue: 00:26:35.46,00:26:35.47,components to be able to read some value\n 
+Dialogue: 00:26:35.47,00:26:39.60,components to be able to read some value\nso we're going to import theme context
+Dialogue: 00:26:39.60,00:26:39.61,so we're going to import theme context\n 
+Dialogue: 00:26:39.61,00:26:42.99,so we're going to import theme context\nand local context which I already
+Dialogue: 00:26:42.99,00:26:43.00,and local context which I already\n 
+Dialogue: 00:26:43.00,00:26:46.53,and local context which I already\ndeclared in another file and the API
+Dialogue: 00:26:46.53,00:26:46.54,declared in another file and the API\n 
+Dialogue: 00:26:46.54,00:26:48.57,declared in another file and the API\nyou've probably most familiar with for
+Dialogue: 00:26:48.57,00:26:48.58,you've probably most familiar with for\n 
+Dialogue: 00:26:48.58,00:26:50.55,you've probably most familiar with for\nconsuming context especially if you have
+Dialogue: 00:26:50.55,00:26:50.56,consuming context especially if you have\n 
+Dialogue: 00:26:50.56,00:26:52.74,consuming context especially if you have\nto consume multiple contexts is the
+Dialogue: 00:26:52.74,00:26:52.75,to consume multiple contexts is the\n 
+Dialogue: 00:26:52.75,00:26:55.74,to consume multiple contexts is the\nrender prop API and it looks like this
+Dialogue: 00:26:55.74,00:26:55.75,render prop API and it looks like this\n 
+Dialogue: 00:26:55.75,00:26:59.52,render prop API and it looks like this\nso I'm going to scroll down here so we
+Dialogue: 00:26:59.52,00:26:59.53,so I'm going to scroll down here so we\n 
+Dialogue: 00:26:59.53,00:27:02.67,so I'm going to scroll down here so we\ncan choose theme context consumer that
+Dialogue: 00:27:02.67,00:27:02.68,can choose theme context consumer that\n 
+Dialogue: 00:27:02.68,00:27:06.18,can choose theme context consumer that\ngives us a theme in my case it's just
+Dialogue: 00:27:06.18,00:27:06.19,gives us a theme in my case it's just\n 
+Dialogue: 00:27:06.19,00:27:12.78,gives us a theme in my case it's just\ngoing to be a CSS class so I copy this
+Dialogue: 00:27:12.78,00:27:12.79,going to be a CSS class so I copy this\n 
+Dialogue: 00:27:12.79,00:27:17.81,going to be a CSS class so I copy this\nall this code inside the render prop and
+Dialogue: 00:27:17.81,00:27:17.82,all this code inside the render prop and\n 
+Dialogue: 00:27:17.82,00:27:23.57,all this code inside the render prop and\nI'm going to use class name equals theme
+Dialogue: 00:27:23.57,00:27:23.58, \n 
+Dialogue: 00:27:23.58,00:27:28.02, \nall right very old-timey
+Dialogue: 00:27:28.02,00:27:28.03,all right very old-timey\n 
+Dialogue: 00:27:28.03,00:27:30.54,all right very old-timey\nand I also want to show the current
+Dialogue: 00:27:30.54,00:27:30.55,and I also want to show the current\n 
+Dialogue: 00:27:30.55,00:27:33.48,and I also want to show the current\nlanguage so I'm going to use local
+Dialogue: 00:27:33.48,00:27:33.49,language so I'm going to use local\n 
+Dialogue: 00:27:33.49,00:27:42.21,language so I'm going to use local\ncontext consumer and it's going to
+Dialogue: 00:27:42.21,00:27:42.22,context consumer and it's going to\n 
+Dialogue: 00:27:42.22,00:27:46.41,context consumer and it's going to\nrender another role so I will copy and
+Dialogue: 00:27:46.41,00:27:46.42,render another role so I will copy and\n 
+Dialogue: 00:27:46.42,00:27:51.71,render another role so I will copy and\npaste this role can I say language
+Dialogue: 00:27:51.71,00:27:51.72,paste this role can I say language\n 
+Dialogue: 00:27:51.72,00:27:58.50,paste this role can I say language\nlanguage and render it here okay we can
+Dialogue: 00:27:58.50,00:27:58.51,language and render it here okay we can\n 
+Dialogue: 00:27:58.51,00:28:01.35,language and render it here okay we can\nsee that context works and that's
+Dialogue: 00:28:01.35,00:28:01.36,see that context works and that's\n 
+Dialogue: 00:28:01.36,00:28:03.66,see that context works and that's\nprobably normally consume context we
+Dialogue: 00:28:03.66,00:28:03.67,probably normally consume context we\n 
+Dialogue: 00:28:03.67,00:28:05.55,probably normally consume context we\nactually added a more convenient API for
+Dialogue: 00:28:05.55,00:28:05.56,actually added a more convenient API for\n 
+Dialogue: 00:28:05.56,00:28:08.54,actually added a more convenient API for\naccessing it in classes in 1606
+Dialogue: 00:28:08.54,00:28:08.55,accessing it in classes in 1606\n 
+Dialogue: 00:28:08.55,00:28:11.64,accessing it in classes in 1606\nbut this is how you can see multiple
+Dialogue: 00:28:11.64,00:28:11.65,but this is how you can see multiple\n 
+Dialogue: 00:28:11.65,00:28:17.22,but this is how you can see multiple\ncontexts so let's look at the at how we
+Dialogue: 00:28:17.22,00:28:17.23,contexts so let's look at the at how we\n 
+Dialogue: 00:28:17.23,00:28:21.21,contexts so let's look at the at how we\ncould do this with hooks so as we said
+Dialogue: 00:28:21.21,00:28:21.22,could do this with hooks so as we said\n 
+Dialogue: 00:28:21.22,00:28:23.61,could do this with hooks so as we said\nthat state is a fundamental feature of
+Dialogue: 00:28:23.61,00:28:23.62,that state is a fundamental feature of\n 
+Dialogue: 00:28:23.62,00:28:26.43,that state is a fundamental feature of\nreact and this is why you can use state
+Dialogue: 00:28:26.43,00:28:26.44,react and this is why you can use state\n 
+Dialogue: 00:28:26.44,00:28:31.08,react and this is why you can use state\nand so if we want to use context I need
+Dialogue: 00:28:31.08,00:28:31.09,and so if we want to use context I need\n 
+Dialogue: 00:28:31.09,00:28:34.47,and so if we want to use context I need\nto import my contexts so this is gonna
+Dialogue: 00:28:34.47,00:28:34.48,to import my contexts so this is gonna\n 
+Dialogue: 00:28:34.48,00:28:41.24,to import my contexts so this is gonna\nbe a themed context local context and
+Dialogue: 00:28:41.24,00:28:41.25, \n 
+Dialogue: 00:28:41.25,00:28:44.40, \nnow if I want to use context from my
+Dialogue: 00:28:44.40,00:28:44.41,now if I want to use context from my\n 
+Dialogue: 00:28:44.41,00:28:50.94,now if I want to use context from my\ncomponent I can use context and then to
+Dialogue: 00:28:50.94,00:28:50.95,component I can use context and then to\n 
+Dialogue: 00:28:50.95,00:28:54.98,component I can use context and then to\nget the current theme I can use context
+Dialogue: 00:28:54.98,00:28:54.99,get the current theme I can use context\n 
+Dialogue: 00:28:54.99,00:28:58.83,get the current theme I can use context\nsame context and to get the current
+Dialogue: 00:28:58.83,00:28:58.84,same context and to get the current\n 
+Dialogue: 00:28:58.84,00:29:03.15,same context and to get the current\nlocale I can use context local context
+Dialogue: 00:29:03.15,00:29:03.16,locale I can use context local context\n 
+Dialogue: 00:29:03.16,00:29:06.30,locale I can use context local context\nand this doesn't just read the context
+Dialogue: 00:29:06.30,00:29:06.31,and this doesn't just read the context\n 
+Dialogue: 00:29:06.31,00:29:08.46,and this doesn't just read the context\nit also subscribes the component to
+Dialogue: 00:29:08.46,00:29:08.47,it also subscribes the component to\n 
+Dialogue: 00:29:08.47,00:29:11.43,it also subscribes the component to\nupdates to this context but it just
+Dialogue: 00:29:11.43,00:29:11.44,updates to this context but it just\n 
+Dialogue: 00:29:11.44,00:29:13.62,updates to this context but it just\ngives me the current values so I can I
+Dialogue: 00:29:13.62,00:29:13.63,gives me the current values so I can I\n 
+Dialogue: 00:29:13.63,00:29:19.89,gives me the current values so I can I\ncan put it into my CSS class name and I
+Dialogue: 00:29:19.89,00:29:19.90,can put it into my CSS class name and I\n 
+Dialogue: 00:29:19.90,00:29:29.01,can put it into my CSS class name and I\ncan add the bro first language and I can
+Dialogue: 00:29:29.01,00:29:29.02,can add the bro first language and I can\n 
+Dialogue: 00:29:29.02,00:29:42.16,can add the bro first language and I can\nput it here
+Dialogue: 00:29:42.16,00:29:42.17, \n 
+Dialogue: 00:29:42.17,00:29:44.90, \nall right so let's let's compare the two
+Dialogue: 00:29:44.90,00:29:44.91,all right so let's let's compare the two\n 
+Dialogue: 00:29:44.91,00:29:48.89,all right so let's let's compare the two\napproaches so this is the traditional
+Dialogue: 00:29:48.89,00:29:48.90,approaches so this is the traditional\n 
+Dialogue: 00:29:48.90,00:29:52.12,approaches so this is the traditional\nkind of render prop a bi
+Dialogue: 00:29:52.12,00:29:52.13,kind of render prop a bi\n 
+Dialogue: 00:29:52.13,00:29:54.89,kind of render prop a bi\nit is very explicit about what it's
+Dialogue: 00:29:54.89,00:29:54.90,it is very explicit about what it's\n 
+Dialogue: 00:29:54.90,00:29:58.40,it is very explicit about what it's\ndoing but it does get a little bit
+Dialogue: 00:29:58.40,00:29:58.41,doing but it does get a little bit\n 
+Dialogue: 00:29:58.41,00:30:02.18,doing but it does get a little bit\nnested and you encounter this not just
+Dialogue: 00:30:02.18,00:30:02.19,nested and you encounter this not just\n 
+Dialogue: 00:30:02.19,00:30:03.65,nested and you encounter this not just\nwith context with with any kind of
+Dialogue: 00:30:03.65,00:30:03.66,with context with with any kind of\n 
+Dialogue: 00:30:03.66,00:30:08.63,with context with with any kind of\nrender property P I so with hooks it
+Dialogue: 00:30:08.63,00:30:08.64,render property P I so with hooks it\n 
+Dialogue: 00:30:08.64,00:30:13.25,render property P I so with hooks it\ndoes the same thing but it's flat so we
+Dialogue: 00:30:13.25,00:30:13.26,does the same thing but it's flat so we\n 
+Dialogue: 00:30:13.26,00:30:14.99,does the same thing but it's flat so we\njust say we use this context in this
+Dialogue: 00:30:14.99,00:30:15.00,just say we use this context in this\n 
+Dialogue: 00:30:15.00,00:30:17.57,just say we use this context in this\ncontext and we get the theme and locale
+Dialogue: 00:30:17.57,00:30:17.58,context and we get the theme and locale\n 
+Dialogue: 00:30:17.58,00:30:23.72,context and we get the theme and locale\nand then we can use them so you might be
+Dialogue: 00:30:23.72,00:30:23.73,and then we can use them so you might be\n 
+Dialogue: 00:30:23.73,00:30:25.76,and then we can use them so you might be\nwondering at this point how can react
+Dialogue: 00:30:25.76,00:30:25.77,wondering at this point how can react\n 
+Dialogue: 00:30:25.77,00:30:28.49,wondering at this point how can react\npossibly know for example I have this to
+Dialogue: 00:30:28.49,00:30:28.50,possibly know for example I have this to\n 
+Dialogue: 00:30:28.50,00:30:30.89,possibly know for example I have this to\nyou state calls so how does it know
+Dialogue: 00:30:30.89,00:30:30.90,you state calls so how does it know\n 
+Dialogue: 00:30:30.90,00:30:33.14,you state calls so how does it know\nwhich state variable corresponds to
+Dialogue: 00:30:33.14,00:30:33.15,which state variable corresponds to\n 
+Dialogue: 00:30:33.15,00:30:37.52,which state variable corresponds to\nwhich you state call and the answer is
+Dialogue: 00:30:37.52,00:30:37.53,which you state call and the answer is\n 
+Dialogue: 00:30:37.53,00:30:40.61,which you state call and the answer is\nthat react relies on the order of these
+Dialogue: 00:30:40.61,00:30:40.62,that react relies on the order of these\n 
+Dialogue: 00:30:40.62,00:30:44.18,that react relies on the order of these\ncalls this may be a little bit unusual
+Dialogue: 00:30:44.18,00:30:44.19,calls this may be a little bit unusual\n 
+Dialogue: 00:30:44.19,00:30:48.23,calls this may be a little bit unusual\nand in order for this to work correctly
+Dialogue: 00:30:48.23,00:30:48.24,and in order for this to work correctly\n 
+Dialogue: 00:30:48.24,00:30:50.63,and in order for this to work correctly\nthere is a rule that you need to follow
+Dialogue: 00:30:50.63,00:30:50.64,there is a rule that you need to follow\n 
+Dialogue: 00:30:50.64,00:30:54.20,there is a rule that you need to follow\nwhen you use cooks and the rule is that
+Dialogue: 00:30:54.20,00:30:54.21,when you use cooks and the rule is that\n 
+Dialogue: 00:30:54.21,00:30:57.92,when you use cooks and the rule is that\nyou cannot call hook inside a condition
+Dialogue: 00:30:57.92,00:30:57.93,you cannot call hook inside a condition\n 
+Dialogue: 00:30:57.93,00:31:00.38,you cannot call hook inside a condition\nit has to be at the top level of your
+Dialogue: 00:31:00.38,00:31:00.39,it has to be at the top level of your\n 
+Dialogue: 00:31:00.39,00:31:02.87,it has to be at the top level of your\ncomponent so if I do something like if
+Dialogue: 00:31:02.87,00:31:02.88,component so if I do something like if\n 
+Dialogue: 00:31:02.88,00:31:07.13,component so if I do something like if\nprops condition and then I call the you
+Dialogue: 00:31:07.13,00:31:07.14,props condition and then I call the you\n 
+Dialogue: 00:31:07.14,00:31:09.74,props condition and then I call the you\nstate hook here we actually have a
+Dialogue: 00:31:09.74,00:31:09.75,state hook here we actually have a\n 
+Dialogue: 00:31:09.75,00:31:12.74,state hook here we actually have a\nlinter plugin that is going to complain
+Dialogue: 00:31:12.74,00:31:12.75,linter plugin that is going to complain\n 
+Dialogue: 00:31:12.75,00:31:14.75,linter plugin that is going to complain\nthat this is not the correct way to use
+Dialogue: 00:31:14.75,00:31:14.76,that this is not the correct way to use\n 
+Dialogue: 00:31:14.76,00:31:18.80,that this is not the correct way to use\nhooks and we realize that this is an
+Dialogue: 00:31:18.80,00:31:18.81,hooks and we realize that this is an\n 
+Dialogue: 00:31:18.81,00:31:23.33,hooks and we realize that this is an\nunusual limitation but it is pretty
+Dialogue: 00:31:23.33,00:31:23.34,unusual limitation but it is pretty\n 
+Dialogue: 00:31:23.34,00:31:25.94,unusual limitation but it is pretty\nimportant for hooks tour correctly and
+Dialogue: 00:31:25.94,00:31:25.95,important for hooks tour correctly and\n 
+Dialogue: 00:31:25.95,00:31:28.64,important for hooks tour correctly and\nalso to enable certain things that I
+Dialogue: 00:31:28.64,00:31:28.65,also to enable certain things that I\n 
+Dialogue: 00:31:28.65,00:31:30.71,also to enable certain things that I\nthink well you will like that I will
+Dialogue: 00:31:30.71,00:31:30.72,think well you will like that I will\n 
+Dialogue: 00:31:30.72,00:31:36.89,think well you will like that I will\nshow a bit later all right so let's go
+Dialogue: 00:31:36.89,00:31:36.90,show a bit later all right so let's go\n 
+Dialogue: 00:31:36.90,00:31:41.68,show a bit later all right so let's go\nback to our class
+Dialogue: 00:31:41.68,00:31:41.69, \n 
+Dialogue: 00:31:41.69,00:31:43.78, \nso the other thing you might want to
+Dialogue: 00:31:43.78,00:31:43.79,so the other thing you might want to\n 
+Dialogue: 00:31:43.79,00:31:47.65,so the other thing you might want to\nreach for the class for is lifecycle
+Dialogue: 00:31:47.65,00:31:47.66,reach for the class for is lifecycle\n 
+Dialogue: 00:31:47.66,00:31:50.62,reach for the class for is lifecycle\nmethods so the most commonly use case
+Dialogue: 00:31:50.62,00:31:50.63,methods so the most commonly use case\n 
+Dialogue: 00:31:50.63,00:31:52.36,methods so the most commonly use case\nfor lifecycle methods is you want to
+Dialogue: 00:31:52.36,00:31:52.37,for lifecycle methods is you want to\n 
+Dialogue: 00:31:52.37,00:31:55.48,for lifecycle methods is you want to\nperform some side effect such as firing
+Dialogue: 00:31:55.48,00:31:55.49,perform some side effect such as firing\n 
+Dialogue: 00:31:55.49,00:31:57.91,perform some side effect such as firing\noff request performing some kind of
+Dialogue: 00:31:57.91,00:31:57.92,off request performing some kind of\n 
+Dialogue: 00:31:57.92,00:32:01.12,off request performing some kind of\nimperative Dom mutation interfacing with
+Dialogue: 00:32:01.12,00:32:01.13,imperative Dom mutation interfacing with\n 
+Dialogue: 00:32:01.13,00:32:03.34,imperative Dom mutation interfacing with\nthe browser api's so you might want to
+Dialogue: 00:32:03.34,00:32:03.35,the browser api's so you might want to\n 
+Dialogue: 00:32:03.35,00:32:05.23,the browser api's so you might want to\ndo something like this and you can't do
+Dialogue: 00:32:05.23,00:32:05.24,do something like this and you can't do\n 
+Dialogue: 00:32:05.24,00:32:07.60,do something like this and you can't do\nduring rendering because it's it's not
+Dialogue: 00:32:07.60,00:32:07.61,during rendering because it's it's not\n 
+Dialogue: 00:32:07.61,00:32:10.33,during rendering because it's it's not\nrendered yet so the way you do
+Dialogue: 00:32:10.33,00:32:10.34,rendered yet so the way you do\n 
+Dialogue: 00:32:10.34,00:32:13.51,rendered yet so the way you do\nside-effects and react is you declare a
+Dialogue: 00:32:13.51,00:32:13.52,side-effects and react is you declare a\n 
+Dialogue: 00:32:13.52,00:32:15.73,side-effects and react is you declare a\nlife cycle method like component in
+Dialogue: 00:32:15.73,00:32:15.74,life cycle method like component in\n 
+Dialogue: 00:32:15.74,00:32:21.58,life cycle method like component in\nmount and then let's say that if let me
+Dialogue: 00:32:21.58,00:32:21.59,mount and then let's say that if let me\n 
+Dialogue: 00:32:21.59,00:32:23.41,mount and then let's say that if let me\nshow this so you see at the top of the
+Dialogue: 00:32:23.41,00:32:23.42,show this so you see at the top of the\n 
+Dialogue: 00:32:23.42,00:32:26.68,show this so you see at the top of the\nscreen it says react up so there is
+Dialogue: 00:32:26.68,00:32:26.69,screen it says react up so there is\n 
+Dialogue: 00:32:26.69,00:32:28.48,screen it says react up so there is\nactually a browser API that lets us
+Dialogue: 00:32:28.48,00:32:28.49,actually a browser API that lets us\n 
+Dialogue: 00:32:28.49,00:32:32.29,actually a browser API that lets us\nupdate this so let's say we want the tab
+Dialogue: 00:32:32.29,00:32:32.30,update this so let's say we want the tab\n 
+Dialogue: 00:32:32.30,00:32:35.41,update this so let's say we want the tab\ntitle to be the name of the person and
+Dialogue: 00:32:35.41,00:32:35.42,title to be the name of the person and\n 
+Dialogue: 00:32:35.42,00:32:38.77,title to be the name of the person and\nchange it as I type and so to set it
+Dialogue: 00:32:38.77,00:32:38.78,change it as I type and so to set it\n 
+Dialogue: 00:32:38.78,00:32:40.72,change it as I type and so to set it\ninitially I'm going there is a browser
+Dialogue: 00:32:40.72,00:32:40.73,initially I'm going there is a browser\n 
+Dialogue: 00:32:40.73,00:32:43.00,initially I'm going there is a browser\nAPI to do this is documented title
+Dialogue: 00:32:43.00,00:32:43.01,API to do this is documented title\n 
+Dialogue: 00:32:43.01,00:32:46.72,API to do this is documented title\nequals this that stayed that name was
+Dialogue: 00:32:46.72,00:32:46.73,equals this that stayed that name was\n 
+Dialogue: 00:32:46.73,00:32:51.57,equals this that stayed that name was\nspace was this the state that's her name
+Dialogue: 00:32:51.57,00:32:51.58, \n 
+Dialogue: 00:32:51.58,00:32:55.50, \nso now we can see it's as Mary Poppins
+Dialogue: 00:32:55.50,00:32:55.51,so now we can see it's as Mary Poppins\n 
+Dialogue: 00:32:55.51,00:33:00.64,so now we can see it's as Mary Poppins\nbut then if I if I edit it it doesn't
+Dialogue: 00:33:00.64,00:33:00.65,but then if I if I edit it it doesn't\n 
+Dialogue: 00:33:00.65,00:33:02.83,but then if I if I edit it it doesn't\nget automatically updated because I also
+Dialogue: 00:33:02.83,00:33:02.84,get automatically updated because I also\n 
+Dialogue: 00:33:02.84,00:33:05.67,get automatically updated because I also\nneed to implement component it update
+Dialogue: 00:33:05.67,00:33:05.68,need to implement component it update\n 
+Dialogue: 00:33:05.68,00:33:08.59,need to implement component it update\nfor the for the side effects to be
+Dialogue: 00:33:08.59,00:33:08.60,for the for the side effects to be\n 
+Dialogue: 00:33:08.60,00:33:12.22,for the for the side effects to be\nconsistent with what I rendered so I'm
+Dialogue: 00:33:12.22,00:33:12.23,consistent with what I rendered so I'm\n 
+Dialogue: 00:33:12.23,00:33:13.78,consistent with what I rendered so I'm\ngoing to declare a component it update
+Dialogue: 00:33:13.78,00:33:13.79,going to declare a component it update\n 
+Dialogue: 00:33:13.79,00:33:21.01,going to declare a component it update\nand just copy and paste this all right
+Dialogue: 00:33:21.01,00:33:21.02,and just copy and paste this all right\n 
+Dialogue: 00:33:21.02,00:33:24.15,and just copy and paste this all right\nso now says Mary Poppins but if I
+Dialogue: 00:33:24.15,00:33:24.16,so now says Mary Poppins but if I\n 
+Dialogue: 00:33:24.16,00:33:28.30,so now says Mary Poppins but if I\nstarted editing it the document title
+Dialogue: 00:33:28.30,00:33:28.31,started editing it the document title\n 
+Dialogue: 00:33:28.31,00:33:30.70,started editing it the document title\nupdates and this is how we perform side
+Dialogue: 00:33:30.70,00:33:30.71,updates and this is how we perform side\n 
+Dialogue: 00:33:30.71,00:33:39.38,updates and this is how we perform side\neffects in a class
+Dialogue: 00:33:39.38,00:33:39.39, \n 
+Dialogue: 00:33:39.39,00:33:45.60, \nso how do we do this with hooks well the
+Dialogue: 00:33:45.60,00:33:45.61,so how do we do this with hooks well the\n 
+Dialogue: 00:33:45.61,00:33:47.67,so how do we do this with hooks well the\nability to perform side effects is
+Dialogue: 00:33:47.67,00:33:47.68,ability to perform side effects is\n 
+Dialogue: 00:33:47.68,00:33:51.71,ability to perform side effects is\nanother core feature of react components
+Dialogue: 00:33:51.71,00:33:51.72,another core feature of react components\n 
+Dialogue: 00:33:51.72,00:33:56.52,another core feature of react components\nso if we want to use an effect from our
+Dialogue: 00:33:56.52,00:33:56.53,so if we want to use an effect from our\n 
+Dialogue: 00:33:56.53,00:34:01.44,so if we want to use an effect from our\ncomponent make an import use effect from
+Dialogue: 00:34:01.44,00:34:01.45,component make an import use effect from\n 
+Dialogue: 00:34:01.45,00:34:07.50,component make an import use effect from\nreactant and then we want to tell react
+Dialogue: 00:34:07.50,00:34:07.51,reactant and then we want to tell react\n 
+Dialogue: 00:34:07.51,00:34:09.87,reactant and then we want to tell react\nwhat to do after react has flushed our
+Dialogue: 00:34:09.87,00:34:09.88,what to do after react has flushed our\n 
+Dialogue: 00:34:09.88,00:34:12.48,what to do after react has flushed our\ncomponents to the Dom so we pass a
+Dialogue: 00:34:12.48,00:34:12.49,components to the Dom so we pass a\n 
+Dialogue: 00:34:12.49,00:34:15.24,components to the Dom so we pass a\nfunction which is where we perform our
+Dialogue: 00:34:15.24,00:34:15.25,function which is where we perform our\n 
+Dialogue: 00:34:15.25,00:34:17.85,function which is where we perform our\neffect so I'm going to say document the
+Dialogue: 00:34:17.85,00:34:17.86,effect so I'm going to say document the\n 
+Dialogue: 00:34:17.86,00:34:21.35,effect so I'm going to say document the\ntitle equals name plus space plus
+Dialogue: 00:34:21.35,00:34:21.36,title equals name plus space plus\n 
+Dialogue: 00:34:21.36,00:34:28.89,title equals name plus space plus\nsurname you can see it says Mary Poppins
+Dialogue: 00:34:28.89,00:34:28.90,surname you can see it says Mary Poppins\n 
+Dialogue: 00:34:28.90,00:34:33.84,surname you can see it says Mary Poppins\nhere and if I start editing it actually
+Dialogue: 00:34:33.84,00:34:33.85,here and if I start editing it actually\n 
+Dialogue: 00:34:33.85,00:34:35.51,here and if I start editing it actually\nupdates
+Dialogue: 00:34:35.51,00:34:35.52,updates\n 
+Dialogue: 00:34:35.52,00:34:39.03,updates\nso what default use effect runs both
+Dialogue: 00:34:39.03,00:34:39.04,so what default use effect runs both\n 
+Dialogue: 00:34:39.04,00:34:42.54,so what default use effect runs both\nafter the initial render and after every
+Dialogue: 00:34:42.54,00:34:42.55,after the initial render and after every\n 
+Dialogue: 00:34:42.55,00:34:45.39,after the initial render and after every\nupdate so by default it is consistent
+Dialogue: 00:34:45.39,00:34:45.40,update so by default it is consistent\n 
+Dialogue: 00:34:45.40,00:34:48.72,update so by default it is consistent\nwith what he rendered and you can opt
+Dialogue: 00:34:48.72,00:34:48.73,with what he rendered and you can opt\n 
+Dialogue: 00:34:48.73,00:34:50.52,with what he rendered and you can opt\nout of this behavior if like for
+Dialogue: 00:34:50.52,00:34:50.53,out of this behavior if like for\n 
+Dialogue: 00:34:50.53,00:34:52.59,out of this behavior if like for\nperformance reasons and/or if you have
+Dialogue: 00:34:52.59,00:34:52.60,performance reasons and/or if you have\n 
+Dialogue: 00:34:52.60,00:34:56.28,performance reasons and/or if you have\nspecial logic and reinstall after me
+Dialogue: 00:34:56.28,00:34:56.29,special logic and reinstall after me\n 
+Dialogue: 00:34:56.29,00:35:00.98,special logic and reinstall after me\nwill touch a little bit on this so let's
+Dialogue: 00:35:00.98,00:35:00.99,will touch a little bit on this so let's\n 
+Dialogue: 00:35:00.99,00:35:07.44,will touch a little bit on this so let's\ncompare DG approaches so in the in the
+Dialogue: 00:35:07.44,00:35:07.45,compare DG approaches so in the in the\n 
+Dialogue: 00:35:07.45,00:35:09.63,compare DG approaches so in the in the\nclass we divide method we divide the
+Dialogue: 00:35:09.63,00:35:09.64,class we divide method we divide the\n 
+Dialogue: 00:35:09.64,00:35:12.60,class we divide method we divide the\nlogic based on lifecycle method names so
+Dialogue: 00:35:12.60,00:35:12.61,logic based on lifecycle method names so\n 
+Dialogue: 00:35:12.61,00:35:13.92,logic based on lifecycle method names so\nthis is why we have component adnan
+Dialogue: 00:35:13.92,00:35:13.93,this is why we have component adnan\n 
+Dialogue: 00:35:13.93,00:35:15.54,this is why we have component adnan\ncomponent it update they fire at
+Dialogue: 00:35:15.54,00:35:15.55,component it update they fire at\n 
+Dialogue: 00:35:15.55,00:35:18.30,component it update they fire at\ndifferent times and we sometimes repeat
+Dialogue: 00:35:18.30,00:35:18.31,different times and we sometimes repeat\n 
+Dialogue: 00:35:18.31,00:35:20.19,different times and we sometimes repeat\nsome logic between them we could extract
+Dialogue: 00:35:20.19,00:35:20.20,some logic between them we could extract\n 
+Dialogue: 00:35:20.20,00:35:22.26,some logic between them we could extract\nit to a function but still we would have
+Dialogue: 00:35:22.26,00:35:22.27,it to a function but still we would have\n 
+Dialogue: 00:35:22.27,00:35:24.63,it to a function but still we would have\nto call it in two places and remember to
+Dialogue: 00:35:24.63,00:35:24.64,to call it in two places and remember to\n 
+Dialogue: 00:35:24.64,00:35:28.14,to call it in two places and remember to\nkeep it consistent and with with the
+Dialogue: 00:35:28.14,00:35:28.15,keep it consistent and with with the\n 
+Dialogue: 00:35:28.15,00:35:31.35,keep it consistent and with with the\neffect hook the effects are consistent
+Dialogue: 00:35:31.35,00:35:31.36,effect hook the effects are consistent\n 
+Dialogue: 00:35:31.36,00:35:33.39,effect hook the effects are consistent\nby default although there is a way to
+Dialogue: 00:35:33.39,00:35:33.40,by default although there is a way to\n 
+Dialogue: 00:35:33.40,00:35:37.08,by default although there is a way to\nopt out of that and not is that in the
+Dialogue: 00:35:37.08,00:35:37.09,opt out of that and not is that in the\n 
+Dialogue: 00:35:37.09,00:35:39.09,opt out of that and not is that in the\nclass we need to access this that state
+Dialogue: 00:35:39.09,00:35:39.10,class we need to access this that state\n 
+Dialogue: 00:35:39.10,00:35:41.10,class we need to access this that state\nso there needs to be special API to do
+Dialogue: 00:35:41.10,00:35:41.11,so there needs to be special API to do\n 
+Dialogue: 00:35:41.11,00:35:44.31,so there needs to be special API to do\nthis but in the effect example we
+Dialogue: 00:35:44.31,00:35:44.32,this but in the effect example we\n 
+Dialogue: 00:35:44.32,00:35:45.81,this but in the effect example we\nactually don't need a special API to
+Dialogue: 00:35:45.81,00:35:45.82,actually don't need a special API to\n 
+Dialogue: 00:35:45.82,00:35:49.41,actually don't need a special API to\naccess the state variable because it's
+Dialogue: 00:35:49.41,00:35:49.42,access the state variable because it's\n 
+Dialogue: 00:35:49.42,00:35:50.52,access the state variable because it's\nalready in this code
+Dialogue: 00:35:50.52,00:35:50.53,already in this code\n 
+Dialogue: 00:35:50.53,00:35:52.56,already in this code\nof the function it is declared right
+Dialogue: 00:35:52.56,00:35:52.57,of the function it is declared right\n 
+Dialogue: 00:35:52.57,00:35:55.62,of the function it is declared right\nabove and this is why the effect is
+Dialogue: 00:35:55.62,00:35:55.63,above and this is why the effect is\n 
+Dialogue: 00:35:55.63,00:35:58.53,above and this is why the effect is\ndeclared inside the component rather
+Dialogue: 00:35:58.53,00:35:58.54,declared inside the component rather\n 
+Dialogue: 00:35:58.54,00:36:01.14,declared inside the component rather\nthan they rather than outside because
+Dialogue: 00:36:01.14,00:36:01.15,than they rather than outside because\n 
+Dialogue: 00:36:01.15,00:36:03.42,than they rather than outside because\nthis gives us access to state variables
+Dialogue: 00:36:03.42,00:36:03.43,this gives us access to state variables\n 
+Dialogue: 00:36:03.43,00:36:06.27,this gives us access to state variables\nability to set them and anything else
+Dialogue: 00:36:06.27,00:36:06.28,ability to set them and anything else\n 
+Dialogue: 00:36:06.28,00:36:08.85,ability to set them and anything else\nlike the current context value for
+Dialogue: 00:36:08.85,00:36:08.86,like the current context value for\n 
+Dialogue: 00:36:08.86,00:36:20.16,like the current context value for\nexample or any of these contexts all
+Dialogue: 00:36:20.16,00:36:20.17,example or any of these contexts all\n 
+Dialogue: 00:36:20.17,00:36:21.87,example or any of these contexts all\nright so let's go back to the familiar
+Dialogue: 00:36:21.87,00:36:21.88,right so let's go back to the familiar\n 
+Dialogue: 00:36:21.88,00:36:26.04,right so let's go back to the familiar\nclass example another thing you might
+Dialogue: 00:36:26.04,00:36:26.05,class example another thing you might\n 
+Dialogue: 00:36:26.05,00:36:27.93,class example another thing you might\nwant to use life cycle methods for in a
+Dialogue: 00:36:27.93,00:36:27.94,want to use life cycle methods for in a\n 
+Dialogue: 00:36:27.94,00:36:31.50,want to use life cycle methods for in a\nclass is subscriptions so maybe you want
+Dialogue: 00:36:31.50,00:36:31.51,class is subscriptions so maybe you want\n 
+Dialogue: 00:36:31.51,00:36:33.30,class is subscriptions so maybe you want\nto subscribe to some kind of browser API
+Dialogue: 00:36:33.30,00:36:33.31,to subscribe to some kind of browser API\n 
+Dialogue: 00:36:33.31,00:36:35.79,to subscribe to some kind of browser API\nand it gives you some value for example
+Dialogue: 00:36:35.79,00:36:35.80,and it gives you some value for example\n 
+Dialogue: 00:36:35.80,00:36:38.82,and it gives you some value for example\nthe window size and you want to update
+Dialogue: 00:36:38.82,00:36:38.83,the window size and you want to update\n 
+Dialogue: 00:36:38.83,00:36:41.25,the window size and you want to update\nthe state in response to changes to this
+Dialogue: 00:36:41.25,00:36:41.26,the state in response to changes to this\n 
+Dialogue: 00:36:41.26,00:36:44.16,the state in response to changes to this\nvalue and so the way we could do this in
+Dialogue: 00:36:44.16,00:36:44.17,value and so the way we could do this in\n 
+Dialogue: 00:36:44.17,00:36:47.55,value and so the way we could do this in\na class let's say that we want to that
+Dialogue: 00:36:47.55,00:36:47.56,a class let's say that we want to that\n 
+Dialogue: 00:36:47.56,00:36:50.34,a class let's say that we want to that\nwe want to monitor the window width so
+Dialogue: 00:36:50.34,00:36:50.35,we want to monitor the window width so\n 
+Dialogue: 00:36:50.35,00:36:54.33,we want to monitor the window width so\nI'm going to put with interstate this
+Dialogue: 00:36:54.33,00:36:54.34,I'm going to put with interstate this\n 
+Dialogue: 00:36:54.34,00:36:59.31,I'm going to put with interstate this\nwindow in there with browser API and I
+Dialogue: 00:36:59.31,00:36:59.32,window in there with browser API and I\n 
+Dialogue: 00:36:59.32,00:37:02.88,window in there with browser API and I\nwant to render it let me copy and paste
+Dialogue: 00:37:02.88,00:37:02.89,want to render it let me copy and paste\n 
+Dialogue: 00:37:02.89,00:37:11.52,want to render it let me copy and paste\nthis so this is gonna say width and I'm
+Dialogue: 00:37:11.52,00:37:11.53,this so this is gonna say width and I'm\n 
+Dialogue: 00:37:11.53,00:37:13.50,this so this is gonna say width and I'm\ngoing to render it here it is that state
+Dialogue: 00:37:13.50,00:37:13.51,going to render it here it is that state\n 
+Dialogue: 00:37:13.51,00:37:17.19,going to render it here it is that state\nthat width this is the width of the
+Dialogue: 00:37:17.19,00:37:17.20,that width this is the width of the\n 
+Dialogue: 00:37:17.20,00:37:21.59,that width this is the width of the\nwindow not with of Mary Poppins
+Dialogue: 00:37:21.59,00:37:21.60, \n 
+Dialogue: 00:37:21.60,00:37:26.42, \nand I'm going to add a I'm going to add
+Dialogue: 00:37:26.42,00:37:26.43,and I'm going to add a I'm going to add\n 
+Dialogue: 00:37:26.43,00:37:28.31,and I'm going to add a I'm going to add\nin event listener so we need to actually
+Dialogue: 00:37:28.31,00:37:28.32,in event listener so we need to actually\n 
+Dialogue: 00:37:28.32,00:37:31.82,in event listener so we need to actually\nlisten to changes in the width so at
+Dialogue: 00:37:31.82,00:37:31.83,listen to changes in the width so at\n 
+Dialogue: 00:37:31.83,00:37:33.80,listen to changes in the width so at\nwindow dot event
+Dialogue: 00:37:33.80,00:37:33.81,window dot event\n 
+Dialogue: 00:37:33.81,00:37:38.30,window dot event\nadd event listener I'll I'm going to
+Dialogue: 00:37:38.30,00:37:38.31,add event listener I'll I'm going to\n 
+Dialogue: 00:37:38.31,00:37:40.31,add event listener I'll I'm going to\nlisten to the resize event and the
+Dialogue: 00:37:40.31,00:37:40.32,listen to the resize event and the\n 
+Dialogue: 00:37:40.32,00:37:45.98,listen to the resize event and the\nresize and I need to declare this event
+Dialogue: 00:37:45.98,00:37:45.99,resize and I need to declare this event\n 
+Dialogue: 00:37:45.99,00:37:48.11,resize and I need to declare this event\nand so this is where we're going to
+Dialogue: 00:37:48.11,00:37:48.12,and so this is where we're going to\n 
+Dialogue: 00:37:48.12,00:37:51.95,and so this is where we're going to\nupdate the width state to be window that
+Dialogue: 00:37:51.95,00:37:51.96,update the width state to be window that\n 
+Dialogue: 00:37:51.96,00:38:03.97,update the width state to be window that\ninner width and we need to bind it and
+Dialogue: 00:38:03.97,00:38:03.98, \n 
+Dialogue: 00:38:03.98,00:38:06.92, \nand I also need to unsubscribe so I
+Dialogue: 00:38:06.92,00:38:06.93,and I also need to unsubscribe so I\n 
+Dialogue: 00:38:06.93,00:38:09.50,and I also need to unsubscribe so I\ndon't want a memory leak with like
+Dialogue: 00:38:09.50,00:38:09.51,don't want a memory leak with like\n 
+Dialogue: 00:38:09.51,00:38:11.30,don't want a memory leak with like\nkeeping these subscriptions I want to
+Dialogue: 00:38:11.30,00:38:11.31,keeping these subscriptions I want to\n 
+Dialogue: 00:38:11.31,00:38:13.55,keeping these subscriptions I want to\nunsubscribe from this event so the way
+Dialogue: 00:38:13.55,00:38:13.56,unsubscribe from this event so the way\n 
+Dialogue: 00:38:13.56,00:38:15.53,unsubscribe from this event so the way\nwe do this in a class is we create
+Dialogue: 00:38:15.53,00:38:15.54,we do this in a class is we create\n 
+Dialogue: 00:38:15.54,00:38:17.26,we do this in a class is we create\nanother life cycle method called
+Dialogue: 00:38:17.26,00:38:17.27,another life cycle method called\n 
+Dialogue: 00:38:17.27,00:38:21.62,another life cycle method called\ncomponent will unmount and I'm going to
+Dialogue: 00:38:21.62,00:38:21.63,component will unmount and I'm going to\n 
+Dialogue: 00:38:21.63,00:38:24.11,component will unmount and I'm going to\ncopy and paste this logic here except
+Dialogue: 00:38:24.11,00:38:24.12,copy and paste this logic here except\n 
+Dialogue: 00:38:24.12,00:38:27.62,copy and paste this logic here except\nthis will be a remove event listener so
+Dialogue: 00:38:27.62,00:38:27.63,this will be a remove event listener so\n 
+Dialogue: 00:38:27.63,00:38:29.75,this will be a remove event listener so\nwe set up an event listener and we
+Dialogue: 00:38:29.75,00:38:29.76,we set up an event listener and we\n 
+Dialogue: 00:38:29.76,00:38:31.97,we set up an event listener and we\nremove the event listener and we can
+Dialogue: 00:38:31.97,00:38:31.98,remove the event listener and we can\n 
+Dialogue: 00:38:31.98,00:38:33.53,remove the event listener and we can\nverify that this actually works by
+Dialogue: 00:38:33.53,00:38:33.54,verify that this actually works by\n 
+Dialogue: 00:38:33.54,00:38:35.93,verify that this actually works by\ndragging this you see the width is
+Dialogue: 00:38:35.93,00:38:35.94,dragging this you see the width is\n 
+Dialogue: 00:38:35.94,00:38:41.18,dragging this you see the width is\nchanging so it works so let's see how
+Dialogue: 00:38:41.18,00:38:41.19,changing so it works so let's see how\n 
+Dialogue: 00:38:41.19,00:38:50.50,changing so it works so let's see how\ncould how we could do this with hoax
+Dialogue: 00:38:50.50,00:38:50.51, \n 
+Dialogue: 00:38:50.51,00:38:55.73, \nso conceptually listening to the window
+Dialogue: 00:38:55.73,00:38:55.74,so conceptually listening to the window\n 
+Dialogue: 00:38:55.74,00:38:58.31,so conceptually listening to the window\nwidth has nothing to do with setting the
+Dialogue: 00:38:58.31,00:38:58.32,width has nothing to do with setting the\n 
+Dialogue: 00:38:58.32,00:39:01.73,width has nothing to do with setting the\ndocument title so that's why we're not
+Dialogue: 00:39:01.73,00:39:01.74,document title so that's why we're not\n 
+Dialogue: 00:39:01.74,00:39:03.38,document title so that's why we're not\ngonna put it in that effect it's
+Dialogue: 00:39:03.38,00:39:03.39,gonna put it in that effect it's\n 
+Dialogue: 00:39:03.39,00:39:05.42,gonna put it in that effect it's\nconceptually completely separate effect
+Dialogue: 00:39:05.42,00:39:05.43,conceptually completely separate effect\n 
+Dialogue: 00:39:05.43,00:39:08.54,conceptually completely separate effect\nand just like we could use state more
+Dialogue: 00:39:08.54,00:39:08.55,and just like we could use state more\n 
+Dialogue: 00:39:08.55,00:39:10.37,and just like we could use state more\nthan once to declare multiple state
+Dialogue: 00:39:10.37,00:39:10.38,than once to declare multiple state\n 
+Dialogue: 00:39:10.38,00:39:13.46,than once to declare multiple state\nvariables we can use effect more than
+Dialogue: 00:39:13.46,00:39:13.47,variables we can use effect more than\n 
+Dialogue: 00:39:13.47,00:39:17.89,variables we can use effect more than\nonce to perform different side effects
+Dialogue: 00:39:17.89,00:39:17.90,once to perform different side effects\n 
+Dialogue: 00:39:17.90,00:39:21.44,once to perform different side effects\nso I want to subscribe to window add
+Dialogue: 00:39:21.44,00:39:21.45,so I want to subscribe to window add\n 
+Dialogue: 00:39:21.45,00:39:29.02,so I want to subscribe to window add\nevent listener resize handle resize and
+Dialogue: 00:39:29.02,00:39:29.03,event listener resize handle resize and\n 
+Dialogue: 00:39:29.03,00:39:32.45,event listener resize handle resize and\nI'm gonna need to keep some state for
+Dialogue: 00:39:32.45,00:39:32.46,I'm gonna need to keep some state for\n 
+Dialogue: 00:39:32.46,00:39:35.24,I'm gonna need to keep some state for\nthe current width so I'm actually going
+Dialogue: 00:39:35.24,00:39:35.25,the current width so I'm actually going\n 
+Dialogue: 00:39:35.25,00:39:38.72,the current width so I'm actually going\nto declare another state variable so
+Dialogue: 00:39:38.72,00:39:38.73,to declare another state variable so\n 
+Dialogue: 00:39:38.73,00:39:44.60,to declare another state variable so\nI'll say with and sat with we get them
+Dialogue: 00:39:44.60,00:39:44.61,I'll say with and sat with we get them\n 
+Dialogue: 00:39:44.61,00:39:48.47,I'll say with and sat with we get them\nby using state with window inner width
+Dialogue: 00:39:48.47,00:39:48.48,by using state with window inner width\n 
+Dialogue: 00:39:48.48,00:39:54.68,by using state with window inner width\nas the initial value and now in my
+Dialogue: 00:39:54.68,00:39:54.69,as the initial value and now in my\n 
+Dialogue: 00:39:54.69,00:39:56.06,as the initial value and now in my\nhandle resize function
+Dialogue: 00:39:56.06,00:39:56.07,handle resize function\n 
+Dialogue: 00:39:56.07,00:39:57.86,handle resize function\nI'll just declare it here because it
+Dialogue: 00:39:57.86,00:39:57.87,I'll just declare it here because it\n 
+Dialogue: 00:39:57.87,00:40:01.25,I'll just declare it here because it\nisn't used anywhere else and it's going
+Dialogue: 00:40:01.25,00:40:01.26,isn't used anywhere else and it's going\n 
+Dialogue: 00:40:01.26,00:40:07.91,isn't used anywhere else and it's going\nto set with tree to the current width I
+Dialogue: 00:40:07.91,00:40:07.92,to set with tree to the current width I\n 
+Dialogue: 00:40:07.92,00:40:10.67,to set with tree to the current width I\nneed to render it so I'll copy and paste
+Dialogue: 00:40:10.67,00:40:10.68,need to render it so I'll copy and paste\n 
+Dialogue: 00:40:10.68,00:40:19.23,need to render it so I'll copy and paste\nthis row gonna say with
+Dialogue: 00:40:19.23,00:40:19.24, \n 
+Dialogue: 00:40:19.24,00:40:22.65, \nand finally I need to clean up after
+Dialogue: 00:40:22.65,00:40:22.66,and finally I need to clean up after\n 
+Dialogue: 00:40:22.66,00:40:25.59,and finally I need to clean up after\nthis effect so I need to specify how to
+Dialogue: 00:40:25.59,00:40:25.60,this effect so I need to specify how to\n 
+Dialogue: 00:40:25.60,00:40:29.61,this effect so I need to specify how to\nclean up and again conceptually cleaning
+Dialogue: 00:40:29.61,00:40:29.62,clean up and again conceptually cleaning\n 
+Dialogue: 00:40:29.62,00:40:32.55,clean up and again conceptually cleaning\nup is part of this effect so this effect
+Dialogue: 00:40:32.55,00:40:32.56,up is part of this effect so this effect\n 
+Dialogue: 00:40:32.56,00:40:36.71,up is part of this effect so this effect\nhas a cleaner place and the order you
+Dialogue: 00:40:36.71,00:40:36.72,has a cleaner place and the order you\n 
+Dialogue: 00:40:36.72,00:40:39.81,has a cleaner place and the order you\nthe way you can specify it is that any
+Dialogue: 00:40:39.81,00:40:39.82,the way you can specify it is that any\n 
+Dialogue: 00:40:39.82,00:40:45.53,the way you can specify it is that any\neffect can optionally return a function
+Dialogue: 00:40:45.53,00:40:45.54, \n 
+Dialogue: 00:40:45.54,00:40:49.71, \nand if it does return the function then
+Dialogue: 00:40:49.71,00:40:49.72,and if it does return the function then\n 
+Dialogue: 00:40:49.72,00:40:51.78,and if it does return the function then\nreact will call this function to clean
+Dialogue: 00:40:51.78,00:40:51.79,react will call this function to clean\n 
+Dialogue: 00:40:51.79,00:40:54.57,react will call this function to clean\nup after the effect so this is where we
+Dialogue: 00:40:54.57,00:40:54.58,up after the effect so this is where we\n 
+Dialogue: 00:40:54.58,00:41:03.45,up after the effect so this is where we\nunsubscribe ok let's just verify that
+Dialogue: 00:41:03.45,00:41:03.46,unsubscribe ok let's just verify that\n 
+Dialogue: 00:41:03.46,00:41:20.04,unsubscribe ok let's just verify that\nthis actually works yay
+Dialogue: 00:41:20.04,00:41:20.05, \n 
+Dialogue: 00:41:20.05,00:41:25.57, \nso let's compare the two approaches on
+Dialogue: 00:41:25.57,00:41:25.58,so let's compare the two approaches on\n 
+Dialogue: 00:41:25.58,00:41:27.70,so let's compare the two approaches on\nthe Left we have a familiar class
+Dialogue: 00:41:27.70,00:41:27.71,the Left we have a familiar class\n 
+Dialogue: 00:41:27.71,00:41:32.83,the Left we have a familiar class\ncomponent nothing surprising there we we
+Dialogue: 00:41:32.83,00:41:32.84,component nothing surprising there we we\n 
+Dialogue: 00:41:32.84,00:41:35.53,component nothing surprising there we we\nhave some side effects some related
+Dialogue: 00:41:35.53,00:41:35.54,have some side effects some related\n 
+Dialogue: 00:41:35.54,00:41:37.81,have some side effects some related\nlogic is split apart so we can see that
+Dialogue: 00:41:37.81,00:41:37.82,logic is split apart so we can see that\n 
+Dialogue: 00:41:37.82,00:41:40.15,logic is split apart so we can see that\ndocument title is being set here but
+Dialogue: 00:41:40.15,00:41:40.16,document title is being set here but\n 
+Dialogue: 00:41:40.16,00:41:42.67,document title is being set here but\nit's also being set here and then we
+Dialogue: 00:41:42.67,00:41:42.68,it's also being set here and then we\n 
+Dialogue: 00:41:42.68,00:41:44.35,it's also being set here and then we\nsubscribe to an effect here
+Dialogue: 00:41:44.35,00:41:44.36,subscribe to an effect here\n 
+Dialogue: 00:41:44.36,00:41:46.96,subscribe to an effect here\nsorry subscribe to the event here but we
+Dialogue: 00:41:46.96,00:41:46.97,sorry subscribe to the event here but we\n 
+Dialogue: 00:41:46.97,00:41:49.39,sorry subscribe to the event here but we\nunsubscribe here so these things need to
+Dialogue: 00:41:49.39,00:41:49.40,unsubscribe here so these things need to\n 
+Dialogue: 00:41:49.40,00:41:52.45,unsubscribe here so these things need to\nbe in sync with each other and then this
+Dialogue: 00:41:52.45,00:41:52.46,be in sync with each other and then this\n 
+Dialogue: 00:41:52.46,00:41:55.60,be in sync with each other and then this\nmethod contains two unrelated method two
+Dialogue: 00:41:55.60,00:41:55.61,method contains two unrelated method two\n 
+Dialogue: 00:41:55.61,00:41:58.69,method contains two unrelated method two\nunrelated lines so that me in the in
+Dialogue: 00:41:58.69,00:41:58.70,unrelated lines so that me in the in\n 
+Dialogue: 00:41:58.70,00:42:00.43,unrelated lines so that me in the in\nfeature make it a bit difficult to test
+Dialogue: 00:42:00.43,00:42:00.44,feature make it a bit difficult to test\n 
+Dialogue: 00:42:00.44,00:42:04.78,feature make it a bit difficult to test\nthem in isolation but it looks very
+Dialogue: 00:42:04.78,00:42:04.79,them in isolation but it looks very\n 
+Dialogue: 00:42:04.79,00:42:10.06,them in isolation but it looks very\nfamiliar so that's this nice so this
+Dialogue: 00:42:10.06,00:42:10.07,familiar so that's this nice so this\n 
+Dialogue: 00:42:10.07,00:42:12.40,familiar so that's this nice so this\ncode probably looks less familiar but
+Dialogue: 00:42:12.40,00:42:12.41,code probably looks less familiar but\n 
+Dialogue: 00:42:12.41,00:42:13.84,code probably looks less familiar but\nlet's take another look at what's going
+Dialogue: 00:42:13.84,00:42:13.85,let's take another look at what's going\n 
+Dialogue: 00:42:13.85,00:42:17.89,let's take another look at what's going\non here in with hooks we separate code
+Dialogue: 00:42:17.89,00:42:17.90,on here in with hooks we separate code\n 
+Dialogue: 00:42:17.90,00:42:20.05,on here in with hooks we separate code\nnot based on the life cycle method name
+Dialogue: 00:42:20.05,00:42:20.06,not based on the life cycle method name\n 
+Dialogue: 00:42:20.06,00:42:23.44,not based on the life cycle method name\nbut based on what the code is doing so
+Dialogue: 00:42:23.44,00:42:23.45,but based on what the code is doing so\n 
+Dialogue: 00:42:23.45,00:42:25.42,but based on what the code is doing so\nwe can see that there is one effect
+Dialogue: 00:42:25.42,00:42:25.43,we can see that there is one effect\n 
+Dialogue: 00:42:25.43,00:42:28.03,we can see that there is one effect\nwhich is we updated document title
+Dialogue: 00:42:28.03,00:42:28.04,which is we updated document title\n 
+Dialogue: 00:42:28.04,00:42:29.83,which is we updated document title\nthat's one thing this component can do
+Dialogue: 00:42:29.83,00:42:29.84,that's one thing this component can do\n 
+Dialogue: 00:42:29.84,00:42:32.65,that's one thing this component can do\nand then there is another effect which
+Dialogue: 00:42:32.65,00:42:32.66,and then there is another effect which\n 
+Dialogue: 00:42:32.66,00:42:36.04,and then there is another effect which\nis subscribing tree to the window resize
+Dialogue: 00:42:36.04,00:42:36.05,is subscribing tree to the window resize\n 
+Dialogue: 00:42:36.05,00:42:38.29,is subscribing tree to the window resize\nevent and update in the state when it
+Dialogue: 00:42:38.29,00:42:38.30,event and update in the state when it\n 
+Dialogue: 00:42:38.30,00:42:42.61,event and update in the state when it\nchanges and this effect has a cleanup
+Dialogue: 00:42:42.61,00:42:42.62,changes and this effect has a cleanup\n 
+Dialogue: 00:42:42.62,00:42:44.86,changes and this effect has a cleanup\nphase which means that when it's time to
+Dialogue: 00:42:44.86,00:42:44.87,phase which means that when it's time to\n 
+Dialogue: 00:42:44.87,00:42:47.29,phase which means that when it's time to\nremove this effect react removes it and
+Dialogue: 00:42:47.29,00:42:47.30,remove this effect react removes it and\n 
+Dialogue: 00:42:47.30,00:42:50.47,remove this effect react removes it and\navoids the memory leaks and if you've
+Dialogue: 00:42:50.47,00:42:50.48,avoids the memory leaks and if you've\n 
+Dialogue: 00:42:50.48,00:42:52.66,avoids the memory leaks and if you've\nbeen carefully watching you might notice
+Dialogue: 00:42:52.66,00:42:52.67,been carefully watching you might notice\n 
+Dialogue: 00:42:52.67,00:42:54.88,been carefully watching you might notice\nthat since effect run after every render
+Dialogue: 00:42:54.88,00:42:54.89,that since effect run after every render\n 
+Dialogue: 00:42:54.89,00:42:57.34,that since effect run after every render\nwe're just gonna keep resub scribing so
+Dialogue: 00:42:57.34,00:42:57.35,we're just gonna keep resub scribing so\n 
+Dialogue: 00:42:57.35,00:42:59.89,we're just gonna keep resub scribing so\nthere is a way to optimize this so
+Dialogue: 00:42:59.89,00:42:59.90,there is a way to optimize this so\n 
+Dialogue: 00:42:59.90,00:43:02.56,there is a way to optimize this so\ndefault is to be consistent which is
+Dialogue: 00:43:02.56,00:43:02.57,default is to be consistent which is\n 
+Dialogue: 00:43:02.57,00:43:04.33,default is to be consistent which is\nimportant if you for example use some
+Dialogue: 00:43:04.33,00:43:04.34,important if you for example use some\n 
+Dialogue: 00:43:04.34,00:43:08.11,important if you for example use some\nprop here I need to resupply from props
+Dialogue: 00:43:08.11,00:43:08.12,prop here I need to resupply from props\n 
+Dialogue: 00:43:08.12,00:43:10.36,prop here I need to resupply from props\nor something similar but there is a way
+Dialogue: 00:43:10.36,00:43:10.37,or something similar but there is a way\n 
+Dialogue: 00:43:10.37,00:43:12.10,or something similar but there is a way\nto optimize it and opt out of this
+Dialogue: 00:43:12.10,00:43:12.11,to optimize it and opt out of this\n 
+Dialogue: 00:43:12.11,00:43:14.62,to optimize it and opt out of this\nbehavior and Ryan in the next talk will
+Dialogue: 00:43:14.62,00:43:14.63,behavior and Ryan in the next talk will\n 
+Dialogue: 00:43:14.63,00:43:25.95,behavior and Ryan in the next talk will\nmention how to do it
+Dialogue: 00:43:25.95,00:43:25.96, \n 
+Dialogue: 00:43:25.96,00:43:30.12, \nall right so there is one more thing
+Dialogue: 00:43:30.12,00:43:30.13,all right so there is one more thing\n 
+Dialogue: 00:43:30.13,00:43:34.08,all right so there is one more thing\nthat I want to show here so this
+Dialogue: 00:43:34.08,00:43:34.09,that I want to show here so this\n 
+Dialogue: 00:43:34.09,00:43:35.79,that I want to show here so this\ncomponent is getting pretty large and
+Dialogue: 00:43:35.79,00:43:35.80,component is getting pretty large and\n 
+Dialogue: 00:43:35.80,00:43:39.27,component is getting pretty large and\nit's fine so we expect that since you
+Dialogue: 00:43:39.27,00:43:39.28,it's fine so we expect that since you\n 
+Dialogue: 00:43:39.28,00:43:41.64,it's fine so we expect that since you\nnow can do more in function components
+Dialogue: 00:43:41.64,00:43:41.65,now can do more in function components\n 
+Dialogue: 00:43:41.65,00:43:45.03,now can do more in function components\nthey will get larger and that's totally
+Dialogue: 00:43:45.03,00:43:45.04,they will get larger and that's totally\n 
+Dialogue: 00:43:45.04,00:43:48.99,they will get larger and that's totally\nokay but you might want to reuse some of
+Dialogue: 00:43:48.99,00:43:49.00,okay but you might want to reuse some of\n 
+Dialogue: 00:43:49.00,00:43:50.76,okay but you might want to reuse some of\nthat logic in other components or
+Dialogue: 00:43:50.76,00:43:50.77,that logic in other components or\n 
+Dialogue: 00:43:50.77,00:43:55.05,that logic in other components or\nextract it or test it separately what's
+Dialogue: 00:43:55.05,00:43:55.06,extract it or test it separately what's\n 
+Dialogue: 00:43:55.06,00:43:57.68,extract it or test it separately what's\ninteresting though is that hook calls
+Dialogue: 00:43:57.68,00:43:57.69,interesting though is that hook calls\n 
+Dialogue: 00:43:57.69,00:44:02.15,interesting though is that hook calls\nthey are just function calls and
+Dialogue: 00:44:02.15,00:44:02.16,they are just function calls and\n 
+Dialogue: 00:44:02.16,00:44:07.05,they are just function calls and\ncomponents they are just functions so
+Dialogue: 00:44:07.05,00:44:07.06,components they are just functions so\n 
+Dialogue: 00:44:07.06,00:44:08.82,components they are just functions so\nhow do you share a logic between two
+Dialogue: 00:44:08.82,00:44:08.83,how do you share a logic between two\n 
+Dialogue: 00:44:08.83,00:44:12.21,how do you share a logic between two\nfunctions you extract it to a different
+Dialogue: 00:44:12.21,00:44:12.22,functions you extract it to a different\n 
+Dialogue: 00:44:12.22,00:44:15.08,functions you extract it to a different\nfunction that's what I'm going to do
+Dialogue: 00:44:15.08,00:44:15.09,function that's what I'm going to do\n 
+Dialogue: 00:44:15.09,00:44:20.00,function that's what I'm going to do\nyou're going to copy and paste this and
+Dialogue: 00:44:20.00,00:44:20.01, \n 
+Dialogue: 00:44:20.01,00:44:21.99, \nI'm going to create a new function
+Dialogue: 00:44:21.99,00:44:22.00,I'm going to create a new function\n 
+Dialogue: 00:44:22.00,00:44:29.01,I'm going to create a new function\ncalled use window with I'll just paste
+Dialogue: 00:44:29.01,00:44:29.02,called use window with I'll just paste\n 
+Dialogue: 00:44:29.02,00:44:32.85,called use window with I'll just paste\nit here and so we need the width in our
+Dialogue: 00:44:32.85,00:44:32.86,it here and so we need the width in our\n 
+Dialogue: 00:44:32.86,00:44:36.15,it here and so we need the width in our\ncomponent in order to render it so I
+Dialogue: 00:44:36.15,00:44:36.16,component in order to render it so I\n 
+Dialogue: 00:44:36.16,00:44:39.71,component in order to render it so I\nneed to return it from this function
+Dialogue: 00:44:39.71,00:44:39.72,need to return it from this function\n 
+Dialogue: 00:44:39.72,00:44:44.22,need to return it from this function\nwhich is the current width and then I
+Dialogue: 00:44:44.22,00:44:44.23,which is the current width and then I\n 
+Dialogue: 00:44:44.23,00:44:49.80,which is the current width and then I\ncan go back off and I can say Const with
+Dialogue: 00:44:49.80,00:44:49.81,can go back off and I can say Const with\n 
+Dialogue: 00:44:49.81,00:45:07.85,can go back off and I can say Const with\nequals use window with
+Dialogue: 00:45:07.85,00:45:07.86, \n 
+Dialogue: 00:45:07.86,00:45:14.79, \nso what is this function we didn't do
+Dialogue: 00:45:14.79,00:45:14.80,so what is this function we didn't do\n 
+Dialogue: 00:45:14.80,00:45:16.80,so what is this function we didn't do\nanything special we just extracted the
+Dialogue: 00:45:16.80,00:45:16.81,anything special we just extracted the\n 
+Dialogue: 00:45:16.81,00:45:20.10,anything special we just extracted the\nfunction but there is a convention here
+Dialogue: 00:45:20.10,00:45:20.11,function but there is a convention here\n 
+Dialogue: 00:45:20.11,00:45:23.70,function but there is a convention here\nso we are calling this function a custom
+Dialogue: 00:45:23.70,00:45:23.71,so we are calling this function a custom\n 
+Dialogue: 00:45:23.71,00:45:28.35,so we are calling this function a custom\nhook and by convention custom hook names
+Dialogue: 00:45:28.35,00:45:28.36,hook and by convention custom hook names\n 
+Dialogue: 00:45:28.36,00:45:31.98,hook and by convention custom hook names\nalways start with use and so there are
+Dialogue: 00:45:31.98,00:45:31.99,always start with use and so there are\n 
+Dialogue: 00:45:31.99,00:45:33.81,always start with use and so there are\ntwo reasons for this we're now giving
+Dialogue: 00:45:33.81,00:45:33.82,two reasons for this we're now giving\n 
+Dialogue: 00:45:33.82,00:45:36.63,two reasons for this we're now giving\ntwo like read your function name or to
+Dialogue: 00:45:36.63,00:45:36.64,two like read your function name or to\n 
+Dialogue: 00:45:36.64,00:45:38.91,two like read your function name or to\nstring it or anything like this
+Dialogue: 00:45:38.91,00:45:38.92,string it or anything like this\n 
+Dialogue: 00:45:38.92,00:45:40.56,string it or anything like this\nbut it is an important convention
+Dialogue: 00:45:40.56,00:45:40.57,but it is an important convention\n 
+Dialogue: 00:45:40.57,00:45:43.04,but it is an important convention\nbecause first of all this lets us lint
+Dialogue: 00:45:43.04,00:45:43.05,because first of all this lets us lint\n 
+Dialogue: 00:45:43.05,00:45:45.90,because first of all this lets us lint\nautomatically for violation of the first
+Dialogue: 00:45:45.90,00:45:45.91,automatically for violation of the first\n 
+Dialogue: 00:45:45.91,00:45:48.15,automatically for violation of the first\nrule that I described about : hooks
+Dialogue: 00:45:48.15,00:45:48.16,rule that I described about : hooks\n 
+Dialogue: 00:45:48.16,00:45:51.09,rule that I described about : hooks\nunconditionally so if we didn't know if
+Dialogue: 00:45:51.09,00:45:51.10,unconditionally so if we didn't know if\n 
+Dialogue: 00:45:51.10,00:45:52.53,unconditionally so if we didn't know if\nsomething is a hook then we wouldn't be
+Dialogue: 00:45:52.53,00:45:52.54,something is a hook then we wouldn't be\n 
+Dialogue: 00:45:52.54,00:45:55.56,something is a hook then we wouldn't be\nable to do that and another reason is
+Dialogue: 00:45:55.56,00:45:55.57,able to do that and another reason is\n 
+Dialogue: 00:45:55.57,00:45:58.02,able to do that and another reason is\nthat if you just look at the component
+Dialogue: 00:45:58.02,00:45:58.03,that if you just look at the component\n 
+Dialogue: 00:45:58.03,00:46:00.30,that if you just look at the component\ncode you kind of want to know if some
+Dialogue: 00:46:00.30,00:46:00.31,code you kind of want to know if some\n 
+Dialogue: 00:46:00.31,00:46:02.13,code you kind of want to know if some\nfunction can have some state inside of
+Dialogue: 00:46:02.13,00:46:02.14,function can have some state inside of\n 
+Dialogue: 00:46:02.14,00:46:04.80,function can have some state inside of\nit so it's important that there is a
+Dialogue: 00:46:04.80,00:46:04.81,it so it's important that there is a\n 
+Dialogue: 00:46:04.81,00:46:07.35,it so it's important that there is a\nconvention and see okay use something it
+Dialogue: 00:46:07.35,00:46:07.36,convention and see okay use something it\n 
+Dialogue: 00:46:07.36,00:46:10.41,convention and see okay use something it\nmeans that it's potentially stateful and
+Dialogue: 00:46:10.41,00:46:10.42,means that it's potentially stateful and\n 
+Dialogue: 00:46:10.42,00:46:13.20,means that it's potentially stateful and\nhere with gives us the current bits and
+Dialogue: 00:46:13.20,00:46:13.21,here with gives us the current bits and\n 
+Dialogue: 00:46:13.21,00:46:23.19,here with gives us the current bits and\nsubscribes us to updates to it so if we
+Dialogue: 00:46:23.19,00:46:23.20,subscribes us to updates to it so if we\n 
+Dialogue: 00:46:23.20,00:46:25.26,subscribes us to updates to it so if we\nwanted to we could even go further it's
+Dialogue: 00:46:25.26,00:46:25.27,wanted to we could even go further it's\n 
+Dialogue: 00:46:25.27,00:46:27.51,wanted to we could even go further it's\nprobably not necessary in this example
+Dialogue: 00:46:27.51,00:46:27.52,probably not necessary in this example\n 
+Dialogue: 00:46:27.52,00:46:29.61,probably not necessary in this example\nbut I just want to give you like a sense
+Dialogue: 00:46:29.61,00:46:29.62,but I just want to give you like a sense\n 
+Dialogue: 00:46:29.62,00:46:33.75,but I just want to give you like a sense\nof water you could do so let's say like
+Dialogue: 00:46:33.75,00:46:33.76,of water you could do so let's say like\n 
+Dialogue: 00:46:33.76,00:46:35.46,of water you could do so let's say like\nmaybe setting the document title was a
+Dialogue: 00:46:35.46,00:46:35.47,maybe setting the document title was a\n 
+Dialogue: 00:46:35.47,00:46:37.41,maybe setting the document title was a\nbit more complicated and you wanted to
+Dialogue: 00:46:37.41,00:46:37.42,bit more complicated and you wanted to\n 
+Dialogue: 00:46:37.42,00:46:40.80,bit more complicated and you wanted to\nlike extract it or test it separately so
+Dialogue: 00:46:40.80,00:46:40.81,like extract it or test it separately so\n 
+Dialogue: 00:46:40.81,00:46:44.13,like extract it or test it separately so\nI could just copy and paste this and I
+Dialogue: 00:46:44.13,00:46:44.14,I could just copy and paste this and I\n 
+Dialogue: 00:46:44.14,00:46:46.32,I could just copy and paste this and I\ncould write a new custom hook I'm gonna
+Dialogue: 00:46:46.32,00:46:46.33,could write a new custom hook I'm gonna\n 
+Dialogue: 00:46:46.33,00:46:53.19,could write a new custom hook I'm gonna\ncall this one use document title and so
+Dialogue: 00:46:53.19,00:46:53.20,call this one use document title and so\n 
+Dialogue: 00:46:53.20,00:46:55.50,call this one use document title and so\nthe name and surname don't really make
+Dialogue: 00:46:55.50,00:46:55.51,the name and surname don't really make\n 
+Dialogue: 00:46:55.51,00:46:57.99,the name and surname don't really make\nsense in the Scopes context we just want
+Dialogue: 00:46:57.99,00:46:58.00,sense in the Scopes context we just want\n 
+Dialogue: 00:46:58.00,00:47:00.24,sense in the Scopes context we just want\nto call this title and this is going to
+Dialogue: 00:47:00.24,00:47:00.25,to call this title and this is going to\n 
+Dialogue: 00:47:00.25,00:47:02.34,to call this title and this is going to\nbe an argument so custom hooks are
+Dialogue: 00:47:02.34,00:47:02.35,be an argument so custom hooks are\n 
+Dialogue: 00:47:02.35,00:47:04.38,be an argument so custom hooks are\nJavaScript functions so they can take
+Dialogue: 00:47:04.38,00:47:04.39,JavaScript functions so they can take\n 
+Dialogue: 00:47:04.39,00:47:07.17,JavaScript functions so they can take\narguments and return values or not
+Dialogue: 00:47:07.17,00:47:07.18,arguments and return values or not\n 
+Dialogue: 00:47:07.18,00:47:10.44,arguments and return values or not\nreturn so it is going to take title as
+Dialogue: 00:47:10.44,00:47:10.45,return so it is going to take title as\n 
+Dialogue: 00:47:10.45,00:47:13.17,return so it is going to take title as\nan argument and now in my component I
+Dialogue: 00:47:13.17,00:47:13.18,an argument and now in my component I\n 
+Dialogue: 00:47:13.18,00:47:17.88,an argument and now in my component I\ncan say use document title name plus
+Dialogue: 00:47:17.88,00:47:17.89,can say use document title name plus\n 
+Dialogue: 00:47:17.89,00:47:19.54,can say use document title name plus\nsurname
+Dialogue: 00:47:19.54,00:47:19.55,surname\n 
+Dialogue: 00:47:19.55,00:47:23.18,surname\nin fact I could go even further so in
+Dialogue: 00:47:23.18,00:47:23.19,in fact I could go even further so in\n 
+Dialogue: 00:47:23.19,00:47:25.43,in fact I could go even further so in\nthis case is totally unnecessary but
+Dialogue: 00:47:25.43,00:47:25.44,this case is totally unnecessary but\n 
+Dialogue: 00:47:25.44,00:47:28.07,this case is totally unnecessary but\nagain maybe our inputs were more
+Dialogue: 00:47:28.07,00:47:28.08,again maybe our inputs were more\n 
+Dialogue: 00:47:28.08,00:47:30.02,again maybe our inputs were more\ncomplicated maybe we were tracking
+Dialogue: 00:47:30.02,00:47:30.03,complicated maybe we were tracking\n 
+Dialogue: 00:47:30.03,00:47:32.15,complicated maybe we were tracking\nwhether the input was focused on blurt
+Dialogue: 00:47:32.15,00:47:32.16,whether the input was focused on blurt\n 
+Dialogue: 00:47:32.16,00:47:34.49,whether the input was focused on blurt\nwhether it has been validated submitted
+Dialogue: 00:47:34.49,00:47:34.50,whether it has been validated submitted\n 
+Dialogue: 00:47:34.50,00:47:36.56,whether it has been validated submitted\nand so on so maybe we had some more
+Dialogue: 00:47:36.56,00:47:36.57,and so on so maybe we had some more\n 
+Dialogue: 00:47:36.57,00:47:38.54,and so on so maybe we had some more\nlogic there we wanted to pull it out of
+Dialogue: 00:47:38.54,00:47:38.55,logic there we wanted to pull it out of\n 
+Dialogue: 00:47:38.55,00:47:41.30,logic there we wanted to pull it out of\nour components and reduce duplication
+Dialogue: 00:47:41.30,00:47:41.31,our components and reduce duplication\n 
+Dialogue: 00:47:41.31,00:47:43.46,our components and reduce duplication\nand there is already some duplication so
+Dialogue: 00:47:43.46,00:47:43.47,and there is already some duplication so\n 
+Dialogue: 00:47:43.47,00:47:45.92,and there is already some duplication so\nwe have this like almost identical event
+Dialogue: 00:47:45.92,00:47:45.93,we have this like almost identical event\n 
+Dialogue: 00:47:45.93,00:47:49.52,we have this like almost identical event\nhandlers so what if we could just I'm
+Dialogue: 00:47:49.52,00:47:49.53,handlers so what if we could just I'm\n 
+Dialogue: 00:47:49.53,00:47:51.08,handlers so what if we could just I'm\ngoing to delete one of them and extract
+Dialogue: 00:47:51.08,00:47:51.09,going to delete one of them and extract\n 
+Dialogue: 00:47:51.09,00:47:54.77,going to delete one of them and extract\nthe other one I'm going to create a new
+Dialogue: 00:47:54.77,00:47:54.78,the other one I'm going to create a new\n 
+Dialogue: 00:47:54.78,00:47:56.95,the other one I'm going to create a new\nhook that I'm going to call use form
+Dialogue: 00:47:56.95,00:47:56.96,hook that I'm going to call use form\n 
+Dialogue: 00:47:56.96,00:48:02.30,hook that I'm going to call use form\ninput so this is my change handler now
+Dialogue: 00:48:02.30,00:48:02.31,input so this is my change handler now\n 
+Dialogue: 00:48:02.31,00:48:04.85,input so this is my change handler now\nI'll also copy and paste this
+Dialogue: 00:48:04.85,00:48:04.86,I'll also copy and paste this\n 
+Dialogue: 00:48:04.86,00:48:10.51,I'll also copy and paste this\ndeclaration so this defines the state
+Dialogue: 00:48:10.51,00:48:10.52,declaration so this defines the state\n 
+Dialogue: 00:48:10.52,00:48:14.12,declaration so this defines the state\nfor this input so it's no longer name
+Dialogue: 00:48:14.12,00:48:14.13,for this input so it's no longer name\n 
+Dialogue: 00:48:14.13,00:48:16.22,for this input so it's no longer name\nand set name I'll just color generically
+Dialogue: 00:48:16.22,00:48:16.23,and set name I'll just color generically\n 
+Dialogue: 00:48:16.23,00:48:20.24,and set name I'll just color generically\nvalue and set value it's going to take
+Dialogue: 00:48:20.24,00:48:20.25,value and set value it's going to take\n 
+Dialogue: 00:48:20.25,00:48:25.06,value and set value it's going to take\nthe initial value as an argument and
+Dialogue: 00:48:25.06,00:48:25.07,the initial value as an argument and\n 
+Dialogue: 00:48:25.07,00:48:27.41,the initial value as an argument and\nthis is just going to be a handle change
+Dialogue: 00:48:27.41,00:48:27.42,this is just going to be a handle change\n 
+Dialogue: 00:48:27.42,00:48:33.86,this is just going to be a handle change\nand this will set value so what do we
+Dialogue: 00:48:33.86,00:48:33.87,and this will set value so what do we\n 
+Dialogue: 00:48:33.87,00:48:36.95,and this will set value so what do we\nwant to get in order to use this user
+Dialogue: 00:48:36.95,00:48:36.96,want to get in order to use this user\n 
+Dialogue: 00:48:36.96,00:48:38.72,want to get in order to use this user\nname put in our component we want to get
+Dialogue: 00:48:38.72,00:48:38.73,name put in our component we want to get\n 
+Dialogue: 00:48:38.73,00:48:41.30,name put in our component we want to get\nthe current value and a change handler
+Dialogue: 00:48:41.30,00:48:41.31,the current value and a change handler\n 
+Dialogue: 00:48:41.31,00:48:43.73,the current value and a change handler\nthese are the things that we attach to
+Dialogue: 00:48:43.73,00:48:43.74,these are the things that we attach to\n 
+Dialogue: 00:48:43.74,00:48:46.39,these are the things that we attach to\nthe input so let's just return them
+Dialogue: 00:48:46.39,00:48:46.40,the input so let's just return them\n 
+Dialogue: 00:48:46.40,00:48:53.47,the input so let's just return them\nreturn value and unchanged handle change
+Dialogue: 00:48:53.47,00:48:53.48, \n 
+Dialogue: 00:48:53.48,00:48:58.49, \nso now if we go back up we can say name
+Dialogue: 00:48:58.49,00:48:58.50,so now if we go back up we can say name\n 
+Dialogue: 00:48:58.50,00:49:04.10,so now if we go back up we can say name\nequals use form input Mary so name is
+Dialogue: 00:49:04.10,00:49:04.11,equals use form input Mary so name is\n 
+Dialogue: 00:49:04.11,00:49:05.93,equals use form input Mary so name is\ngoing to be an object with valley and
+Dialogue: 00:49:05.93,00:49:05.94,going to be an object with valley and\n 
+Dialogue: 00:49:05.94,00:49:09.68,going to be an object with valley and\nnon change fields and surname is use
+Dialogue: 00:49:09.68,00:49:09.69,non change fields and surname is use\n 
+Dialogue: 00:49:09.69,00:49:16.82,non change fields and surname is use\nform input Poppins so this is now going
+Dialogue: 00:49:16.82,00:49:16.83,form input Poppins so this is now going\n 
+Dialogue: 00:49:16.83,00:49:18.98,form input Poppins so this is now going\nto be named at Valley and surnamed at
+Dialogue: 00:49:18.98,00:49:18.99,to be named at Valley and surnamed at\n 
+Dialogue: 00:49:18.99,00:49:21.29,to be named at Valley and surnamed at\nValley because this is where the string
+Dialogue: 00:49:21.29,00:49:21.30,Valley because this is where the string\n 
+Dialogue: 00:49:21.30,00:49:25.28,Valley because this is where the string\nis and so now I can remove this and I
+Dialogue: 00:49:25.28,00:49:25.29,is and so now I can remove this and I\n 
+Dialogue: 00:49:25.29,00:49:30.85,is and so now I can remove this and I\ncan spread over the name object
+Dialogue: 00:49:30.85,00:49:30.86, \n 
+Dialogue: 00:49:30.86,00:49:35.81, \nsomeone is laughing alright let's just
+Dialogue: 00:49:35.81,00:49:35.82,someone is laughing alright let's just\n 
+Dialogue: 00:49:35.82,00:49:39.71,someone is laughing alright let's just\nverify it and break it yeah it works so
+Dialogue: 00:49:39.71,00:49:39.72,verify it and break it yeah it works so\n 
+Dialogue: 00:49:39.72,00:49:41.57,verify it and break it yeah it works so\neach time we call a hook it's state is
+Dialogue: 00:49:41.57,00:49:41.58,each time we call a hook it's state is\n 
+Dialogue: 00:49:41.58,00:49:44.60,each time we call a hook it's state is\ncompletely isolated and this is because
+Dialogue: 00:49:44.60,00:49:44.61,completely isolated and this is because\n 
+Dialogue: 00:49:44.61,00:49:46.79,completely isolated and this is because\nwe just rely on the order of who calls
+Dialogue: 00:49:46.79,00:49:46.80,we just rely on the order of who calls\n 
+Dialogue: 00:49:46.80,00:49:49.01,we just rely on the order of who calls\nand not on names or anything so you can
+Dialogue: 00:49:49.01,00:49:49.02,and not on names or anything so you can\n 
+Dialogue: 00:49:49.02,00:49:51.11,and not on names or anything so you can\ncall the same group multiple times each
+Dialogue: 00:49:51.11,00:49:51.12,call the same group multiple times each\n 
+Dialogue: 00:49:51.12,00:49:56.69,call the same group multiple times each\ncall will get its own local state so
+Dialogue: 00:49:56.69,00:49:56.70,call will get its own local state so\n 
+Dialogue: 00:49:56.70,00:49:59.24,call will get its own local state so\nlet's compare the three approaches for
+Dialogue: 00:49:59.24,00:49:59.25,let's compare the three approaches for\n 
+Dialogue: 00:49:59.25,00:50:09.47,let's compare the three approaches for\nthe last time so on the Left we have a
+Dialogue: 00:50:09.47,00:50:09.48,the last time so on the Left we have a\n 
+Dialogue: 00:50:09.48,00:50:11.75,the last time so on the Left we have a\nfamiliar class component it has some
+Dialogue: 00:50:11.75,00:50:11.76,familiar class component it has some\n 
+Dialogue: 00:50:11.76,00:50:15.32,familiar class component it has some\nsome state in an object bind some
+Dialogue: 00:50:15.32,00:50:15.33,some state in an object bind some\n 
+Dialogue: 00:50:15.33,00:50:18.56,some state in an object bind some\nmethods has some logic spread across
+Dialogue: 00:50:18.56,00:50:18.57,methods has some logic spread across\n 
+Dialogue: 00:50:18.57,00:50:21.11,methods has some logic spread across\ndifferent lifecycle methods has a bunch
+Dialogue: 00:50:21.11,00:50:21.12,different lifecycle methods has a bunch\n 
+Dialogue: 00:50:21.12,00:50:27.05,different lifecycle methods has a bunch\nof event handlers uses uses some things
+Dialogue: 00:50:27.05,00:50:27.06,of event handlers uses uses some things\n 
+Dialogue: 00:50:27.06,00:50:30.80,of event handlers uses uses some things\nfrom the context and render stuff pretty
+Dialogue: 00:50:30.80,00:50:30.81,from the context and render stuff pretty\n 
+Dialogue: 00:50:30.81,00:50:36.32,from the context and render stuff pretty\nfamiliar and on the right pane this may
+Dialogue: 00:50:36.32,00:50:36.33,familiar and on the right pane this may\n 
+Dialogue: 00:50:36.33,00:50:37.97,familiar and on the right pane this may\nnot look like the react components were
+Dialogue: 00:50:37.97,00:50:37.98,not look like the react components were\n 
+Dialogue: 00:50:37.98,00:50:42.22,not look like the react components were\nused to but it kind of makes sense even
+Dialogue: 00:50:42.22,00:50:42.23,used to but it kind of makes sense even\n 
+Dialogue: 00:50:42.23,00:50:44.27,used to but it kind of makes sense even\nif you don't know how these functions
+Dialogue: 00:50:44.27,00:50:44.28,if you don't know how these functions\n 
+Dialogue: 00:50:44.28,00:50:46.70,if you don't know how these functions\nare implemented you can see okay it uses
+Dialogue: 00:50:46.70,00:50:46.71,are implemented you can see okay it uses\n 
+Dialogue: 00:50:46.71,00:50:49.94,are implemented you can see okay it uses\nthree form inputs uses some context to
+Dialogue: 00:50:49.94,00:50:49.95,three form inputs uses some context to\n 
+Dialogue: 00:50:49.95,00:50:52.55,three form inputs uses some context to\nget theme and locale it uses the window
+Dialogue: 00:50:52.55,00:50:52.56,get theme and locale it uses the window\n 
+Dialogue: 00:50:52.56,00:50:56.63,get theme and locale it uses the window\nwidth and document title and it renders
+Dialogue: 00:50:56.63,00:50:56.64,width and document title and it renders\n 
+Dialogue: 00:50:56.64,00:50:59.75,width and document title and it renders\na bunch of stuff and if we want to we
+Dialogue: 00:50:59.75,00:50:59.76,a bunch of stuff and if we want to we\n 
+Dialogue: 00:50:59.76,00:51:01.67,a bunch of stuff and if we want to we\ncan scroll further and we can see okay
+Dialogue: 00:51:01.67,00:51:01.68,can scroll further and we can see okay\n 
+Dialogue: 00:51:01.68,00:51:04.64,can scroll further and we can see okay\nso this is how the input works this is
+Dialogue: 00:51:04.64,00:51:04.65,so this is how the input works this is\n 
+Dialogue: 00:51:04.65,00:51:06.20,so this is how the input works this is\nhow it said in the document tile works
+Dialogue: 00:51:06.20,00:51:06.21,how it said in the document tile works\n 
+Dialogue: 00:51:06.21,00:51:09.80,how it said in the document tile works\nthis is how the window width suppression
+Dialogue: 00:51:09.80,00:51:09.81,this is how the window width suppression\n 
+Dialogue: 00:51:09.81,00:51:12.50,this is how the window width suppression\nworks oh maybe this could be an NPM
+Dialogue: 00:51:12.50,00:51:12.51,works oh maybe this could be an NPM\n 
+Dialogue: 00:51:12.51,00:51:14.42,works oh maybe this could be an NPM\npackage and you don't actually need to
+Dialogue: 00:51:14.42,00:51:14.43,package and you don't actually need to\n 
+Dialogue: 00:51:14.43,00:51:17.42,package and you don't actually need to\nknow that all we could pull it back into
+Dialogue: 00:51:17.42,00:51:17.43,know that all we could pull it back into\n 
+Dialogue: 00:51:17.43,00:51:19.28,know that all we could pull it back into\na component or copy and paste between
+Dialogue: 00:51:19.28,00:51:19.29,a component or copy and paste between\n 
+Dialogue: 00:51:19.29,00:51:22.70,a component or copy and paste between\ncomponents so hooks give you custom
+Dialogue: 00:51:22.70,00:51:22.71,components so hooks give you custom\n 
+Dialogue: 00:51:22.71,00:51:24.95,components so hooks give you custom\nhooks give you the flexibility to create
+Dialogue: 00:51:24.95,00:51:24.96,hooks give you the flexibility to create\n 
+Dialogue: 00:51:24.96,00:51:28.16,hooks give you the flexibility to create\nyour own abstractions that are not they
+Dialogue: 00:51:28.16,00:51:28.17,your own abstractions that are not they\n 
+Dialogue: 00:51:28.17,00:51:30.95,your own abstractions that are not they\ndo not inflate your react component tree
+Dialogue: 00:51:30.95,00:51:30.96,do not inflate your react component tree\n 
+Dialogue: 00:51:30.96,00:51:38.45,do not inflate your react component tree\nand avoid the wrapper hell
+Dialogue: 00:51:38.45,00:51:38.46, \n 
+Dialogue: 00:51:38.46,00:51:47.49, \n[Applause]
+Dialogue: 00:51:47.49,00:51:47.50,[Applause]\n 
+Dialogue: 00:51:47.50,00:51:51.37,[Applause]\nand importantly these are not two
+Dialogue: 00:51:51.37,00:51:51.38,and importantly these are not two\n 
+Dialogue: 00:51:51.38,00:51:53.23,and importantly these are not two\nseparate applications so this is
+Dialogue: 00:51:53.23,00:51:53.24,separate applications so this is\n 
+Dialogue: 00:51:53.24,00:51:56.38,separate applications so this is\nactually one application so I have this
+Dialogue: 00:51:56.38,00:51:56.39,actually one application so I have this\n 
+Dialogue: 00:51:56.39,00:51:58.33,actually one application so I have this\nwindow open just to demonstrate that
+Dialogue: 00:51:58.33,00:51:58.34,window open just to demonstrate that\n 
+Dialogue: 00:51:58.34,00:52:01.39,window open just to demonstrate that\nclasses can work side by side with hooks
+Dialogue: 00:52:01.39,00:52:01.40,classes can work side by side with hooks\n 
+Dialogue: 00:52:01.40,00:52:04.36,classes can work side by side with hooks\nand while hooks represent our vision for
+Dialogue: 00:52:04.36,00:52:04.37,and while hooks represent our vision for\n 
+Dialogue: 00:52:04.37,00:52:08.32,and while hooks represent our vision for\nthe future of react we don't want to
+Dialogue: 00:52:08.32,00:52:08.33,the future of react we don't want to\n 
+Dialogue: 00:52:08.33,00:52:11.53,the future of react we don't want to\nmake breaking changes like this so we
+Dialogue: 00:52:11.53,00:52:11.54,make breaking changes like this so we\n 
+Dialogue: 00:52:11.54,00:52:17.05,make breaking changes like this so we\nneed to keep classes working let's go
+Dialogue: 00:52:17.05,00:52:17.06,need to keep classes working let's go\n 
+Dialogue: 00:52:17.06,00:52:24.46,need to keep classes working let's go\nback to the slides
+Dialogue: 00:52:24.46,00:52:24.47, \n 
+Dialogue: 00:52:24.47,00:52:26.99, \nall right now this is a slider you can
+Dialogue: 00:52:26.99,00:52:27.00,all right now this is a slider you can\n 
+Dialogue: 00:52:27.00,00:52:30.23,all right now this is a slider you can\nactually tweet
+Dialogue: 00:52:30.23,00:52:30.24, \n 
+Dialogue: 00:52:30.24,00:52:33.23, \nwe present the Hookes proposal to you
+Dialogue: 00:52:33.23,00:52:33.24,we present the Hookes proposal to you\n 
+Dialogue: 00:52:33.24,00:52:34.40,we present the Hookes proposal to you\ntoday
+Dialogue: 00:52:34.40,00:52:34.41,today\n 
+Dialogue: 00:52:34.41,00:52:37.25,today\nHookes led to use all react features
+Dialogue: 00:52:37.25,00:52:37.26,Hookes led to use all react features\n 
+Dialogue: 00:52:37.26,00:52:40.43,Hookes led to use all react features\nwithout having to write a class they do
+Dialogue: 00:52:40.43,00:52:40.44,without having to write a class they do\n 
+Dialogue: 00:52:40.44,00:52:43.34,without having to write a class they do\nnot deprecated classes but you have the
+Dialogue: 00:52:43.34,00:52:43.35,not deprecated classes but you have the\n 
+Dialogue: 00:52:43.35,00:52:45.53,not deprecated classes but you have the\noption to not have to write them we
+Dialogue: 00:52:45.53,00:52:45.54,option to not have to write them we\n 
+Dialogue: 00:52:45.54,00:52:47.99,option to not have to write them we\nintend to cover all use cases for
+Dialogue: 00:52:47.99,00:52:48.00,intend to cover all use cases for\n 
+Dialogue: 00:52:48.00,00:52:50.84,intend to cover all use cases for\nclasses with hooks as soon as possible
+Dialogue: 00:52:50.84,00:52:50.85,classes with hooks as soon as possible\n 
+Dialogue: 00:52:50.85,00:52:53.06,classes with hooks as soon as possible\nthere are a few that are missing but
+Dialogue: 00:52:53.06,00:52:53.07,there are a few that are missing but\n 
+Dialogue: 00:52:53.07,00:52:56.42,there are a few that are missing but\nwe're working on them and hooks lets you
+Dialogue: 00:52:56.42,00:52:56.43,we're working on them and hooks lets you\n 
+Dialogue: 00:52:56.43,00:52:58.88,we're working on them and hooks lets you\nreuse stateful logic extracted out of
+Dialogue: 00:52:58.88,00:52:58.89,reuse stateful logic extracted out of\n 
+Dialogue: 00:52:58.89,00:53:01.97,reuse stateful logic extracted out of\ncomponents tested separately reuse it
+Dialogue: 00:53:01.97,00:53:01.98,components tested separately reuse it\n 
+Dialogue: 00:53:01.98,00:53:03.80,components tested separately reuse it\nbetween different components without
+Dialogue: 00:53:03.80,00:53:03.81,between different components without\n 
+Dialogue: 00:53:03.81,00:53:06.59,between different components without\nintroducing the wrapper hell and again
+Dialogue: 00:53:06.59,00:53:06.60,introducing the wrapper hell and again\n 
+Dialogue: 00:53:06.60,00:53:08.30,introducing the wrapper hell and again\nimportantly it's not a breaking change
+Dialogue: 00:53:08.30,00:53:08.31,importantly it's not a breaking change\n 
+Dialogue: 00:53:08.31,00:53:11.74,importantly it's not a breaking change\ncompletely backwards compatible strictly
+Dialogue: 00:53:11.74,00:53:11.75,completely backwards compatible strictly\n 
+Dialogue: 00:53:11.75,00:53:15.98,completely backwards compatible strictly\naddition additive and you can find the
+Dialogue: 00:53:15.98,00:53:15.99,addition additive and you can find the\n 
+Dialogue: 00:53:15.99,00:53:18.44,addition additive and you can find the\nwe wrote the documentation for hooks so
+Dialogue: 00:53:18.44,00:53:18.45,we wrote the documentation for hooks so\n 
+Dialogue: 00:53:18.45,00:53:21.47,we wrote the documentation for hooks so\nyou can find it at this URL
+Dialogue: 00:53:21.47,00:53:21.48,you can find it at this URL\n 
+Dialogue: 00:53:21.48,00:53:27.08,you can find it at this URL\nand we want to hear from you the react
+Dialogue: 00:53:27.08,00:53:27.09,and we want to hear from you the react\n 
+Dialogue: 00:53:27.09,00:53:28.73,and we want to hear from you the react\ncoming in to you when I hear what you
+Dialogue: 00:53:28.73,00:53:28.74,coming in to you when I hear what you\n 
+Dialogue: 00:53:28.74,00:53:31.25,coming in to you when I hear what you\nthink about hooks whether you like them
+Dialogue: 00:53:31.25,00:53:31.26,think about hooks whether you like them\n 
+Dialogue: 00:53:31.26,00:53:33.80,think about hooks whether you like them\nor not and we realize that it's pretty
+Dialogue: 00:53:33.80,00:53:33.81,or not and we realize that it's pretty\n 
+Dialogue: 00:53:33.81,00:53:35.54,or not and we realize that it's pretty\nhard to give feedback without actually
+Dialogue: 00:53:35.54,00:53:35.55,hard to give feedback without actually\n 
+Dialogue: 00:53:35.55,00:53:39.95,hard to give feedback without actually\ntrying them so we built them and we
+Dialogue: 00:53:39.95,00:53:39.96,trying them so we built them and we\n 
+Dialogue: 00:53:39.96,00:53:44.50,trying them so we built them and we\nreleased sixty sixty and seven alpha
+Dialogue: 00:53:44.50,00:53:44.51,released sixty sixty and seven alpha\n 
+Dialogue: 00:53:44.51,00:53:47.57,released sixty sixty and seven alpha\nit's not a major release it's a minor
+Dialogue: 00:53:47.57,00:53:47.58,it's not a major release it's a minor\n 
+Dialogue: 00:53:47.58,00:53:49.88,it's not a major release it's a minor\nrelease but in alpha where you can try
+Dialogue: 00:53:49.88,00:53:49.89,release but in alpha where you can try\n 
+Dialogue: 00:53:49.89,00:53:53.66,release but in alpha where you can try\nhooks and we've been trying them in
+Dialogue: 00:53:53.66,00:53:53.67,hooks and we've been trying them in\n 
+Dialogue: 00:53:53.67,00:53:55.91,hooks and we've been trying them in\nproduction at Facebook for about a month
+Dialogue: 00:53:55.91,00:53:55.92,production at Facebook for about a month\n 
+Dialogue: 00:53:55.92,00:53:59.75,production at Facebook for about a month\nso we don't expect major bugs there but
+Dialogue: 00:53:59.75,00:53:59.76,so we don't expect major bugs there but\n 
+Dialogue: 00:53:59.76,00:54:03.74,so we don't expect major bugs there but\nthe api's themselves may change together
+Dialogue: 00:54:03.74,00:54:03.75,the api's themselves may change together\n 
+Dialogue: 00:54:03.75,00:54:07.55,the api's themselves may change together\nwith your feedback and I asked you not
+Dialogue: 00:54:07.55,00:54:07.56,with your feedback and I asked you not\n 
+Dialogue: 00:54:07.56,00:54:09.68,with your feedback and I asked you not\nto rewrite anything like not to rewrite
+Dialogue: 00:54:09.68,00:54:09.69,to rewrite anything like not to rewrite\n 
+Dialogue: 00:54:09.69,00:54:13.79,to rewrite anything like not to rewrite\ntheir whole apps and hooks because first
+Dialogue: 00:54:13.79,00:54:13.80,their whole apps and hooks because first\n 
+Dialogue: 00:54:13.80,00:54:16.40,their whole apps and hooks because first\nof all it's it's a proposal and second
+Dialogue: 00:54:16.40,00:54:16.41,of all it's it's a proposal and second\n 
+Dialogue: 00:54:16.41,00:54:19.73,of all it's it's a proposal and second\nbecause personally I I find that it
+Dialogue: 00:54:19.73,00:54:19.74,because personally I I find that it\n 
+Dialogue: 00:54:19.74,00:54:21.41,because personally I I find that it\ntakes a bit of a mind shift to start
+Dialogue: 00:54:21.41,00:54:21.42,takes a bit of a mind shift to start\n 
+Dialogue: 00:54:21.42,00:54:24.47,takes a bit of a mind shift to start\nthinking in hooks and it might be a bit
+Dialogue: 00:54:24.47,00:54:24.48,thinking in hooks and it might be a bit\n 
+Dialogue: 00:54:24.48,00:54:26.33,thinking in hooks and it might be a bit\nconfusing if you try to just take a
+Dialogue: 00:54:26.33,00:54:26.34,confusing if you try to just take a\n 
+Dialogue: 00:54:26.34,00:54:30.11,confusing if you try to just take a\nclass component and convert it but I do
+Dialogue: 00:54:30.11,00:54:30.12,class component and convert it but I do\n 
+Dialogue: 00:54:30.12,00:54:31.79,class component and convert it but I do\nencourage you to try using hooks and
+Dialogue: 00:54:31.79,00:54:31.80,encourage you to try using hooks and\n 
+Dialogue: 00:54:31.80,00:54:33.74,encourage you to try using hooks and\nsome of the newer code that you write in
+Dialogue: 00:54:33.74,00:54:33.75,some of the newer code that you write in\n 
+Dialogue: 00:54:33.75,00:54:39.18,some of the newer code that you write in\nand but it's not what you think so
+Dialogue: 00:54:39.18,00:54:39.19,and but it's not what you think so\n 
+Dialogue: 00:54:39.19,00:54:40.36,and but it's not what you think so\nthank you
+Dialogue: 00:54:40.36,00:54:40.37,thank you\n 
+Dialogue: 00:54:40.37,00:54:45.90,thank you\n[Applause]
+Dialogue: 00:54:45.90,00:54:45.91, \n 
+Dialogue: 00:54:45.91,00:54:49.63, \nso in our view hooks represent our
+Dialogue: 00:54:49.63,00:54:49.64,so in our view hooks represent our\n 
+Dialogue: 00:54:49.64,00:54:54.55,so in our view hooks represent our\nvision for the future of reacting but I
+Dialogue: 00:54:54.55,00:54:54.56,vision for the future of reacting but I\n 
+Dialogue: 00:54:54.56,00:54:58.39,vision for the future of reacting but I\nthink they also represent the way we
+Dialogue: 00:54:58.39,00:54:58.40,think they also represent the way we\n 
+Dialogue: 00:54:58.40,00:55:02.29,think they also represent the way we\nmove react forward and that is we don't
+Dialogue: 00:55:02.29,00:55:02.30,move react forward and that is we don't\n 
+Dialogue: 00:55:02.30,00:55:06.94,move react forward and that is we don't\ndo big rewrite we want the new patterns
+Dialogue: 00:55:06.94,00:55:06.95,do big rewrite we want the new patterns\n 
+Dialogue: 00:55:06.95,00:55:10.54,do big rewrite we want the new patterns\nthat we like better to coexist with the
+Dialogue: 00:55:10.54,00:55:10.55,that we like better to coexist with the\n 
+Dialogue: 00:55:10.55,00:55:13.57,that we like better to coexist with the\nold patterns so that we can have gradual
+Dialogue: 00:55:13.57,00:55:13.58,old patterns so that we can have gradual\n 
+Dialogue: 00:55:13.58,00:55:16.66,old patterns so that we can have gradual\nmigration and adoption just like you can
+Dialogue: 00:55:16.66,00:55:16.67,migration and adoption just like you can\n 
+Dialogue: 00:55:16.67,00:55:21.61,migration and adoption just like you can\ngradually adopt react itself and this is
+Dialogue: 00:55:21.61,00:55:21.62,gradually adopt react itself and this is\n 
+Dialogue: 00:55:21.62,00:55:24.10,gradually adopt react itself and this is\nalmost the end of my talk I want to end
+Dialogue: 00:55:24.10,00:55:24.11,almost the end of my talk I want to end\n 
+Dialogue: 00:55:24.11,00:55:35.41,almost the end of my talk I want to end\nit on a personal note so I started
+Dialogue: 00:55:35.41,00:55:35.42,it on a personal note so I started\n 
+Dialogue: 00:55:35.42,00:55:40.71,it on a personal note so I started\nlearning react about four years ago and
+Dialogue: 00:55:40.71,00:55:40.72, \n 
+Dialogue: 00:55:40.72,00:55:44.73, \none of my first questions was why JSX
+Dialogue: 00:55:44.73,00:55:44.74,one of my first questions was why JSX\n 
+Dialogue: 00:55:44.74,00:55:49.27,one of my first questions was why JSX\nbut my second one of the next questions
+Dialogue: 00:55:49.27,00:55:49.28,but my second one of the next questions\n 
+Dialogue: 00:55:49.28,00:55:52.24,but my second one of the next questions\nwas I can figure out what does the logo
+Dialogue: 00:55:52.24,00:55:52.25,was I can figure out what does the logo\n 
+Dialogue: 00:55:52.25,00:55:55.93,was I can figure out what does the logo\nhave to do with react so the project is
+Dialogue: 00:55:55.93,00:55:55.94,have to do with react so the project is\n 
+Dialogue: 00:55:55.94,00:55:59.38,have to do with react so the project is\nnot called Adam it's not a physics
+Dialogue: 00:55:59.38,00:55:59.39,not called Adam it's not a physics\n 
+Dialogue: 00:55:59.39,00:56:00.93,not called Adam it's not a physics\nengine
+Dialogue: 00:56:00.93,00:56:00.94,engine\n 
+Dialogue: 00:56:00.94,00:56:04.42,engine\nso one interpretation is that it's kind
+Dialogue: 00:56:04.42,00:56:04.43,so one interpretation is that it's kind\n 
+Dialogue: 00:56:04.43,00:56:05.38,so one interpretation is that it's kind\nof upon on
+Dialogue: 00:56:05.38,00:56:05.39,of upon on\n 
+Dialogue: 00:56:05.39,00:56:08.08,of upon on\nreactions so atoms participate in
+Dialogue: 00:56:08.08,00:56:08.09,reactions so atoms participate in\n 
+Dialogue: 00:56:08.09,00:56:11.89,reactions so atoms participate in\nchemical reactions reactions react but
+Dialogue: 00:56:11.89,00:56:11.90,chemical reactions reactions react but\n 
+Dialogue: 00:56:11.90,00:56:13.84,chemical reactions reactions react but\nit's not a flame with react actually
+Dialogue: 00:56:13.84,00:56:13.85,it's not a flame with react actually\n 
+Dialogue: 00:56:13.85,00:56:16.15,it's not a flame with react actually\nGotti I found a different interpretation
+Dialogue: 00:56:16.15,00:56:16.16,Gotti I found a different interpretation\n 
+Dialogue: 00:56:16.16,00:56:21.52,Gotti I found a different interpretation\nthat made more sense to me and the way I
+Dialogue: 00:56:21.52,00:56:21.53,that made more sense to me and the way I\n 
+Dialogue: 00:56:21.53,00:56:25.24,that made more sense to me and the way I\nthink about it we know that physical
+Dialogue: 00:56:25.24,00:56:25.25,think about it we know that physical\n 
+Dialogue: 00:56:25.25,00:56:28.93,think about it we know that physical\nmatter consists of atoms and we've
+Dialogue: 00:56:28.93,00:56:28.94,matter consists of atoms and we've\n 
+Dialogue: 00:56:28.94,00:56:31.51,matter consists of atoms and we've\nlearned that it's the types of these
+Dialogue: 00:56:31.51,00:56:31.52,learned that it's the types of these\n 
+Dialogue: 00:56:31.52,00:56:34.42,learned that it's the types of these\natoms and their properties that
+Dialogue: 00:56:34.42,00:56:34.43,atoms and their properties that\n 
+Dialogue: 00:56:34.43,00:56:36.76,atoms and their properties that\ndetermine how the physical matter looks
+Dialogue: 00:56:36.76,00:56:36.77,determine how the physical matter looks\n 
+Dialogue: 00:56:36.77,00:56:40.54,determine how the physical matter looks\nand behaves and react has taught me
+Dialogue: 00:56:40.54,00:56:40.55,and behaves and react has taught me\n 
+Dialogue: 00:56:40.55,00:56:42.82,and behaves and react has taught me\nsomething similar that you can take a
+Dialogue: 00:56:42.82,00:56:42.83,something similar that you can take a\n 
+Dialogue: 00:56:42.83,00:56:45.82,something similar that you can take a\nuser interface and you can split it into
+Dialogue: 00:56:45.82,00:56:45.83,user interface and you can split it into\n 
+Dialogue: 00:56:45.83,00:56:47.92,user interface and you can split it into\nthese independent units called
+Dialogue: 00:56:47.92,00:56:47.93,these independent units called\n 
+Dialogue: 00:56:47.93,00:56:51.13,these independent units called\ncomponents and it's the types and
+Dialogue: 00:56:51.13,00:56:51.14,components and it's the types and\n 
+Dialogue: 00:56:51.14,00:56:53.23,components and it's the types and\nproperties of these components that can
+Dialogue: 00:56:53.23,00:56:53.24,properties of these components that can\n 
+Dialogue: 00:56:53.24,00:56:56.56,properties of these components that can\ndescribe how the user interface looks
+Dialogue: 00:56:56.56,00:56:56.57,describe how the user interface looks\n 
+Dialogue: 00:56:56.57,00:56:59.05,describe how the user interface looks\nand behaves
+Dialogue: 00:56:59.05,00:56:59.06, \n 
+Dialogue: 00:56:59.06,00:57:02.00, \nwhat's ironic though is that the word
+Dialogue: 00:57:02.00,00:57:02.01,what's ironic though is that the word\n 
+Dialogue: 00:57:02.01,00:57:02.78,what's ironic though is that the word\natom
+Dialogue: 00:57:02.78,00:57:02.79,atom\n 
+Dialogue: 00:57:02.79,00:57:07.58,atom\nit literally means indivisible so when
+Dialogue: 00:57:07.58,00:57:07.59,it literally means indivisible so when\n 
+Dialogue: 00:57:07.59,00:57:09.38,it literally means indivisible so when\nscientists just discovered atom for the
+Dialogue: 00:57:09.38,00:57:09.39,scientists just discovered atom for the\n 
+Dialogue: 00:57:09.39,00:57:10.82,scientists just discovered atom for the\nfirst time they thought this is the
+Dialogue: 00:57:10.82,00:57:10.83,first time they thought this is the\n 
+Dialogue: 00:57:10.83,00:57:14.48,first time they thought this is the\nsmallest thing we're gonna find but
+Dialogue: 00:57:14.48,00:57:14.49,smallest thing we're gonna find but\n 
+Dialogue: 00:57:14.49,00:57:17.45,smallest thing we're gonna find but\nlater they discovered an electron which
+Dialogue: 00:57:17.45,00:57:17.46,later they discovered an electron which\n 
+Dialogue: 00:57:17.46,00:57:19.37,later they discovered an electron which\nis a smaller particle inside the atom
+Dialogue: 00:57:19.37,00:57:19.38,is a smaller particle inside the atom\n 
+Dialogue: 00:57:19.38,00:57:21.38,is a smaller particle inside the atom\nand it turned out that actually
+Dialogue: 00:57:21.38,00:57:21.39,and it turned out that actually\n 
+Dialogue: 00:57:21.39,00:57:24.92,and it turned out that actually\nelectrons explain a lot about how atoms
+Dialogue: 00:57:24.92,00:57:24.93,electrons explain a lot about how atoms\n 
+Dialogue: 00:57:24.93,00:57:28.46,electrons explain a lot about how atoms\nwork and I kind of feel the same way
+Dialogue: 00:57:28.46,00:57:28.47,work and I kind of feel the same way\n 
+Dialogue: 00:57:28.47,00:57:32.03,work and I kind of feel the same way\nabout hooks I don't feel like hooks are
+Dialogue: 00:57:32.03,00:57:32.04,about hooks I don't feel like hooks are\n 
+Dialogue: 00:57:32.04,00:57:35.90,about hooks I don't feel like hooks are\na new feature rather I feel that hooks
+Dialogue: 00:57:35.90,00:57:35.91,a new feature rather I feel that hooks\n 
+Dialogue: 00:57:35.91,00:57:39.02,a new feature rather I feel that hooks\nprovide me with access to react features
+Dialogue: 00:57:39.02,00:57:39.03,provide me with access to react features\n 
+Dialogue: 00:57:39.03,00:57:41.18,provide me with access to react features\nthat I already know such as state and
+Dialogue: 00:57:41.18,00:57:41.19,that I already know such as state and\n 
+Dialogue: 00:57:41.19,00:57:47.17,that I already know such as state and\ncontext and life cycle and I feel like
+Dialogue: 00:57:47.17,00:57:47.18,context and life cycle and I feel like\n 
+Dialogue: 00:57:47.18,00:57:51.23,context and life cycle and I feel like\nhooks are a more direct representation
+Dialogue: 00:57:51.23,00:57:51.24,hooks are a more direct representation\n 
+Dialogue: 00:57:51.24,00:57:55.04,hooks are a more direct representation\nof react and that they really explain
+Dialogue: 00:57:55.04,00:57:55.05,of react and that they really explain\n 
+Dialogue: 00:57:55.05,00:57:59.63,of react and that they really explain\nhow a component works inside and I feel
+Dialogue: 00:57:59.63,00:57:59.64,how a component works inside and I feel\n 
+Dialogue: 00:57:59.64,00:58:01.37,how a component works inside and I feel\nlike they've been hiding in plain sight
+Dialogue: 00:58:01.37,00:58:01.38,like they've been hiding in plain sight\n 
+Dialogue: 00:58:01.38,00:58:05.36,like they've been hiding in plain sight\nfor four years and in fact if you look
+Dialogue: 00:58:05.36,00:58:05.37,for four years and in fact if you look\n 
+Dialogue: 00:58:05.37,00:58:07.70,for four years and in fact if you look\nat the react logo you can see those
+Dialogue: 00:58:07.70,00:58:07.71,at the react logo you can see those\n 
+Dialogue: 00:58:07.71,00:58:10.91,at the react logo you can see those\nelectron orbits there so maybe hooks
+Dialogue: 00:58:10.91,00:58:10.92,electron orbits there so maybe hooks\n 
+Dialogue: 00:58:10.92,00:58:15.37,electron orbits there so maybe hooks\nhave been there all along thank you
+Dialogue: 00:58:15.37,00:58:15.38,have been there all along thank you\n 
+Dialogue: 00:58:15.38,00:58:21.39,have been there all along thank you\n[Applause]
